@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (C) 2018 Armin Shalchian
+  ~
+  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  -->
+
+<!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- Provide a list of wallpapers -->
+    <string-array name="wallpapers">
+        <item></item>
+    </string-array>
+    <!-- This wallpaper will be used when a user applies the theme -->
+    <string name="default_wallpaper"></string>
+</resources>

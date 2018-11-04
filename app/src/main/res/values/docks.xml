@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (C) 2018 Armin Shalchian
+  ~
+  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="dock_backgroundlist">
+        <item>dock_a</item>
+        <item>dock_b</item>
+    </string-array>
+
+</resources>

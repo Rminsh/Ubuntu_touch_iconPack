@@ -1,0 +1,25 @@
+/*
+ * Copyright (C) 2018 Armin Shalchian
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+ */
+
+ext.versions = [
+        // Projects
+        minSdk    : 16,
+        targetSdk : 28,
+        buildTools: '28.0.3',
+        // Gradle Plugins
+        gradle    : '3.2.0',
+        kotlin    : '1.2.71',
+        // Dependencies
+        oneSignal : '3.10.1'
+]
+
+ext.gradlePlugins = [
+        android: 'com.android.tools.build:gradle:' + versions.gradle,
+        kotlin : 'org.jetbrains.kotlin:kotlin-gradle-plugin:' + versions.kotlin,
+        libs   : 'com.github.dcendents:android-maven-gradle-plugin:' + versions.libs
+]
+

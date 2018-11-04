@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2018 Armin Shalchian
+  ~
+  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  -->
+
+<theme>
+    <version>1.0</version>
+    <themeName>Ubuntu touch icons</themeName>
+    <themeInfo>Ubuntu touch icons for your launcher. Free and open source.
+    </themeInfo>
+    <preview img1="preview_1" />
+    <preview img2="preview_1" />
+</theme>

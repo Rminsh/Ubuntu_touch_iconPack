@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2018 Armin Shalchian
+  ~
+  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  -->
+<resources>
+    <!-- Launcher Activity Name
+    if the activity is:
+    com.packagename.appname.Activity
+    then write Activity
+    -->
+    <string name="main_activity_name">MainActivity</string>
+    <string name="main_activity_fullname">co.aseman.ubuntuTouchIcons.MainActivity</string>
+
+    <!--    These arrays are for the list of apps or links in main section. -->
+    <string-array name="home_list_titles">
+        <!--<item>IconShowcase</item>-->
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <!--<item>It is the old version of this awesome dashboard</item>-->
+    </string-array>
+    <string-array name="home_list_icons">
+        <!--<item>ic_na_launcher</item>-->
+    </string-array>
+    <string-array name="home_list_links">
+        <!--<item>https://github.com/jahirfiquitiva/Blueprint</item>-->
+    </string-array>
+</resources>
