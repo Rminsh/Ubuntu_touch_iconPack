@@ -7,144 +7,142 @@
   -->
 
 <resources>
-    <version>1</version>
-
     <category title="All" />
-    <item>adobe_scan</item>
-    <item>airdroid</item>
-    <item>amazon_store</item>
-    <item>apex_launcher</item>
-    <item>app_logo</item>
-    <item>aviary</item>
-    <item>battery</item>
-    <item>bazaar</item>
-    <item>bitwarden</item>
-    <item>books</item>
-    <item>browser</item>
-    <item>calculator</item>
-    <item>calendar</item>
-    <item>camera</item>
-    <item>camera_connect</item>
-    <item>camscanner</item>
-    <item>chrome_canary</item>
-    <item>clock</item>
-    <item>clock_white</item>
-    <item>code</item>
-    <item>crashy_cats</item>
-    <item>digikala</item>
-    <item>disney_gif</item>
-    <item>download</item>
-    <item>drawer_header</item>
-    <item>dropbox</item>
-    <item>dune</item>
-    <item>eight_puzzle</item>
-    <item>email</item>
-    <item>evie_launcher</item>
-    <item>f_droid</item>
-    <item>file_manager</item>
-    <item>file_manager_orange</item>
-    <item>find_my_device</item>
-    <item>firefox</item>
-    <item>fitbit</item>
-    <item>flipflop</item>
-    <item>follower_analyzer</item>
-    <item>foursquare</item>
-    <item>gallery</item>
-    <item>games</item>
-    <item>gardeshgari_mbanking</item>
-    <item>gif_search</item>
-    <item>giphy</item>
-    <item>glim</item>
-    <item>gmail</item>
-    <item>google</item>
-    <item>google_chrome</item>
-    <item>google_drive</item>
-    <item>google_opinion_rewards</item>
-    <item>google_play_store</item>
-    <item>google_playbook</item>
-    <item>google_voice</item>
-    <item>hangouts</item>
-    <item>health</item>
-    <item>hill_climb_racing_2</item>
-    <item>imo</item>
-    <item>instagram</item>
-    <item>juicessh</item>
-    <item>kde_connect</item>
-    <item>keyboard</item>
-    <item>kickstarter</item>
-    <item>knife_fruit</item>
-    <item>linkedin</item>
-    <item>localcast</item>
-    <item>lucky_patcher</item>
-    <item>madbarz</item>
-    <item>magisk_manager</item>
-    <item>maps</item>
-    <item>medium</item>
-    <item>meikade</item>
-    <item>memrise</item>
-    <item>messages</item>
-    <item>mi_remote</item>
-    <item>monument_valley</item>
-    <item>movie_maker</item>
-    <item>msexcel</item>
-    <item>mspowerpoint</item>
-    <item>msword</item>
-    <item>music</item>
-    <item>network</item>
-    <item>news</item>
-    <item>notes</item>
-    <item>odyssey</item>
-    <item>orbot</item>
-    <item>packet_capture</item>
-    <item>packet_tracer_mobile</item>
-    <item>pasargad_mpayment</item>
-    <item>pdf</item>
-    <item>people</item>
-    <item>phone</item>
-    <item>photoshop_express</item>
-    <item>picsart</item>
-    <item>pinterest</item>
-    <item>plus_messenger</item>
-    <item>py</item>
-    <item>reddit</item>
-    <item>rhythmbox</item>
-    <item>s_voice</item>
-    <item>samanak</item>
-    <item>samsung_level</item>
-    <item>screen_recorder</item>
-    <item>settings</item>
-    <item>shadowsocks</item>
-    <item>shams</item>
-    <item>shazam</item>
-    <item>sidesync</item>
-    <item>sim_toolkit</item>
-    <item>skype</item>
-    <item>smart_things</item>
-    <item>smashy_road_wanted</item>
-    <item>sms_backup_restore</item>
-    <item>snapp</item>
-    <item>snappfood</item>
-    <item>software_center</item>
-    <item>sololearn</item>
-    <item>spotify</item>
-    <item>tap30</item>
-    <item>tasks</item>
-    <item>tehran_metro</item>
-    <item>telegram</item>
-    <item>terminal</item>
-    <item>themes</item>
-    <item>translate</item>
-    <item>trello</item>
-    <item>truecaller</item>
-    <item>twitch</item>
-    <item>twitter</item>
-    <item>udemy</item>
-    <item>video</item>
-    <item>voice_recorder</item>
-    <item>wallpaper</item>
-    <item>waze</item>
-    <item>weather</item>
-    <item>wepod</item>
-    <item>whatsapp</item>
-    <item>youtube</item>
+    <item drawable="adobe_scan"/>
+    <item drawable="airdroid"/>
+    <item drawable="amazon_store"/>
+    <item drawable="apex_launcher"/>
+    <item drawable="app_logo"/>
+    <item drawable="aviary"/>
+    <item drawable="battery"/>
+    <item drawable="bazaar"/>
+    <item drawable="bitwarden"/>
+    <item drawable="books"/>
+    <item drawable="browser"/>
+    <item drawable="calculator"/>
+    <item drawable="calendar"/>
+    <item drawable="camera"/>
+    <item drawable="camera_connect"/>
+    <item drawable="camscanner"/>
+    <item drawable="chrome_canary"/>
+    <item drawable="clock"/>
+    <item drawable="clock_white"/>
+    <item drawable="code"/>
+    <item drawable="crashy_cats"/>
+    <item drawable="digikala"/>
+    <item drawable="disney_gif"/>
+    <item drawable="download"/>
+    <item drawable="drawer_header"/>
+    <item drawable="dropbox"/>
+    <item drawable="dune"/>
+    <item drawable="eight_puzzle"/>
+    <item drawable="email"/>
+    <item drawable="evie_launcher"/>
+    <item drawable="f_droid"/>
+    <item drawable="file_manager"/>
+    <item drawable="file_manager_orange"/>
+    <item drawable="find_my_device"/>
+    <item drawable="firefox"/>
+    <item drawable="fitbit"/>
+    <item drawable="flipflop"/>
+    <item drawable="follower_analyzer"/>
+    <item drawable="foursquare"/>
+    <item drawable="gallery"/>
+    <item drawable="games"/>
+    <item drawable="gardeshgari_mbanking"/>
+    <item drawable="gif_search"/>
+    <item drawable="giphy"/>
+    <item drawable="glim"/>
+    <item drawable="gmail"/>
+    <item drawable="google"/>
+    <item drawable="google_chrome"/>
+    <item drawable="google_drive"/>
+    <item drawable="google_opinion_rewards"/>
+    <item drawable="google_play_store"/>
+    <item drawable="google_playbook"/>
+    <item drawable="google_voice"/>
+    <item drawable="hangouts"/>
+    <item drawable="health"/>
+    <item drawable="hill_climb_racing_2"/>
+    <item drawable="imo"/>
+    <item drawable="instagram"/>
+    <item drawable="juicessh"/>
+    <item drawable="kde_connect"/>
+    <item drawable="keyboard"/>
+    <item drawable="kickstarter"/>
+    <item drawable="knife_fruit"/>
+    <item drawable="linkedin"/>
+    <item drawable="localcast"/>
+    <item drawable="lucky_patcher"/>
+    <item drawable="madbarz"/>
+    <item drawable="magisk_manager"/>
+    <item drawable="maps"/>
+    <item drawable="medium"/>
+    <item drawable="meikade"/>
+    <item drawable="memrise"/>
+    <item drawable="messages"/>
+    <item drawable="mi_remote"/>
+    <item drawable="monument_valley"/>
+    <item drawable="movie_maker"/>
+    <item drawable="msexcel"/>
+    <item drawable="mspowerpoint"/>
+    <item drawable="msword"/>
+    <item drawable="music"/>
+    <item drawable="network"/>
+    <item drawable="news"/>
+    <item drawable="notes"/>
+    <item drawable="odyssey"/>
+    <item drawable="orbot"/>
+    <item drawable="packet_capture"/>
+    <item drawable="packet_tracer_mobile"/>
+    <item drawable="pasargad_mpayment"/>
+    <item drawable="pdf"/>
+    <item drawable="people"/>
+    <item drawable="phone"/>
+    <item drawable="photoshop_express"/>
+    <item drawable="picsart"/>
+    <item drawable="pinterest"/>
+    <item drawable="plus_messenger"/>
+    <item drawable="py"/>
+    <item drawable="reddit"/>
+    <item drawable="rhythmbox"/>
+    <item drawable="s_voice"/>
+    <item drawable="samanak"/>
+    <item drawable="samsung_level"/>
+    <item drawable="screen_recorder"/>
+    <item drawable="settings"/>
+    <item drawable="shadowsocks"/>
+    <item drawable="shams"/>
+    <item drawable="shazam"/>
+    <item drawable="sidesync"/>
+    <item drawable="sim_toolkit"/>
+    <item drawable="skype"/>
+    <item drawable="smart_things"/>
+    <item drawable="smashy_road_wanted"/>
+    <item drawable="sms_backup_restore"/>
+    <item drawable="snapp"/>
+    <item drawable="snappfood"/>
+    <item drawable="software_center"/>
+    <item drawable="sololearn"/>
+    <item drawable="spotify"/>
+    <item drawable="tap30"/>
+    <item drawable="tasks"/>
+    <item drawable="tehran_metro"/>
+    <item drawable="telegram"/>
+    <item drawable="terminal"/>
+    <item drawable="themes"/>
+    <item drawable="translate"/>
+    <item drawable="trello"/>
+    <item drawable="truecaller"/>
+    <item drawable="twitch"/>
+    <item drawable="twitter"/>
+    <item drawable="udemy"/>
+    <item drawable="video"/>
+    <item drawable="voice_recorder"/>
+    <item drawable="wallpaper"/>
+    <item drawable="waze"/>
+    <item drawable="weather"/>
+    <item drawable="wepod"/>
+    <item drawable="whatsapp"/>
+    <item drawable="youtube"/>
 </resources>

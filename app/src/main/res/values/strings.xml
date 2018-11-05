@@ -26,4 +26,19 @@
 
     <!-- Terms and Conditions link or url -->
     <string name="terms_conditions_link">""</string>
+
+    <!-- Basic theme information -->
+    <string name="theme_title">Ubuntu Touch</string>
+    <string name="developer_name">Armin Shalchian</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">http://aseman.co/en</string>
+    <string name="theme_description">"Ubuntu touch Icon Pack.\n\nThis icon pack intends to make your device's launcher more intuitive and beautiful and look similar to ubuntu touch os. It is free and will always be. \n\nEmail: armin536@gmail.com"</string>
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">preview_artboard</string>
+
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1">preview_1</string>
+    <string name="theme_preview2">preview_2</string>
+    <string name="theme_preview3">preview_3</string>
 </resources>
