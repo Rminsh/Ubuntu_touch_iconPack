@@ -159,3 +159,6 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+#google play services
+app/google-services.json

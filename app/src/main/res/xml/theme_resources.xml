@@ -763,4 +763,33 @@
     <!-- Wallpaper -->
     <AppIcon name="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" image="wallpaper"/>
 
+    <!-- neutriNote -->
+    <AppIcon
+        name="com.appmindlab.nano/com.appmindlab.nano.IntroActivity"
+        image="neutrinote"/>
+
+    <!-- XDA_Labs -->
+    <AppIcon
+        name="com.xda.labs/com.xda.labs.LabsLauncher"
+        image="xda_labs"/>
+
+    <!-- SuperSU -->
+    <AppIcon
+        name="eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
+        image="supersu"/>
+
+    <!-- NetGuard -->
+    <AppIcon
+        name="eu.faircode.netguard/eu.faircode.netguard.ActivityMain"
+        image="netguard"/>
+
+    <!-- Music -->
+    <AppIcon
+        name="com.maxfour.music/com.maxfour.music.ui.activities.MainActivity"
+        image="music"/>
+
+    <!-- MiXplorer -->
+    <AppIcon
+        name="com.mixplorer/com.mixplorer.activities.BrowseActivity"
+        image="file_manager"/>
 </Theme>

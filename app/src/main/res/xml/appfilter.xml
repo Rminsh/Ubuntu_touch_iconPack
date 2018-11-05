@@ -196,6 +196,7 @@
     <item component="ComponentInfo{com.wingtech.filemanager/com.wingtech.filemanager.MainActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.generalmobile.app.gmfilemanager/com.generalmobile.app.gmfilemanager.splash.SplashActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="file_manager"/>
 
     <!-- Find_My_Device -->
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="find_my_device"/>
@@ -417,6 +418,7 @@
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music"/>
+    <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="music"/>
 
     <!-- Orbot -->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot"/>
@@ -545,5 +547,17 @@
 
     <!-- Wallpaper -->
     <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="wallpaper"/>
+
+    <!-- neutriNote -->
+    <item component="ComponentInfo{com.appmindlab.nano/com.appmindlab.nano.IntroActivity}" drawable="neutrinote"/>
+
+    <!-- XDA_Labs -->
+    <item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xda_labs"/>
+
+    <!-- SuperSU -->
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu"/>
+
+    <!-- NetGuard -->
+    <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard"/>
 
 </resources>

@@ -755,4 +755,33 @@
     <!-- Wallpaper -->
     <item class="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" name="wallpaper"/>
 
+    <!-- neutriNote -->
+    <item
+        class="com.appmindlab.nano.IntroActivity"
+        name="neutrinote"/>
+
+    <!-- XDA_Labs -->
+    <item
+        class="com.xda.labs.LabsLauncher"
+        name="xda_labs"/>
+
+    <!-- SuperSU -->
+    <item
+        class="eu.chainfire.supersu.MainActivity-Material"
+        name="supersu"/>
+
+    <!-- NetGuard -->
+    <item
+        class="eu.faircode.netguard.ActivityMain"
+        name="netguard"/>
+
+    <!-- Music -->
+    <item
+        class="com.maxfour.music.ui.activities.MainActivity"
+        name="music"/>
+
+    <!-- MiXplorer -->
+    <item
+        class="com.mixplorer.activities.BrowseActivity"
+        name="file_manager"/>
 </appmap>

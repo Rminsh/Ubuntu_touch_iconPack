@@ -7,6 +7,7 @@
   -->
 
 <resources>
-    <version title="v0.1.4" />
-    <item text="Initial Beta Release" />
+    <version title="v0.1.5" />
+    <item text="Added Some icons" />
+    <item text="Thanks to Clair Cadiny" />
 </resources>
