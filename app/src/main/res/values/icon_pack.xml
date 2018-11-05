@@ -40,6 +40,16 @@
         <item>msexcel</item>
         <item>mspowerpoint</item>
         <item>msword</item>
+        <item>supersu</item>
+        <item>netguard</item>
+        <item>xda_labs</item>
+        <item>neutrinote</item>
+        <item>mindly</item>
+        <item>remote</item>
+        <item>dots</item>
+        <item>slideshare</item>
+        <item>speedtest</item>
+        <item>translate_fa</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -192,6 +202,16 @@
         <item>wepod</item>
         <item>whatsapp</item>
         <item>youtube</item>
+        <item>supersu</item>
+        <item>netguard</item>
+        <item>xda_labs</item>
+        <item>neutrinote</item>
+        <item>mindly</item>
+        <item>remote</item>
+        <item>dots</item>
+        <item>slideshare</item>
+        <item>speedtest</item>
+        <item>translate_fa</item>
     </string-array>
 
     <string-array name="google">
@@ -238,10 +258,6 @@
         <item>terminal</item>
         <item>video</item>
         <item>weather</item>
-        <item>supersu</item>
-        <item>netguard</item>
-        <item>xda_labs</item>
-        <item>neutrinote</item>
     </string-array>
 
 </resources>

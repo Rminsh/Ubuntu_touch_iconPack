@@ -12,6 +12,10 @@
     <!-- Adobe_Scan -->
     <item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobe_scan"/>
 
+    <!-- PDF -->
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="pdf"/>
+    <item component="ComponentInfo{udk.android.reader/udk.android.reader.ApplicationActivity}" drawable="pdf"/>
+
     <!-- AirDroid -->
     <item component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}" drawable="airdroid"/>
 
@@ -90,6 +94,7 @@
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar"/>
 
     <!-- Camera_Connect -->
     <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect"/>
@@ -121,6 +126,7 @@
 
     <!-- CamScanner -->
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner"/>
 
     <!-- Clock -->
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
@@ -136,6 +142,8 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock"/>
     <item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="clock"/>
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="clock"/>
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="clock"/>
 
     <!-- Code -->
     <item component="ComponentInfo{in.sumeetlubal.aweandroid.aweandroid/in.sumeetlubal.aweandroid.aweandroid.hp.MainActivity}" drawable="code"/>
@@ -149,6 +157,9 @@
 
     <!-- Disney_Gif -->
     <item component="ComponentInfo{com.disney.disneygif_goo/com.disney.disneygif_goo.activity.LaunchActivity}" drawable="disney_gif"/>
+
+    <!-- Dots -->
+    <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.apportable.activity.VerdeActivity}" drawable="dots"/>
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
@@ -197,6 +208,8 @@
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.generalmobile.app.gmfilemanager/com.generalmobile.app.gmfilemanager.splash.SplashActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="file_manager"/>
 
     <!-- Find_My_Device -->
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="find_my_device"/>
@@ -220,6 +233,8 @@
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="gallery"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>
@@ -237,8 +252,13 @@
     <!-- Google_Opinion_Rewards -->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards"/>
 
-    <!-- Google_Play_Newsstand -->
+    <!-- Help -->
+    <item component="ComponentInfo{com.samsung.helphub/com.samsung.helphub.HelpHubActivity}" drawable="help"/>
+
+    <!-- News -->
     <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="news"/>
+    <item component="ComponentInfo{sstream.app/sstream.app.activities.StreamActivity}" drawable="news"/>
+    <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="news"/>
 
     <!-- Hangouts -->
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts"/>
@@ -255,6 +275,9 @@
     <!-- Knife_Fruit -->
     <item component="ComponentInfo{com.orangenose.knifefruit/com.unity3d.player.UnityPlayerActivity}" drawable="knife_fruit"/>
 
+    <!-- Lantern -->
+    <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern"/>
+
     <!-- LinkedIn -->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
 
@@ -270,8 +293,8 @@
     <!-- Memrise -->
     <item component="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}" drawable="memrise"/>
 
-    <!-- Mi_Remote -->
-    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote"/>
+    <!-- Mindly -->
+    <item component="ComponentInfo{com.dripgrind.mindly/com.dripgrind.mindly.highlights.MainActivity}" drawable="mindly"/>
 
     <!-- Monument_Valley -->
     <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity}" drawable="monument_valley"/>
@@ -308,6 +331,7 @@
 
     <!-- S_Voice -->
     <item component="ComponentInfo{com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity}" drawable="s_voice"/>
+    <item component="ComponentInfo{com.vlingo.midas/com.vlingo.midas.gui.ConversationActivity}" drawable="s_voice"/>
 
     <!-- Samsung_Health -->
     <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="health"/>
@@ -342,12 +366,14 @@
     <!-- WePod -->
     <item component="ComponentInfo{com.dotin.socialApplication/com.dotin.socialApplication.activities.StartActivity}" drawable="wepod"/>
 
-    <!-- شمس -->
+    <!-- shams -->
     <item component="ComponentInfo{ir.lydia.shams/chiko.shams.SplashScreen}" drawable="shams"/>
+    <item component="ComponentInfo{chiko.shams/chiko.shams.SplashScreen}" drawable="shams"/>
 
     <!-- Audio_Recorder -->
     <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="voice_recorder"/>
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="voice_recorder"/>
+    <item component="ComponentInfo{com.digipom.easyvoicerecorder.pro/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}" drawable="voice_recorder"/>
 
     <!-- GIPHY -->
     <item component="ComponentInfo{com.giphy.messenger/com.giphy.messenger.app.MainActivity}" drawable="giphy"/>
@@ -376,7 +402,11 @@
     <!-- Google -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google"/>
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_voice"/>
-    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" drawable="google_search"/>
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" drawable="google"/>
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}" drawable="google_voice"/>
+
+    <!-- Google Plus-->
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="google_plus"/>
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
@@ -405,20 +435,28 @@
     <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="messages"/>
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
 
     <!-- Memo -->
     <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="notes"/>
+    <item component="ComponentInfo{com.sec.android.quickmemo/com.sec.android.quickmemo.ui.MemoList}" drawable="notes"/>
+    <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="tasks"/>
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="tasks"/>
+    <item component="ComponentInfo{com.infraware.polarisoffice5tablet/com.infraware.splash.SplashActivity}" drawable="tasks"/>
 
     <!-- Movie Maker -->
     <item component="ComponentInfo{com.sec.android.app.vefull/com.sec.android.app.vefull.activity.ProjectListActivity}" drawable="movie_maker"/>
+    <item component="ComponentInfo{com.sec.android.app.ve/com.sec.android.app.ve.activity.ProjectListActivity}" drawable="movie_maker"/>
 
     <!-- Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music"/>
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="music"/>
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="rhythmbox"/>
+    <item component="ComponentInfo{com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music"/>
     <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="music"/>
+    <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music"/>
 
     <!-- Orbot -->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot"/>
@@ -444,6 +482,11 @@
     <item component="ComponentInfo{com.android.phone/com.android.phone.dualsim.SmartCallActivity}" drawable="phone"/>
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" drawable="phone"/>
+
+    <!-- Smart_Remote -->
+    <item component="ComponentInfo{com.peel.app/com.peel.app.Home}" drawable="remote"/>
+    <item component="ComponentInfo{tv.peel.samsung.app/com.peel.main.Main}" drawable="remote"/>
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="remote"/>
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
@@ -477,6 +520,7 @@
 
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
+    <item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
 
     <!-- Snapp -->
     <item component="ComponentInfo{cab.snapp.passenger/newapp.com.taxiyaab.taxiyaab.PassengerSplashScreen}" drawable="snapp" />
@@ -508,6 +552,19 @@
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
 
+    <!-- Scrapbook -->
+    <item component="ComponentInfo{com.samsung.android.app.pinboard/com.samsung.android.app.pinboard.ui.PinboardActivity}" drawable="gallery"/>
+
+    <!-- SlideShare -->
+    <item component="ComponentInfo{net.slideshare.mobile/net.slideshare.mobile.ui.SplashActivity}" drawable="slideshare"/>
+
+    <!-- Sketch -->
+    <item component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}" drawable="sketch"/>
+    <item component="ComponentInfo{com.adsk.sketchbookhd.galaxy.oem/com.adsk.sketchbook.SketchBook}" drawable="sketch"/>
+
+    <!-- Speedtest -->
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest"/>
+
     <!-- Stores -->
     <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="software_center" />
 
@@ -515,7 +572,7 @@
     <item component="ComponentInfo{taxi.tap30.passenger/taxi.tap30.passenger.ui.RootActivity}" drawable="tap30" />
 
     <!-- Tasks -->
-    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="tasks" />
+    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="todo" />
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
@@ -533,6 +590,8 @@
 
     <!-- Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="translate"/>
+    <item component="ComponentInfo{fast.dic.dict/fast.dic.dict.SplashActivity}" drawable="translate_fa"/>
+    <item component="ComponentInfo{com.sec.android.app.translator/com.sec.android.app.translator.MainActivity}" drawable="translate"/>
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
@@ -544,6 +603,8 @@
     <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="video"/>
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="video"/>
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="video"/>
+    <item component="ComponentInfo{com.samsung.everglades.video/com.samsung.everglades.video.VideoMain}" drawable="video"/>
+    <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.IntroActivity}" drawable="video"/>
 
     <!-- Wallpaper -->
     <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="wallpaper"/>

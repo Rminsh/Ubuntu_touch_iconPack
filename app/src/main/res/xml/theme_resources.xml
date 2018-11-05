@@ -535,7 +535,7 @@
     <!-- Google -->
     <AppIcon name="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" image="google"/>
     <AppIcon name="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" image="google_voice"/>
-    <AppIcon name="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" image="google_search"/>
+    <AppIcon name="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" image="google"/>
 
     <!-- Instagram -->
     <AppIcon name="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" image="instagram"/>
@@ -792,4 +792,49 @@
     <AppIcon
         name="com.mixplorer/com.mixplorer.activities.BrowseActivity"
         image="file_manager"/>
+
+    <!-- Google plus -->
+    <AppIcon
+        name="com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity"
+        image="google_plus"/>
+
+    <!-- Peel_Smart_Remote -->
+    <AppIcon
+        name="com.peel.app/com.peel.app.Home"
+        image="remote"/>
+
+    <!-- POLARIS_Office_5 -->
+    <AppIcon
+        name="com.infraware.polarisoffice5tablet/com.infraware.splash.SplashActivity"
+        image="tasks"/>
+
+    <!-- Sketch -->
+    <AppIcon
+        name="com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity"
+        image="sketch"/>
+
+    <!-- Samsung_WatchON -->
+    <AppIcon
+        name="tv.peel.samsung.app/com.peel.main.Main"
+        image="remote"/>
+
+    <!-- SlideShare -->
+    <AppIcon
+        name="net.slideshare.mobile/net.slideshare.mobile.ui.SplashActivity"
+        image="slideshare"/>
+
+    <!-- SketchBook_for_Galaxy -->
+    <AppIcon
+        name="com.adsk.sketchbookhd.galaxy.oem/com.adsk.sketchbook.SketchBook"
+        image="sketch"/>
+
+    <!-- dots -->
+    <AppIcon
+        name="com.nerdyoctopus.gamedots/com.apportable.activity.VerdeActivity"
+        image="dots"/>
+
+    <!-- Speedtest -->
+    <AppIcon
+        name="org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity"
+        image="speedtest"/>
 </Theme>

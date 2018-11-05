@@ -145,4 +145,10 @@
     <item drawable="wepod"/>
     <item drawable="whatsapp"/>
     <item drawable="youtube"/>
+    <item drawable="mindly"/>
+    <item drawable="remote"/>
+    <item drawable="dots"/>
+    <item drawable="slideshare"/>
+    <item drawable="speedtest"/>
+    <item drawable="translate_fa"/>
 </resources>

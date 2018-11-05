@@ -7,7 +7,7 @@
   -->
 
 <resources>
-    <version title="v0.1.5" />
+    <version title="v0.1.6" />
     <item text="Added Some icons" />
-    <item text="Thanks to Clair Cadiny" />
+    <item text="Fixed custom icon select's bug 🛠 (thanks to Sergio Reyes for reporting)" />
 </resources>
