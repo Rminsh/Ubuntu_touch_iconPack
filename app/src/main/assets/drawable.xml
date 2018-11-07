@@ -32,7 +32,7 @@
     <item drawable="digikala"/>
     <item drawable="disney_gif"/>
     <item drawable="download"/>
-    <item drawable="drawer_header"/>
+    <item drawable="download_second"/>
     <item drawable="dropbox"/>
     <item drawable="dune"/>
     <item drawable="eight_puzzle"/>
@@ -145,11 +145,30 @@
     <item drawable="wepod"/>
     <item drawable="whatsapp"/>
     <item drawable="youtube"/>
-
     <item drawable="mindly"/>
     <item drawable="remote"/>
     <item drawable="dots"/>
     <item drawable="slideshare"/>
     <item drawable="speedtest"/>
     <item drawable="translate_fa"/>
+    <item drawable="alto_adventure_art"/>
+    <item drawable="alto_adventure"/>
+    <item drawable="youtube_black"/>
+    <item drawable="file_roller"/>
+    <item drawable="soundcloud"/>
+    <item drawable="picnic"/>
+    <item drawable="turbo_vpn"/>
+    <item drawable="openvpn_connect"/>
+    <item drawable="muviz"/>
+    <item drawable="vue"/>
+    <item drawable="wikipedia"/>
+    <item drawable="mi_drop"/>
+    <item drawable="mega"/>
+    <item drawable="kustom_widget"/>
+    <item drawable="firefox_nightly"/>
+    <item drawable="google_duo"/>
+    <item drawable="cpl"/>
+    <item drawable="scanner"/>
+    <item drawable="gnome_aisleriot"/>
+    <item drawable="vlc"/>
 </resources>

@@ -212,12 +212,33 @@
         <item>slideshare</item>
         <item>speedtest</item>
         <item>translate_fa</item>
+        <item>alto_adventure_art</item>
+        <item>alto_adventure</item>
+        <item>youtube_black</item>
+        <item>file_roller</item>
+        <item>soundcloud</item>
+        <item>picnic</item>
+        <item>turbo_vpn</item>
+        <item>openvpn_connect</item>
+        <item>muviz</item>
+        <item>vue</item>
+        <item>wikipedia</item>
+        <item>mi_drop</item>
+        <item>mega</item>
+        <item>kustom_widget</item>
+        <item>firefox_nightly</item>
+        <item>google_duo</item>
+        <item>cpl</item>
+        <item>scanner</item>
+        <item>gnome_aisleriot</item>
+        <item>vlc</item>
     </string-array>
 
     <string-array name="google">
         <item>gmail</item>
         <item>google_chrome</item>
         <item>google_drive</item>
+        <item>google_duo</item>
         <item>google_opinion_rewards</item>
         <item>google_play_store</item>
         <item>google_playbook</item>
