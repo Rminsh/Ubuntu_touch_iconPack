@@ -169,6 +169,7 @@
     <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar_fa"/>
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="calendar_fa"/>
+    <item component="ComponentInfo{net.jhoobin.jcalendar/net.jhoobin.jcalendar.activity.MainActivity}" drawable="calendar_fa"/>
 
     <!-- Camera_Connect -->
     <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect"/>
@@ -238,6 +239,7 @@
 
     <!-- Dots -->
     <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.apportable.activity.VerdeActivity}" drawable="dots"/>
+    <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity}" drawable="dots"/>
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
@@ -324,6 +326,16 @@
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.LauncherActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.newgallery.NewGallery}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.PermissionActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="gallery"/>
+    <item component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>
@@ -555,6 +567,7 @@
     <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="tasks"/>
     <item component="ComponentInfo{com.infraware.polarisoffice5tablet/com.infraware.splash.SplashActivity}" drawable="tasks"/>
     <item component="ComponentInfo{com.mobisystems.editor.office_registered/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="tasks"/>
+    <item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="colornote"/>
 
     <!-- Movie Maker -->
     <item component="ComponentInfo{com.sec.android.app.vefull/com.sec.android.app.vefull.activity.ProjectListActivity}" drawable="movie_maker"/>
@@ -637,6 +650,8 @@
     <!-- SIM_Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit"/>
+    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="sim_toolkit" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim_toolkit"/>
 
     <!-- Samanak -->
     <item component="ComponentInfo{com.samanpr.samanak/com.samanpr.samanak.activities.Splash}" drawable="samanak"/>
@@ -666,15 +681,31 @@
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze"/>
 
     <!-- Wallpapers -->
-    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers"/>
-    <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="wallpapers"/>
-    <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.SplashActivity}" drawable="wallpapers"/>
+    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{eu.inmite.android.vodafone.wallpaper/eu.inmite.android.vodafone.wallpaper.ui.SettingsActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.urrfam.venus.v3.v4.wallpaper/com.urrfam.venus.v3.v4.wallpaper.ana_ekran}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.KSAStudios.backgroundshdwallpapers/com.KSAStudios.backgroundshdwallpapers.activities.SplashActivity}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.aneeshpradeep.amoledwallpapers/com.aneeshpradeep.amoledwallpapers.activities.ActivitySplash}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.motion.ArchitectureWallpapers4KPRO/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.motion.artwallpaperspro/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.motion.AsianWallpapers4KPRO/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.motion.AbandonedWallpapers4KPRO/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.motion.minimalwallpaperspro/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{mobi.lockdown.wallz/mobi.appplus.oemwallpapers.MainActivity}" drawable="wallpaper"/>
 
     <!-- Weather -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="weather"/>
     <item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="weather"/>
     <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
     <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="weather"/>
+    <item component="ComponentInfo{com.samsung.android.weather/com.samsung.android.weather.app.WeatherLauncher}" drawable="weather"/>
+    <item component="ComponentInfo{com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome}" drawable="weather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.onboarding.SplashScreen}" drawable="weather" />
+    <item component="ComponentInfo{com.samruston.weather/com.samruston.weather.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="weather"/>
 
     <!-- WhatsApp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp"/>
@@ -728,10 +759,17 @@
 
     <!-- Themes -->
     <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes"/>
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="themes"/>
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity}" drawable="themes"/>
+    <item component="ComponentInfo{ru.deishelon.lab.huaweithememanager/ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="themes"/>
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
+    <item component="ComponentInfo{com.htc.launcher/com.htc.themepicker.AssetBrowsingActivity}" drawable="themes"/>
 
     <!-- Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="translate"/>
     <item component="ComponentInfo{fast.dic.dict/fast.dic.dict.SplashActivity}" drawable="translate_fa"/>
+    <item component="ComponentInfo{fast.dic.dict/fast.dic.dict.MainActivity}" drawable="translate_fa"/>
     <item component="ComponentInfo{com.sec.android.app.translator/com.sec.android.app.translator.MainActivity}" drawable="translate"/>
 
     <!-- ToolWiz_Photos -->
@@ -745,20 +783,24 @@
 
     <!-- Video -->
     <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="video"/>
+    <item component="ComponentInfo{com.samsung.android.video/com.samsung.android.video.list.activity.VideoList}" drawable="video"/>
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="video"/>
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="video"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="video" />
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="video" />
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="video"/>
     <item component="ComponentInfo{com.samsung.everglades.video/com.samsung.everglades.video.VideoMain}" drawable="video"/>
     <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.IntroActivity}" drawable="video"/>
+    <item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="video" />
+    <item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="video"/>
+    <item component="ComponentInfo{com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity}" drawable="video"/>
+    <item component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="video"/>
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc"/>
 
     <!-- VUE -->
     <item component="ComponentInfo{video.vue.android/video.vue.android.ui.launch.SplashActivity}" drawable="vue"/>
-
-    <!-- Wallpaper -->
-    <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="wallpaper"/>
 
     <!-- Wikipedia -->
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
