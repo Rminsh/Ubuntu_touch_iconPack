@@ -9,6 +9,78 @@
 
 <resources>
 
+    <!-- 500px -->
+    <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}" drawable="a_500px"/>
+
+    <!-- AllCast -->
+    <item component="ComponentInfo{com.koushikdutta.cast/com.koushikdutta.cast.StartActivity}" drawable="all_cast"/>
+
+    <!-- All_Screen -->
+    <item component="ComponentInfo{com.toxic.apps.chrome/com.toxic.apps.chrome.activities.MediaBrowserActivity}" drawable="session_properties"/>
+
+    <!-- Aparat -->
+    <item component="ComponentInfo{com.aparat/com.aparat.ui.activities.MainActivity}" drawable="aparat"/>
+
+    <!-- Aparat_Filimo -->
+    <item component="ComponentInfo{com.aparat.filimo/com.aparat.filimo.app.HomeActivity}" drawable="filimo"/>
+
+    <!-- Dolphin -->
+    <item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity}" drawable="dolphin"/>
+
+    <!-- Fidibo -->
+    <item component="ComponentInfo{com.fidibo.reader/net.nightwhistler.pageturner.SplashActivity}" drawable="fidibo"/>
+
+    <!-- FM_Radio -->
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fm_radio"/>
+
+    <!-- Flud -->
+    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="download_second"/>
+
+    <!-- Keepsafe -->
+    <item component="ComponentInfo{com.kii.safe/com.keepsafe.app.frontdoor.FrontDoorActivity}" drawable="backups"/>
+
+    <!-- Last_fm -->
+    <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
+
+    <!-- Nova_Launcher -->
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher"/>
+
+    <!-- Opera -->
+    <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera"/>
+
+    <!-- Periscope -->
+    <item component="ComponentInfo{tv.periscope.android/tv.periscope.android.LaunchActivity}" drawable="periscope"/>
+
+    <!-- TED -->
+    <item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity}" drawable="ted"/>
+
+    <!-- Telewebion -->
+    <item component="ComponentInfo{net.telewebion/net.telewebion.StartPage}" drawable="telewebion"/>
+
+    <!-- Termius -->
+    <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity}" drawable="termius"/>
+
+    <!-- Wifi_Analyzer -->
+    <item component="ComponentInfo{com.farproc.wifi.analyzer/com.farproc.wifi.analyzer.MainScreen}" drawable="wifi_analyzer"/>
+
+    <!-- WordPress -->
+    <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress"/>
+
+    <!-- Home -->
+    <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_home"/>
+
+    <!-- Google_Handwriting_Input -->
+    <item component="ComponentInfo{com.google.android.apps.handwriting.ime/com.google.android.apps.handwriting.ime.WelcomeActivity}" drawable="keyboard"/>
+
+    <!-- Hyperlapse_Mobile -->
+    <item component="ComponentInfo{com.microsoft.hyperlapsemobile/hyperlapsemobile.android.startpage}" drawable="tasks"/>
+
+    <!-- INKredible_PRO -->
+    <item component="ComponentInfo{com.viettran.INKrediblePro/com.viettran.INKredible.ui.PPageMainActivity}" drawable="inkredible_pro"/>
+
+    <!-- My_Cloud -->
+    <item component="ComponentInfo{com.wdc.mycloud/com.kamino.wdt.SplashActivity}" drawable="my_cloud"/>
+
     <!-- Adobe_Scan -->
     <item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobe_scan"/>
 
@@ -95,7 +167,8 @@
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar"/>
+    <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar_fa"/>
+    <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="calendar_fa"/>
 
     <!-- Camera_Connect -->
     <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect"/>
@@ -125,7 +198,6 @@
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera"/>
-    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.LauncherActivity}" drawable="camera"/>
 
     <!-- CamScanner -->
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
@@ -251,6 +323,7 @@
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="gallery"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.LauncherActivity}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>

@@ -65,12 +65,18 @@
     </string-array>
 
     <string-array name="all">
+        <item>a_500px</item>
         <item>adobe_scan</item>
         <item>airdroid</item>
+        <item>all_cast</item>
+        <item>alto_adventure</item>
+        <item>alto_adventure_art</item>
         <item>amazon_store</item>
+        <item>aparat</item>
         <item>apex_launcher</item>
         <item>app_logo</item>
         <item>aviary</item>
+        <item>backups</item>
         <item>battery</item>
         <item>bazaar</item>
         <item>bitwarden</item>
@@ -78,6 +84,7 @@
         <item>browser</item>
         <item>calculator</item>
         <item>calendar</item>
+        <item>calendar_fa</item>
         <item>camera</item>
         <item>camera_connect</item>
         <item>camscanner</item>
@@ -85,23 +92,31 @@
         <item>clock</item>
         <item>clock_white</item>
         <item>code</item>
+        <item>cpl</item>
         <item>crashy_cats</item>
         <item>digikala</item>
         <item>disney_gif</item>
+        <item>dolphin</item>
+        <item>dots</item>
         <item>download</item>
-        <item>drawer_header</item>
+        <item>download_second</item>
         <item>dropbox</item>
         <item>dune</item>
         <item>eight_puzzle</item>
         <item>email</item>
         <item>evie_launcher</item>
         <item>f_droid</item>
+        <item>fidibo</item>
         <item>file_manager</item>
         <item>file_manager_orange</item>
+        <item>file_roller</item>
+        <item>filimo</item>
         <item>find_my_device</item>
         <item>firefox</item>
+        <item>firefox_nightly</item>
         <item>fitbit</item>
         <item>flipflop</item>
+        <item>fm_radio</item>
         <item>follower_analyzer</item>
         <item>foursquare</item>
         <item>gallery</item>
@@ -111,16 +126,22 @@
         <item>giphy</item>
         <item>glim</item>
         <item>gmail</item>
+        <item>gnome_aisleriot</item>
         <item>google</item>
         <item>google_chrome</item>
         <item>google_drive</item>
+        <item>google_duo</item>
+        <item>google_home</item>
         <item>google_opinion_rewards</item>
         <item>google_play_store</item>
         <item>google_playbook</item>
+        <item>google_plus</item>
         <item>google_voice</item>
         <item>hangouts</item>
         <item>health</item>
+        <item>help</item>
         <item>hill_climb_racing_2</item>
+        <item>hyperlapse_mobile</item>
         <item>imo</item>
         <item>instagram</item>
         <item>juicessh</item>
@@ -128,6 +149,9 @@
         <item>keyboard</item>
         <item>kickstarter</item>
         <item>knife_fruit</item>
+        <item>kustom_widget</item>
+        <item>lantern</item>
+        <item>last_fm</item>
         <item>linkedin</item>
         <item>localcast</item>
         <item>lucky_patcher</item>
@@ -135,45 +159,63 @@
         <item>magisk_manager</item>
         <item>maps</item>
         <item>medium</item>
+        <item>mega</item>
         <item>meikade</item>
         <item>memrise</item>
         <item>messages</item>
+        <item>mi_drop</item>
         <item>mi_remote</item>
+        <item>mindly</item>
         <item>monument_valley</item>
         <item>movie_maker</item>
         <item>msexcel</item>
         <item>mspowerpoint</item>
         <item>msword</item>
         <item>music</item>
+        <item>muviz</item>
+        <item>my_cloud</item>
+        <item>netguard</item>
         <item>network</item>
+        <item>neutrinote</item>
         <item>news</item>
         <item>notes</item>
+        <item>nova_launcher</item>
         <item>odyssey</item>
+        <item>openvpn_connect</item>
+        <item>opera</item>
         <item>orbot</item>
         <item>packet_capture</item>
         <item>packet_tracer_mobile</item>
         <item>pasargad_mpayment</item>
+        <item>passwords</item>
         <item>pdf</item>
         <item>people</item>
+        <item>periscope</item>
         <item>phone</item>
         <item>photoshop_express</item>
+        <item>picnic</item>
         <item>picsart</item>
         <item>pinterest</item>
         <item>plus_messenger</item>
         <item>py</item>
         <item>reddit</item>
+        <item>remote</item>
         <item>rhythmbox</item>
         <item>s_voice</item>
         <item>samanak</item>
         <item>samsung_level</item>
+        <item>scanner</item>
         <item>screen_recorder</item>
+        <item>session_properties</item>
         <item>settings</item>
         <item>shadowsocks</item>
         <item>shams</item>
         <item>shazam</item>
         <item>sidesync</item>
         <item>sim_toolkit</item>
+        <item>sketch</item>
         <item>skype</item>
+        <item>slideshare</item>
         <item>smart_things</item>
         <item>smashy_road_wanted</item>
         <item>sms_backup_restore</item>
@@ -181,62 +223,50 @@
         <item>snappfood</item>
         <item>software_center</item>
         <item>sololearn</item>
+        <item>soundcloud</item>
+        <item>speedtest</item>
         <item>spotify</item>
+        <item>supersu</item>
+        <item>system_monitor</item>
         <item>tap30</item>
         <item>tasks</item>
+        <item>ted</item>
         <item>tehran_metro</item>
         <item>telegram</item>
+        <item>telewebion</item>
         <item>terminal</item>
+        <item>termius</item>
         <item>themes</item>
+        <item>todo</item>
         <item>translate</item>
+        <item>translate_fa</item>
         <item>trello</item>
         <item>truecaller</item>
+        <item>turbo_vpn</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>udemy</item>
         <item>video</item>
+        <item>vlc</item>
         <item>voice_recorder</item>
+        <item>vue</item>
         <item>wallpaper</item>
         <item>waze</item>
         <item>weather</item>
         <item>wepod</item>
         <item>whatsapp</item>
-        <item>youtube</item>
-        <item>supersu</item>
-        <item>netguard</item>
-        <item>xda_labs</item>
-        <item>neutrinote</item>
-        <item>mindly</item>
-        <item>remote</item>
-        <item>dots</item>
-        <item>slideshare</item>
-        <item>speedtest</item>
-        <item>translate_fa</item>
-        <item>alto_adventure_art</item>
-        <item>alto_adventure</item>
-        <item>youtube_black</item>
-        <item>file_roller</item>
-        <item>soundcloud</item>
-        <item>picnic</item>
-        <item>turbo_vpn</item>
-        <item>openvpn_connect</item>
-        <item>muviz</item>
-        <item>vue</item>
+        <item>wifi_analyzer</item>
         <item>wikipedia</item>
-        <item>mi_drop</item>
-        <item>mega</item>
-        <item>kustom_widget</item>
-        <item>firefox_nightly</item>
-        <item>google_duo</item>
-        <item>cpl</item>
-        <item>scanner</item>
-        <item>gnome_aisleriot</item>
-        <item>vlc</item>
+        <item>wordpress</item>
+        <item>xda_labs</item>
+        <item>youtube</item>
+        <item>youtube_black</item>
     </string-array>
 
     <string-array name="google">
         <item>gmail</item>
         <item>google_chrome</item>
+        <item>google_home</item>
         <item>google_drive</item>
         <item>google_duo</item>
         <item>google_opinion_rewards</item>
@@ -259,6 +289,7 @@
     </string-array>
 
     <string-array name="system">
+        <item>backups</item>
         <item>browser</item>
         <item>calculator</item>
         <item>calendar</item>
