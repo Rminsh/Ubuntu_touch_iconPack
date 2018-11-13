@@ -29,8 +29,8 @@ android {
         applicationId "co.aseman.ubuntu_touch_icons"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 5
-        versionName "0.1.7"
+        versionCode 6
+        versionName "0.1.8"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
@@ -68,7 +68,8 @@ dependencies {
         transitive = true
     }
     implementation 'com.google.firebase:firebase-core:16.0.5'
-    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.5'
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.6'
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
 }
 
 tasks.whenTaskAdded { task ->

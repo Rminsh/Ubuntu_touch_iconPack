@@ -50,6 +50,9 @@
         <item>slideshare</item>
         <item>speedtest</item>
         <item>translate_fa</item>
+        <item>slack</item>
+        <item>themes</item>
+        <item>gnome_aisleriot</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -215,6 +218,7 @@
         <item>sim_toolkit</item>
         <item>sketch</item>
         <item>skype</item>
+        <item>slack</item>
         <item>slideshare</item>
         <item>smart_things</item>
         <item>smashy_road_wanted</item>

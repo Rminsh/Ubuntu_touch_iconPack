@@ -602,6 +602,7 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="people"/>
     <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="people"/>
 
     <!-- Phone -->
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
@@ -623,6 +624,9 @@
     <item component="ComponentInfo{com.peel.app/com.peel.app.Home}" drawable="remote"/>
     <item component="ComponentInfo{tv.peel.samsung.app/com.peel.main.Main}" drawable="remote"/>
     <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="remote"/>
+
+    <!-- Slack -->
+    <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
@@ -765,6 +769,7 @@
     <item component="ComponentInfo{ru.deishelon.lab.huaweithememanager/ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="themes"/>
     <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
     <item component="ComponentInfo{com.htc.launcher/com.htc.themepicker.AssetBrowsingActivity}" drawable="themes"/>
+    <item component="ComponentInfo{project.vivid.themesamgalaxy/project.vivid.themesamgalaxy.activities.ThemeGalaxy}" drawable="themes"/>
 
     <!-- Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="translate"/>
