@@ -120,6 +120,7 @@
     <item component="ComponentInfo{com.uc.browser.en/com.uc.browser.ActivityBrowser}" drawable="browser"/>
     <item component="ComponentInfo{com.cake.browser/com.cake.browser.screen.splash.SplashActivity}" drawable="browser"/>
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser"/>
+    <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary"/>
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
@@ -154,6 +155,9 @@
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
     <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.oneplus.calculator/.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.miui.calculator/.cal.CalculatorActivity}" drawable="calculator" />
 
     <!-- Calendar -->
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
@@ -170,11 +174,32 @@
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar_fa"/>
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="calendar_fa"/>
     <item component="ComponentInfo{net.jhoobin.jcalendar/net.jhoobin.jcalendar.activity.MainActivity}" drawable="calendar_fa"/>
+    <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.htc.calendar/.CalendarActivityMain}" drawable="calendar" />
+    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
 
     <!-- Camera_Connect -->
     <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect"/>
 
     <!-- Camera -->
+    <item component="ComponentInfo{com.nextbit.camera/.ui.CameraActivity}" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera/.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.lenovo.scg/.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.lge.camera/.CameraAppLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.htc.camera2/.CameraEntry, com.htc.camera/.CameraEntry}" drawable="camera"/>
+    <item component="ComponentInfo{com.asus.camera/.CameraApp}" drawable="camera"/>
+    <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" />
+    <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
+    <item component="ComponentInfo{com.oppo.camera/.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/.CameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.oneplus.camera/.OPCameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.android.gallery/com.android.camera.GalleryPicker}" drawable="camera"/>
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera" />
@@ -195,10 +220,11 @@
     <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera"/>
-    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera/.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera/.CameraEntry}" drawable="camera"/>
 
     <!-- CamScanner -->
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
@@ -220,6 +246,17 @@
     <item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="clock"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="clock"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="clock"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.sonyericsson.organizer/.Organizer}" drawable="clock" />
+    <item component="ComponentInfo{com.android.deskclock/.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.android.deskclock/.DeskClockTabActivity}" drawable="clock" />
+    <item component="ComponentInfo{com.oppo.alarmclock/.AlarmClock}" drawable="clock" />
+    <item component="ComponentInfo{com.asus.deskclock/.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.htc.android.worldclock/.WorldClockTabControl}" drawable="clock" />
+    <item component="ComponentInfo{com.android.deskclock/.AlarmsMainActivity}" drawable="clock" />
+    <item component="ComponentInfo{com.lge.clock/.AlarmClockActivity}" drawable="clock" />
+    <item component="ComponentInfo{com.lenovo.deskclock/.DeskClock}" drawable="clock" />
+
 
     <!-- Code -->
     <item component="ComponentInfo{in.sumeetlubal.aweandroid.aweandroid/in.sumeetlubal.aweandroid.aweandroid.hp.MainActivity}" drawable="code"/>
@@ -242,6 +279,8 @@
     <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity}" drawable="dots"/>
 
     <!-- Downloads -->
+    <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="downloads" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download"/>
@@ -262,6 +301,13 @@
     <item component="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}" drawable="email"/>
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="email"/>
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="email"/>
+    <item component="ComponentInfo{com.sonymobile.email/.activity.Welcome}" drawable="email" />
+    <item component="ComponentInfo{com.android.email/.activity.Welcome}" drawable="email" />
+    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="email" />
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="email" />
+    <item component="ComponentInfo{com.htc.android.mail/.MultipleActivitiesMain}" drawable="email" />
+    <item component="ComponentInfo{com.htc.android.mail/.MailListTab}" drawable="email" />
+    <item component="ComponentInfo{com.lge.email/.ui.setupwizard.Welcome}" drawable="email" />
 
     <!-- Evie -->
     <item component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" drawable="evie_launcher"/>
@@ -270,6 +316,16 @@
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid"/>
 
     <!-- File Manager -->
+    <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="file_manager" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser/.activities.FileBrowserMain}" drawable="file_manager" />
+    <item component="ComponentInfo{com.lge.filemanager/.view.LaunchActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.huawei.hidisk/.filemanager.FileManager}" drawable="file_manager" />
+    <item component="ComponentInfo{com.htc.filemanager/.FileManagerActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.asus.filemanager/.activity.FileManagerActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.oppo.filemanager/.Main}" drawable="file_manager" />
+    <item component="ComponentInfo{com.android.fileexplorer/.FileExplorerTabActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.oneplus.filemanager/.HomePageActivity}" drawable="file_manager" />
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="file_manager"/>
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" drawable="file_manager" />
@@ -279,6 +335,7 @@
     <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.mediatek.filemanager/.FileManagerOperationActivity}" drawable="file_manager" />
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="file_manager" />
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="file_manager" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.BqLauncherActivity}" drawable="file_manager"/>
@@ -319,6 +376,19 @@
     <item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="foursquare"/>
 
     <!-- Gallery -->
+    <item component="ComponentInfo{com.htc.album/.AlbumMain.ActivityMainTabHost}" drawable="gallery" />
+    <item component="ComponentInfo{com.htc.album/com.htc.photoenhancer.LandingPage}" drawable="gallery" />
+    <item component="ComponentInfo{com.asus.gallery/.app.EPhotoActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.lenovo.gallery/.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.nextbit.gallery/.main.MainActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.oppo.gallery3d/.app.Gallery}" drawable="gallery" />
+    <item component="ComponentInfo{com.miui.gallery/.activity.HomePageActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.gallery3d/.app.Gallery}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.gallery3d/.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.sonyericsson.album/.MainActivity}" drawable="gallery" />
+    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.oneplus.gallery/.OPGalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="gallery"/>
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gallery"/>
@@ -558,8 +628,18 @@
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
+    <item component="ComponentInfo{com.sonyericsson.conversations/.ui.ConversationListActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
+    <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.android.mms/.ui.MmsTabActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.htc.sense.mms/.ui.ConversationList}" drawable="messages" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/.alias.MmsActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
 
     <!-- Memo -->
+    <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.oneplus.note/.ui.MainActivity}" drawable="notes" />
     <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="notes"/>
     <item component="ComponentInfo{com.sec.android.quickmemo/com.sec.android.quickmemo.ui.MemoList}" drawable="notes"/>
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes"/>
@@ -583,6 +663,7 @@
     <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="music"/>
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music"/>
     <item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="rhythmbox"/>
+    <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="music"/>
 
     <!-- Muviz -->
     <item component="ComponentInfo{com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity}" drawable="muviz"/>
@@ -594,6 +675,9 @@
     <item component="ComponentInfo{net.openvpn.openvpn/net.openvpn.unified.MainActivity}" drawable="openvpn_connect"/>
 
     <!-- People -->
+    <item component="ComponentInfo{com.htc.contacts/.BrowseLayerCarouselActivity}" drawable="people" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/.alias.PeopleActivity}" drawable="people" />
+    <item component="ComponentInfo{com.android.contacts/.activities.PeopleActivity}" drawable="people" />
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="people" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people" />
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="people"/>
@@ -602,9 +686,18 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="people"/>
     <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
-    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="people"/>
 
     <!-- Phone -->
+    <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.incallui/.DialerLauncher}" drawable="phone" />
+    <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/.alias.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="phone" />
+    <item component="ComponentInfo{com.android.dialer/.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.dialer/.app.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
@@ -629,6 +722,11 @@
     <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
 
     <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/.framework.activity.HtcSettings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/.MainSettings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/.HWSettings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="settings"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
@@ -770,6 +868,7 @@
     <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
     <item component="ComponentInfo{com.htc.launcher/com.htc.themepicker.AssetBrowsingActivity}" drawable="themes"/>
     <item component="ComponentInfo{project.vivid.themesamgalaxy/project.vivid.themesamgalaxy.activities.ThemeGalaxy}" drawable="themes"/>
+    <item component="ComponentInfo{project.vivid.themesamgalaxy/project.vivid.sharedthemes.activities.ThemesShowcaseActivity}" drawable="wallpaper"/>
 
     <!-- Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="translate"/>
