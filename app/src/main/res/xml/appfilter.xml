@@ -102,6 +102,9 @@
     <!-- Battery -->
     <item component="ComponentInfo{com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity}" drawable="battery"/>
 
+    <!-- Bama -->
+    <item component="ComponentInfo{com.bama.consumer/com.bama.consumer.ui.activity.NavigationDrawerActivity}" drawable="bama"/>
+
     <!-- Bazaar -->
     <item component="ComponentInfo{com.farsitel.bazaar/ir.cafebazaar.ui.home.SplashActivity}" drawable="bazaar"/>
 
@@ -352,6 +355,7 @@
     <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="file_manager"/>
     <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="file_manager"/>
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.jrummyapps.rootbrowser.classic/com.jrummy.file.manager.RootBrowserActivity}" drawable="file_manager_root"/>
 
     <!-- File Roller -->
     <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="file_roller"/>
@@ -417,6 +421,9 @@
     <!-- GIF_Search -->
     <item component="ComponentInfo{com.media.zatashima.gif/com.tenor.android.demo.search.activity.HomeTenorActivity}" drawable="gif_search"/>
 
+    <!-- Github -->
+    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="github"/>
+
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
 
@@ -426,8 +433,14 @@
     <!-- Google_Opinion_Rewards -->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards"/>
 
+    <!-- Google Play_Console -->
+    <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="google_play_console"/>
+
     <!-- Help -->
     <item component="ComponentInfo{com.samsung.helphub/com.samsung.helphub.HelpHubActivity}" drawable="help"/>
+
+    <!-- huk_kwgt -->
+    <item component="ComponentInfo{hukkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="huk_kwgt"/>
 
     <!-- Kustom_Widget -->
     <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kustom_widget"/>
@@ -512,6 +525,9 @@
 
     <!-- Plus Messenger -->
     <item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="plus_messenger"/>
+
+    <!-- POCO_Launcher -->
+    <item component="ComponentInfo{com.mi.android.globallauncher/com.miui.home.launcher.SplashActivity}" drawable="poco_launcher"/>
 
     <!-- Py -->
     <item component="ComponentInfo{com.py.learn/com.py.activities.LauncherActivity}" drawable="py"/>
@@ -846,7 +862,8 @@
 
     <!-- Tasks -->
     <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="todo" />
-    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to_do"/>
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo"/>
+    <item component="ComponentInfo{io.tinbits.memorigi/io.tinbits.memorigi.ui.activity.MainActivity}" drawable="todo"/>
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
@@ -920,5 +937,17 @@
 
     <!-- NetGuard -->
     <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard"/>
+
+    <!-- Radio_Javan -->
+    <item component="ComponentInfo{com.radiojavan.androidradio/com.radiojavan.androidradio.MainActivity}" drawable="radio_javan"/>
+
+    <!-- PhotoGrid -->
+    <item component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.SplashActivity}" drawable="photogrid"/>
+
+    <!-- Snapseed -->
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
+
+    <!-- VNC_Viewer -->
+    <item component="ComponentInfo{com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity}" drawable="vnc_viewer"/>
 
 </resources>
