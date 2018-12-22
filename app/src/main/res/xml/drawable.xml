@@ -11,6 +11,7 @@
     <item drawable="a_500px"/>
     <item drawable="adobe_scan"/>
     <item drawable="airdroid"/>
+    <item drawable="aliexpress"/>
     <item drawable="all_cast"/>
     <item drawable="alto_adventure"/>
     <item drawable="alto_adventure_art"/>
@@ -35,6 +36,8 @@
     <item drawable="clock"/>
     <item drawable="clock_white"/>
     <item drawable="code"/>
+    <item drawable="coinbase"/>
+    <item drawable="coinpayments"/>
     <item drawable="cpl"/>
     <item drawable="crashy_cats"/>
     <item drawable="digikala"/>
@@ -49,6 +52,7 @@
     <item drawable="email"/>
     <item drawable="evie_launcher"/>
     <item drawable="f_droid"/>
+    <item drawable="facebook"/>
     <item drawable="fidibo"/>
     <item drawable="file_manager"/>
     <item drawable="file_manager_orange"/>

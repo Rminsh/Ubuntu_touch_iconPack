@@ -656,6 +656,7 @@
     <!-- Memo -->
     <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="notes" />
     <item component="ComponentInfo{com.oneplus.note/.ui.MainActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}" drawable="notes"/>
     <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="notes"/>
     <item component="ComponentInfo{com.sec.android.quickmemo/com.sec.android.quickmemo.ui.MemoList}" drawable="notes"/>
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="notes"/>
@@ -733,6 +734,7 @@
     <item component="ComponentInfo{com.peel.app/com.peel.app.Home}" drawable="remote"/>
     <item component="ComponentInfo{tv.peel.samsung.app/com.peel.main.Main}" drawable="remote"/>
     <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="remote"/>
+    <item component="ComponentInfo{tv.peel.app/com.peel.main.Main}" drawable="remote"/>
 
     <!-- Slack -->
     <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
@@ -949,5 +951,17 @@
 
     <!-- VNC_Viewer -->
     <item component="ComponentInfo{com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity}" drawable="vnc_viewer"/>
+
+    <!-- AliExpress -->
+    <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress"/>
+
+    <!-- CoinPayments -->
+    <item component="ComponentInfo{net.coinpayments.coinpaymentsapp/md5fed2191417258110fdaf7bf7fe9a5948.MainActivity}" drawable="coinpayments"/>
+
+    <!-- Coinbase -->
+    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase"/>
+
+    <!-- Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
 
 </resources>
