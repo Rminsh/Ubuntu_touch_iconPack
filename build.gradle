@@ -15,14 +15,15 @@ buildscript {
         jcenter()
         mavenCentral()
         maven { url 'https://jitpack.io' }
+        maven { url "https://dl.bintray.com/drummer-aidan/maven/" }
         maven { url 'https://maven.fabric.io/public' }
     }
 
     dependencies {
         classpath gradlePlugins.android
         classpath gradlePlugins.kotlin
-        classpath 'com.google.gms:google-services:4.2.0'
-        classpath 'io.fabric.tools:gradle:1.26.1'
+        classpath gradlePlugins.gms
+        classpath gradlePlugins.fabric
     }
 }
 
@@ -32,6 +33,7 @@ allprojects {
         jcenter()
         mavenCentral()
         maven { url 'https://jitpack.io' }
+        maven { url "https://dl.bintray.com/drummer-aidan/maven/" }
         maven { url 'https://maven.google.com/' }
     }
 }

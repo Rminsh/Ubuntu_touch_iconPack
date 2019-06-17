@@ -24,7 +24,7 @@
             android:name="co.aseman.ubuntuTouchIcons.MainActivity"
             android:windowSoftInputMode="stateHidden|adjustResize|adjustPan">
 
-            <!-- TODO: Do NOT remove the intent-filter tags -->
+            <!-- Do NOT remove the intent-filter tags -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -219,7 +219,7 @@
         </activity>
 
         <provider
-            android:name="android.support.v4.content.FileProvider"
+            android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true">

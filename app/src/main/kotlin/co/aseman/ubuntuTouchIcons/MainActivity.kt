@@ -57,5 +57,4 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * If set to BuildConfig.DEBUG, the app will print the warnings only while debugging the app
      * (This is the safest option, so the apk you publish in PlayStore doesn't print them)
      */
-    override fun debug(): Boolean = BuildConfig.DEBUG
 }

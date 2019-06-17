@@ -14,7 +14,6 @@
     <!--    This one applies for Muzei too. Try not to exceed a tweet length (140 characters) -->
     <string name="app_description">Ubuntu touch icons for your launcher</string>
 
-    <!--    TODO: Change this link -->
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
     <string name="json_url">https://dl.lydia.ir/ubuntu_touch/wallpapers.json</string>
 

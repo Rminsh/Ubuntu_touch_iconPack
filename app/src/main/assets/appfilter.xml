@@ -63,6 +63,9 @@
     <!-- Wifi_Analyzer -->
     <item component="ComponentInfo{com.farproc.wifi.analyzer/com.farproc.wifi.analyzer.MainScreen}" drawable="wifi_analyzer"/>
 
+    <!-- WPSApp -->
+    <item component="ComponentInfo{com.themausoft.wpsapp/com.themausoft.wpsapp.SplashActivity}" drawable="wifi_analyzer"/>
+
     <!-- WordPress -->
     <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress"/>
 
@@ -175,6 +178,7 @@
     <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.SplashScreen}" drawable="calendar_fa"/>
+    <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.ui.MainActivity}" drawable="calendar_fa"/>
     <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="calendar_fa"/>
     <item component="ComponentInfo{net.jhoobin.jcalendar/net.jhoobin.jcalendar.activity.MainActivity}" drawable="calendar_fa"/>
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
@@ -445,11 +449,17 @@
     <!-- Kustom_Widget -->
     <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kustom_widget"/>
 
+    <!-- Mac_Remote -->
+    <item component="ComponentInfo{es.ihatetothink.remoteformac/es.ihatetothink.remoteformac.MainActivity}" drawable="finder"/>
+
     <!-- MEGA -->
     <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop}" drawable="mega"/>
 
     <!-- Mi_Drop -->
     <item component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity}" drawable="mi_drop"/>
+
+    <!-- Mi_Fit -->
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit"/>
 
     <!-- Mobile_Manager -->
     <item component="ComponentInfo{com.asus.mobilemanager/com.asus.mobilemanager.entry.FunctionActivity}" drawable="system_monitor"/>
@@ -618,6 +628,7 @@
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+    <item component="ComponentInfo{com.instalou.android/com.instalou.android.activity.MainTabActivity}" drawable="instagram"/>
 
     <!-- KDE_Connect -->
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect"/>
@@ -861,6 +872,7 @@
 
     <!-- Tap30 -->
     <item component="ComponentInfo{taxi.tap30.passenger/taxi.tap30.passenger.ui.RootActivity}" drawable="tap30" />
+    <item component="ComponentInfo{taxi.tap30.passenger.play/taxi.tap30.passenger.ui.RootActivity}" drawable="tap30" />
 
     <!-- Tasks -->
     <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="todo" />
@@ -869,7 +881,7 @@
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
-    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram"/>
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x"/>
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
 
     <!-- Terminal -->
