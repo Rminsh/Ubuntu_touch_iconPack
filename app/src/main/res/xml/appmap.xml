@@ -8,762 +8,783 @@
 <appmap>
 
     <!-- Adobe_Scan -->
-    <item class="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" name="adobe_scan"/>
+    <item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
 
     <!-- AirDroid -->
-    <item class="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}" name="airdroid"/>
+    <item class="com.sand.airdroid.ui.splash.SplashActivity_" name="airdroid"/>
 
     <!-- Amazon Store -->
-    <item class="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" name="amazon_store"/>
+    <item class="com.amazon.mShop.home.HomeActivity" name="amazon_store"/>
 
     <!-- Apex_Launcher -->
-    <item class="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" name="apex_launcher"/>
+    <item class="com.anddoes.launcher.Launcher" name="apex_launcher"/>
+
+    <!-- AppSales -->
+    <item component="net.tsapps.appsales.MainActivity" name="appsales"/>
 
     <!-- Aviary -->
-    <item class="ComponentInfo{com.aviary.android.feather/com.aviary.android.feather.MainActivity}" name="aviary"/>
+    <item class="com.aviary.android.feather.MainActivity" name="aviary"/>
 
     <!-- Battery -->
-    <item class="ComponentInfo{com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity}" name="battery"/>
+    <item class="com.asksven.betterbatterystats.StatsActivity" name="battery"/>
 
     <!-- Bazaar -->
-    <item class="ComponentInfo{com.farsitel.bazaar/ir.cafebazaar.ui.home.SplashActivity}" name="bazaar"/>
+    <item class="ir.cafebazaar.ui.home.SplashActivity" name="bazaar"/>
 
     <!-- Bitwarden -->
-    <item class="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" name="bitwarden"/>
+    <item class="md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity" name="bitwarden"/>
 
     <!-- Books -->
-    <item class="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" name="books"/>
+    <item class="com.google.android.apps.books.app.BooksActivity" name="books"/>
 
     <!-- Browser -->
-    <item class="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" name="network"/>
-    <item class="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity}" name="browser" />
-    <item class="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" name="browser" />
-    <item class="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" name="browser"/>
-    <item class="ComponentInfo{com.ume.browser.northamerica/com.ume.browser.MainActivity}" name="browser"/>
-    <item class="ComponentInfo{com.uc.browser.en/com.uc.browser.ActivityBrowser}" name="browser"/>
-    <item class="ComponentInfo{com.cake.browser/com.cake.browser.screen.splash.SplashActivity}" name="browser"/>
-    <item class="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" name="browser"/>
-    <item class="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" name="chrome_canary"/>
-    <item class="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" name="google_chrome"/>
-    <item class="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" name="google_chrome"/>
+    <item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="network"/>
+    <item class="com.ijinshan.browser.screen.SplashActivity" name="browser" />
+    <item class="com.android.browser.BrowserActivity" name="browser" />
+    <item class="com.google.android.apps.chrome.Main" name="browser"/>
+    <item class="com.ume.browser.MainActivity" name="browser"/>
+    <item class="com.uc.browser.ActivityBrowser" name="browser"/>
+    <item class="com.cake.browser.screen.splash.SplashActivity" name="browser"/>
+    <item class="org.lineageos.jelly.MainActivity" name="browser"/>
+    <item class="com.google.android.apps.chrome.Main" name="chrome_canary"/>
+    <item class="com.google.android.apps.chrome.Main" name="google_chrome"/>
+    <item class="com.google.android.apps.chrome.Main" name="google_chrome"/>
 
     <!-- Calculator -->
-    <item class="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" name="calculator" />
-    <item class="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" name="calculator"/>
-    <item class="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.wingtech.calc/com.wingtech.calc.Calculator}" name="calculator" />
-    <item class="ComponentInfo{all.in.one.calculator/all.in.one.calculator.ui.activities.NavigationActivity}" name="calculator" />
-    <item class="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" name="calculator" />
-    <item class="ComponentInfo{uk.co.nickfines.RealCalc/uk.co.nickfines.RealCalc.Calculator}" name="calculator" />
-    <item class="ComponentInfo{uk.co.nickfines.RealCalcPlus/uk.co.nickfines.RealCalcPlus.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.firedevelop.firecalc/com.firedevelop.firecalc.FireCalcActivity}" name="calculator" />
-    <item class="ComponentInfo{com.scientificCalculator/com.scientificCalculator.CalculatorInterface}" name="calculator" />
-    <item class="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" name="calculator" />
-    <item class="ComponentInfo{com.htc.calculator/com.htc.calculator.Calculator}" name="calculator" />
+    <item class="com.sec.android.app.popupcalculator.Calculator" name="calculator" />
+    <item class="com.miui.calculator.cal.CalculatorActivity" name="calculator" />
+    <item class="com.android.calculator2.Calculator" name="calculator"/>
+    <item class="com.android.calculator2.Calculator" name="calculator" />
+    <item class="com.wingtech.calc.Calculator" name="calculator" />
+    <item class="all.in.one.calculator.ui.activities.NavigationActivity" name="calculator" />
+    <item class="com.android.bbkcalculator.Calculator" name="calculator" />
+    <item class="com.oneplus.calculator.Calculator" name="calculator" />
+    <item class="com.sec.android.app.calculator.Calculator" name="calculator" />
+    <item class="uk.co.nickfines.RealCalc.Calculator" name="calculator" />
+    <item class="uk.co.nickfines.RealCalcPlus.Calculator" name="calculator" />
+    <item class="com.android2.calculator3.Calculator" name="calculator" />
+    <item class="com.firedevelop.firecalc.FireCalcActivity" name="calculator" />
+    <item class="com.scientificCalculator.CalculatorInterface" name="calculator" />
+    <item class="com.asus.calculator.Calculator" name="calculator" />
+    <item class="com.htc.calculator.Calculator" name="calculator" />
 
 
     <!-- Calendar -->
-    <item class="ComponentInfo{com.nulldroid.googlecalendar/com.nulldroid.googlecalendar.GoogleCalendarActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.googlecalendarfree.free2/com.googlecalendarfree.free2.A_GoogleCalendarActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.SagiL.calendarstatuspro/com.SagiL.calendarstatuspro.MainActivityPro}" name="calendar"/>
-    <item class="ComponentInfo{com.SagiL.calendarstatus/com.SagiL.calendarstatus.MainActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Orange}" name="calendar"/>
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" name="calendar" />
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" name="calendar" />
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.AllInOne}" name="calendar" />
-    <item class="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" name="calendar" />
-    <item class="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" name="calendar" />
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" name="calendar"/>
-    <item class="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.kodeglam.calendarwear/com.kodeglam.wear.MainActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" name="calendar"/>
-    <item class="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI}" name="calendar"/>
-    <item class="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.SplashActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.lge.calendar/com.lge.calendar.LaunchActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" name="calendar"/>
-    <item class="ComponentInfo{com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" name="calendar"/>
-    <item class="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" name="calendar"/>
+    <item class="com.nulldroid.googlecalendar.GoogleCalendarActivity" name="calendar"/>
+    <item class="com.googlecalendarfree.free2.A_GoogleCalendarActivity" name="calendar"/>
+    <item class="com.android.calendar.AllInOneActivity" name="calendar"/>
+    <item class="com.SagiL.calendarstatuspro.MainActivityPro" name="calendar"/>
+    <item class="com.SagiL.calendarstatus.MainActivity" name="calendar"/>
+    <item class="com.simplemobiletools.calendar.activities.SplashActivity.Orange" name="calendar"/>
+    <item class="com.android.calendar.homepage.AllInOneActivity" name="calendar" />
+    <item class="com.android.calendar.AllInOneActivity" name="calendar" />
+    <item class="com.android.calendar.AllInOne" name="calendar" />
+    <item class="com.sonymobile.calendar.LaunchActivity" name="calendar" />
+    <item class="com.bbk.calendar.MainActivity" name="calendar" />
+    <item class="com.android.calendar.CalendarTabActivity" name="calendar"/>
+    <item class="com.android.calendar.LaunchActivity" name="calendar"/>
+    <item class="com.android.calendar.MonthActivity" name="calendar"/>
+    <item class="com.asus.calendar.watchcalendar.LaunchActivity" name="calendar"/>
+    <item class="com.asus.calendar.watchcalendar.WatchCalendarActivity" name="calendar"/>
+    <item class="com.android.calendar.AllInOneActivity" name="calendar"/>
+    <item class="com.htc.calendar.CalendarActivityMain" name="calendar"/>
+    <item class="com.htc.calendar.CalendarCarouselActivity" name="calendar"/>
+    <item class="com.htc.calendar.LaunchActivity" name="calendar"/>
+    <item class="com.kodeglam.wear.MainActivity" name="calendar"/>
+    <item class="com.lenovo.app.Calendar.MonthActivityNew" name="calendar"/>
+    <item class="com.lenovo.app.Calendar.MonthUI" name="calendar"/>
+    <item class="com.lenovo.calendar.AllInOneActivity" name="calendar"/>
+    <item class="com.lenovo.calendar.SplashActivity" name="calendar"/>
+    <item class="com.lge.calendar.LaunchActivity" name="calendar"/>
+    <item class="com.motorola.calendar.LaunchActivity" name="calendar"/>
+    <item class="com.oppo.calendar.activity.CalendarActivity" name="calendar"/>
+    <item class="com.sec.android.app.latin.launcher.calendar.Launcher" name="calendar"/>
+    <item class="com.sonyericsson.androidapp.lunarcalendar.CalendarActivity" name="calendar"/>
+    <item class="com.sonyericsson.calendar.monthview.MonthViewActivity" name="calendar"/>
+    <item class="com.android.calendar.AllInOneActivity" name="calendar"/>
 
     <!-- Camera_Connect -->
-    <item class="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" name="camera_connect"/>
+    <item class="jp.co.canon.ic.cameraconnect.top.CCTopActivity" name="camera_connect"/>
 
     <!-- Camera -->
-    <item class="ComponentInfo{com.android.gallery/com.android.camera.GalleryPicker}" name="camera" />
-    <item class="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" name="camera" />
-    <item class="ComponentInfo{com.magix.camera_mx/com.magix.android.cameramx.main.LaunchingActivity}" name="camera" />
-    <item class="ComponentInfo{com.bandungdev1.burst.camera360pro/com.antafunny.burstcamera.MainActivity}" name="camera" />
-    <item class="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" name="camera" />
-    <item class="ComponentInfo{com.almalence.opencam_plus/com.almalence.opencam_plus.MainScreen}" name="camera" />
-    <item class="ComponentInfo{com.bq.camerabq/com.bq.camera3.common.MainActivity}" name="camera" />
-    <item class="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.google.android.Pixel2Mod/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.ArcCamera}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.IfHdmi}" name="camera" />
-    <item class="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" name="camera" />
-    <item class="ComponentInfo{com.android.hwcamera/com.android.hwcamera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" name="camera" />
-    <item class="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.cyngn.cameranextmod2/com.android.camera.CameraLauncher}" name="camera"/>
-    <item class="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" name="camera" />
-    <item class="ComponentInfo{com.huawei.camera/com.huawei.camera}" name="camera" />
-    <item class="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CamcorderLoading}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CameraApp}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CameraLoading}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CameraMain}" name="camera" />
-    <item class="ComponentInfo{com.lge.camera/com.lge.camera.CamLoading}" name="camera" />
-    <item class="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraIndex}" name="camera" />
-    <item class="ComponentInfo{com.mediatek.camera/com.mediatek.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.mediatek.camera/com.mediatek.camera.LaunchCamera}" name="camera" />
-    <item class="ComponentInfo{com.mediatek.camera/com.mediatek.camera.VideoCamera}" name="camera" />
-    <item class="ComponentInfo{com.miui.camera/com.miui.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.miui.camera1/com.miui.camera1.Camera}" name="camera" />
-    <item class="ComponentInfo{com.moblynx.cameraicsplus/com.moblynx.cameraics.Camera}" name="camera"/>
-    <item class="ComponentInfo{com.modaco.cameralauncher/com.modaco.cameralauncherActivity}" name="camera" />
-    <item class="ComponentInfo{com.motorola.Camera/com.motorola.Camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.oppo.camera/com.oppo.camera.activity.CameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.oppo.camera/com.oppo.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.oppo.camera/com.oppo.camera.OppoCamera}" name="camera" />
-    <item class="ComponentInfo{com.radcam.camera/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.samsung.camera/com.samsung.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" name="camera" />
-    <item class="ComponentInfo{com.sec.android.app.latin.launcher.camera/com.sec.android.app.latin.launcher.camera.Launcher}" name="camera" />
-    <item class="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" name="camera" />
-    <item class="ComponentInfo{com.sonyericsson.camera/com.sonyericsson.camera.photo.Camera}" name="camera" />
-    <item class="ComponentInfo{com.vertu.camera/com.vertu.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{zte.com.cn.camera/zte.com.cn.camera.Camera}" name="camera" />
+    <item class="com.android.camera.GalleryPicker" name="camera" />
+    <item class="com.oneplus.camera.OPCameraActivity" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.htc.camera2.CameraEntry" name="camera" />
+    <item class="com.magix.android.cameramx.main.LaunchingActivity" name="camera" />
+    <item class="com.antafunny.burstcamera.MainActivity" name="camera" />
+    <item class="net.sourceforge.opencamera.MainActivity" name="camera" />
+    <item class="com.almalence.opencam_plus.MainScreen" name="camera" />
+    <item class="com.bq.camera3.common.MainActivity" name="camera" />
+    <item class="com.zte.camera.CameraActivity" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.google.android.Pixel2Mod/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.hmdglobal.camera2/com.android.camera.CameraLauncher" name="camera" />
+    <item class="org.lineageos.snap/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.motorola.cameraone/com.motorola.camera.Camera" name="camera" />
+    <item class="com.android.camera.CameraActivity" name="camera" />
+    <item class="com.android.camera.ArcCamera" name="camera" />
+    <item class="com.android.camera.CamcorderEntry" name="camera" />
+    <item class="com.android.camera.CameraEntry" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.android.camera.Camera" name="camera" />
+    <item class="com.android.camera.IfHdmi" name="camera" />
+    <item class="com.android.camera.CameraActivity" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.android.hwcamera" name="camera" />
+    <item class="com.android.hwcamera/com.android.hwcamera.Camera" name="camera" />
+    <item class="com.asus.camera/com.asus.camera.CameraApp" name="camera" />
+    <item class="com.cyngn.cameranext/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.cyngn.cameranextmod2/com.android.camera.CameraLauncher" name="camera"/>
+    <item class="com.google.android.camera/com.android.camera.Camera" name="camera" />
+    <item class="com.google.android.gallery3d/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.htc.camera/com.htc.camera.CameraEntry" name="camera" />
+    <item class="com.huawei.camera/com.huawei.camera" name="camera" />
+    <item class="com.jrdcom.android.jrdcamera.CameraLauncher" name="camera" />
+    <item class="com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CamcorderLoading" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CameraAppLauncher" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CameraApp" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CameraLoading" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CameraMain" name="camera" />
+    <item class="com.lge.camera/com.lge.camera.CamLoading" name="camera" />
+    <item class="com.mediatek.camera/com.mediatek.camera.CameraIndex" name="camera" />
+    <item class="com.mediatek.camera/com.mediatek.camera.Camera" name="camera" />
+    <item class="com.mediatek.camera/com.mediatek.camera.LaunchCamera" name="camera" />
+    <item class="com.mediatek.camera/com.mediatek.camera.VideoCamera" name="camera" />
+    <item class="com.miui.camera/com.miui.camera.Camera" name="camera" />
+    <item class="com.miui.camera1/com.miui.camera1.Camera" name="camera" />
+    <item class="com.moblynx.cameraicsplus/com.moblynx.cameraics.Camera" name="camera"/>
+    <item class="com.modaco.cameralauncher/com.modaco.cameralauncherActivity" name="camera" />
+    <item class="com.motorola.Camera/com.motorola.Camera.Camera" name="camera" />
+    <item class="com.motorola.camera/com.motorola.camera.Camera" name="camera" />
+    <item class="com.oppo.camera/com.oppo.camera.activity.CameraActivity" name="camera" />
+    <item class="com.oppo.camera/com.oppo.camera.CameraLauncher" name="camera" />
+    <item class="com.oppo.camera/com.oppo.camera.Camera" name="camera" />
+    <item class="com.oppo.camera/com.oppo.camera.OppoCamera" name="camera" />
+    <item class="com.radcam.camera/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.samsung.camera/com.samsung.camera.Camera" name="camera" />
+    <item class="com.sec.android.app.camera/com.sec.android.app.camera.Camera" name="camera" />
+    <item class="com.sec.android.app.latin.launcher.camera/com.sec.android.app.latin.launcher.camera.Launcher" name="camera" />
+    <item class="com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity" name="camera" />
+    <item class="com.sonyericsson.camera/com.sonyericsson.camera.photo.Camera" name="camera" />
+    <item class="com.vertu.camera/com.vertu.camera.CameraLauncher" name="camera" />
+    <item class="zte.com.cn.camera/zte.com.cn.camera.Camera" name="camera" />
 
     <!-- CamScanner -->
-    <item class="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" name="camscanner"/>
+    <item class="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity" name="camscanner"/>
+
+    <!-- Castle_Clash -->
+    <item component="com.igg.castleclash/com.igg.castleclash.CastleClash" name="castle_clash"/>
 
     <!-- Clock -->
-    <item class="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" name="clock" />
-    <item class="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" name="clock" />
-    <item class="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" name="clock" />
-    <item class="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" name="clock" />
-    <item class="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" name="clock" />
-    <item class="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" name="clock" />
-    <item class="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" name="clock" />
-    <item class="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" name="clock" />
-    <item class="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" name="clock" />
-    <item class="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" name="clock" />
-    <item class="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" name="clock" />
-    <item class="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" name="clock" />
-    <item class="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" name="clock" />
-    <item class="ComponentInfo{com.lenovo.deskclock/com.lenovo.clock.Clock}" name="clock" />
-    <item class="ComponentInfo{com.motorola.blur.alarmclock/com.motorola.blur.alarmclock.AlarmClock}" name="clock" />
-    <item class="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" name="clock" />
-    <item class="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" name="clock" />
-    <item class="ComponentInfo{com.doubleTwist.alarmClock/com.doubleTwist.alarmClock.AlarmListActivity}" name="clock" />
-    <item class="ComponentInfo{com.zehro.android.clockr/com.zehro.android.clockr.ClockrPreferences}" name="clock" />
-    <item class="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" name="clock" />
-    <item class="ComponentInfo{factory.widgets.SenseClockDark/factory.widgets.SenseClockDark.InfoActivity}" name="clock" />
-    <item class="ComponentInfo{com.lge.clock/com.lge.clock.Clock}" name="clock" />
-    <item class="ComponentInfo{com.sec.android.app.latin.launcher.alarmclock/com.sec.android.app.latin.launcher.alarmclock.Launcher}" name="clock" />
-    <item class="ComponentInfo{com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock}" name="clock" />
-    <item class="ComponentInfo{com.lge.clock/com.lge.clock.DefaultAlarmClockActivity}" name="clock" />
+    <item class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage" name="clock" />
+    <item class="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" name="clock" />
+    <item class="com.google.android.deskclock/com.android.deskclock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.AlarmsMainActivity" name="clock" />
+    <item class="com.lenovo.deskclock/com.lenovo.deskclock.DeskClock" name="clock" />
+    <item class="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock" name="clock" />
+    <item class="com.lge.clock/com.lge.clock.AlarmClockActivity" name="clock" />
+    <item class="com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer" name="clock" />
+    <item class="com.asus.deskclock/com.asus.deskclock.DeskClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.DeskClock" name="clock" />
+    <item class="com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl" name="clock" />
+    <item class="zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity" name="clock" />
+    <item class="com.lenovo.deskclock/com.lenovo.clock.Clock" name="clock" />
+    <item class="com.motorola.blur.alarmclock/com.motorola.blur.alarmclock.AlarmClock" name="clock" />
+    <item class="com.android.deskclock/com.android.deskclock.AlarmClock" name="clock" />
+    <item class="com.android.alarmclock/com.android.alarmclock.AlarmClock" name="clock" />
+    <item class="com.doubleTwist.alarmClock/com.doubleTwist.alarmClock.AlarmListActivity" name="clock" />
+    <item class="com.zehro.android.clockr/com.zehro.android.clockr.ClockrPreferences" name="clock" />
+    <item class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm" name="clock" />
+    <item class="factory.widgets.SenseClockDark/factory.widgets.SenseClockDark.InfoActivity" name="clock" />
+    <item class="com.lge.clock/com.lge.clock.Clock" name="clock" />
+    <item class="com.sec.android.app.latin.launcher.alarmclock/com.sec.android.app.latin.launcher.alarmclock.Launcher" name="clock" />
+    <item class="com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock" name="clock" />
+    <item class="com.lge.clock/com.lge.clock.DefaultAlarmClockActivity" name="clock" />
 
     <!-- Code -->
-    <item class="ComponentInfo{in.sumeetlubal.aweandroid.aweandroid/in.sumeetlubal.aweandroid.aweandroid.hp.MainActivity}" name="code"/>
-    <item class="ComponentInfo{com.desarrollodroide.repos/com.desarrollodroide.repos.MainActivity}" name="code"/>
+    <item class="in.sumeetlubal.aweandroid.aweandroid/in.sumeetlubal.aweandroid.aweandroid.hp.MainActivity" name="code"/>
+    <item class="com.desarrollodroide.repos/com.desarrollodroide.repos.MainActivity" name="code"/>
 
     <!-- Crashy_Cats -->
-    <item class="ComponentInfo{com.ElectricTurtle.CatCrash/com.unity3d.player.UnityPlayerNativeActivity}" name="crashy_cats"/>
+    <item class="com.ElectricTurtle.CatCrash/com.unity3d.player.UnityPlayerNativeActivity" name="crashy_cats"/>
 
     <!-- Digikala -->
-    <item class="ComponentInfo{com.digikala/com.digikala.activities.SplashActivity}" name="digikala"/>
+    <item class="com.digikala/com.digikala.activities.SplashActivity" name="digikala"/>
 
     <!-- Disney_Gif -->
-    <item class="ComponentInfo{com.disney.disneygif_goo/com.disney.disneygif_goo.activity.LaunchActivity}" name="disney_gif"/>
+    <item class="com.disney.disneygif_goo.activity.LaunchActivity" name="disney_gif"/>
 
     <!-- Downloads -->
-    <item class="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" name="download"/>
-    <item class="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" name="download"/>
-    <item class="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" name="download" />
-    <item class="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}" name="download" />
-    <item class="ComponentInfo{com.google.android.youtube/net.ogmods.youtube.OGDownloadManager1}" name="download" />
-    <item class="ComponentInfo{com.hwkrbbt.downloadall/com.hwkrbbt.downloadall.MainActivity}" name="download" />
+    <item class="com.dv.adm.pay.Main" name="download"/>
+    <item class="com.android.providers.downloads.ui.DownloadList" name="download"/>
+    <item class="com.android.providers.downloads.ui.DownloadsListTab" name="download" />
+    <item class="com.android.providers.downloads.ui.GnDownloadTabActivity" name="download" />
+    <item class="net.ogmods.youtube.OGDownloadManager1" name="download" />
+    <item class="com.hwkrbbt.downloadall.MainActivity" name="download" />
+    <item class="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity" name="download"/>
+
+    <!-- DRIVE -->
+    <item class="com.pixelperfectdude.htdrive/com.unity3d.player.UnityPlayerActivity" name="h_drive"/>
 
     <!-- Dropbox -->
-    <item class="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" name="dropbox"/>
+    <item class="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" name="dropbox"/>
+
+    <!-- Doodle_Jump -->
+    <item class="com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity" name="doodle_jump"/>
 
     <!-- Dune -->
-    <item class="ComponentInfo{io.voodoo.dune/io.voodoo.dune.UnityPlayerActivity}" name="dune"/>
+    <item class="io.voodoo.dune/io.voodoo.dune.UnityPlayerActivity" name="dune"/>
 
     <!-- Eight_Puzzle -->
-    <item class="ComponentInfo{ir.lydia.eight_puzzle/ir.lydia.eight_puzzle.android.SplashScreen}" name="eight_puzzle"/>
+    <item class="ir.lydia.eight_puzzle/ir.lydia.eight_puzzle.android.SplashScreen" name="eight_puzzle"/>
 
     <!-- Email -->
-    <item class="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" name="email" />
-    <item class="ComponentInfo{com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL}" name="email" />
-    <item class="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" name="email" />
-    <item class="ComponentInfo{com.aliyun.mobile.email/com.aliyun.mobile.email.activity.Email}" name="email" />
-    <item class="ComponentInfo{com.amazon.email/com.amazon.email.activity.Accounts}" name="email" />
-    <item class="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}" name="email" />
-    <item class="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.aplixcorp.email/com.aplixcorp.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.asus.handset.email/com.asus.handset.email.AsusWelcome}" name="email" />
-    <item class="ComponentInfo{com.bn.nook.email/com.bn.nook.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" name="email" />
-    <item class="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" name="email" />
-    <item class="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.VoiceMailTabActivity}" name="email" />
-    <item class="ComponentInfo{com.lenovo.email/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.lgcns.mobileoffice.email/com.lgcns.mobileoffice.email.EmailListActivity}" name="email" />
-    <item class="ComponentInfo{com.lge.email/com.lge.email.activity.AccountList}" name="email" />
-    <item class="ComponentInfo{com.lge.email/com.lge.email.activity.ActEmailStarter}" name="email" />
-    <item class="ComponentInfo{com.lge.email/com.lge.email.activity.ActMain}" name="email" />
-    <item class="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" name="email" />
-    <item class="ComponentInfo{com.motorola.blur.email/com.motorola.blur.email.mailbox.MailListActivity}" name="email" />
-    <item class="ComponentInfo{com.motorola.blur.email/com.motorola.blur.email.mailbox.ViewFolderActivity}" name="email" />
-    <item class="ComponentInfo{com.motorola.email/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.motorola.motoemail/com.android.email.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.mwebster.iemail/com.mwebster.iemail.activity.Welcome}" name="email" />
-    <item class="ComponentInfo{com.samsung.vvmapp/com.samsung.vvmapp.VVMApplication}" name="email" />
-    <item class="ComponentInfo{com.skt.pe.activity.email/com.sk.pe.group.email.activity.EmailReceiveActivity}" name="email" />
-    <item class="ComponentInfo{com.sonyericsson.email/com.sonyericsson.email.ui.Main}" name="email" />
-    <item class="ComponentInfo{de.web.mobile.android.mail/com.fsck.k9.activity.Accounts}" name="email" />
-    <item class="ComponentInfo{luck.of.wise.emailpicker.pro/luck.of.wise.emailpicker.pro.EmailPickerActivity}" name="email" />
+    <item class="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL" name="email" />
+    <item class="com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL" name="email" />
+    <item class="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" name="email" />
+    <item class="com.aliyun.mobile.email/com.aliyun.mobile.email.activity.Email" name="email" />
+    <item class="com.amazon.email/com.amazon.email.activity.Accounts" name="email" />
+    <item class="com.android.email/com.android.email.activity.EmailActivity" name="email" />
+    <item class="com.android.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.aplixcorp.email/com.aplixcorp.email.activity.Welcome" name="email" />
+    <item class="com.asus.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.asus.handset.email/com.asus.handset.email.AsusWelcome" name="email" />
+    <item class="com.bn.nook.email/com.bn.nook.email.activity.Welcome" name="email" />
+    <item class="com.google.android.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.htc.android.mail/com.htc.android.mail.MailListTab" name="email" />
+    <item class="com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain" name="email" />
+    <item class="com.htc.sense.mms/com.htc.sense.mms.ui.VoiceMailTabActivity" name="email" />
+    <item class="com.lenovo.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.lgcns.mobileoffice.email/com.lgcns.mobileoffice.email.EmailListActivity" name="email" />
+    <item class="com.lge.email/com.lge.email.activity.AccountList" name="email" />
+    <item class="com.lge.email/com.lge.email.activity.ActEmailStarter" name="email" />
+    <item class="com.lge.email/com.lge.email.activity.ActMain" name="email" />
+    <item class="com.lge.email/com.lge.email.ui.setupwizard.Welcome" name="email" />
+    <item class="com.motorola.blur.email/com.motorola.blur.email.mailbox.MailListActivity" name="email" />
+    <item class="com.motorola.blur.email/com.motorola.blur.email.mailbox.ViewFolderActivity" name="email" />
+    <item class="com.motorola.email/com.android.email.activity.Welcome" name="email" />
+    <item class="com.motorola.motoemail/com.android.email.activity.Welcome" name="email" />
+    <item class="com.mwebster.iemail/com.mwebster.iemail.activity.Welcome" name="email" />
+    <item class="com.samsung.vvmapp/com.samsung.vvmapp.VVMApplication" name="email" />
+    <item class="com.skt.pe.activity.email/com.sk.pe.group.email.activity.EmailReceiveActivity" name="email" />
+    <item class="com.sonyericsson.email/com.sonyericsson.email.ui.Main" name="email" />
+    <item class="de.web.mobile.android.mail/com.fsck.k9.activity.Accounts" name="email" />
+    <item class="luck.of.wise.emailpicker.pro/luck.of.wise.emailpicker.pro.EmailPickerActivity" name="email" />
 
     <!-- Evie -->
-    <item class="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" name="evie_launcher"/>
+    <item class="is.shortcut/com.voxel.launcher3.Launcher" name="evie_launcher"/>
+
+    <!-- Facebook Messenger -->
+    <item class="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" name="facebook_messenger"/>
+
+    <!-- Facebook -->
+    <item class="com.facebook.katana/com.facebook.katana.LoginActivity" name="facebook"/>
 
     <!-- F_Droid -->
-    <item class="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" name="f_droid"/>
+    <item class="org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity" name="f_droid"/>
 
     <!-- File Manager -->
-    <item class="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" name="file_manager_orange" />
-    <item class="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.mobisystems.fileman/com.mobisystems.files.FileBrowser}" name="file_manager" />
-    <item class="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" name="file_manager"/>
-    <item class="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.android.documentsui/com.android.documentsui.BqLauncherActivity}" name="file_manager"/>
-    <item class="ComponentInfo{fm.clean/fm.clean.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" name="file_manager" />
-    <item class="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.wingtech.filemanager/com.wingtech.filemanager.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.generalmobile.app.gmfilemanager/com.generalmobile.app.gmfilemanager.splash.SplashActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.FileManager}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.latin.launcher.myfiles/com.sec.android.app.latin.launcher.myfiles.Launcher}" name="file_manager" />
-    <item class="ComponentInfo{gn.com.android.filemanager/gn.com.android.filemanager.MyTabActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.pineone.android.myfiles/com.pineone.android.myfiles.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.android.filebrowser/com.android.filebrowser.MyFile}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.piggy.myfiles/com.piggy.myfiles.MyFiles}" name="file_manager" />
-    <item class="ComponentInfo{fanta91.myfilemanager/fanta91.myfilemanager.MyfilemanagerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.vj.filemanager/com.vj.filemanager.SampleActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.pekall.FileManager/com.pekall.FileManager.MyFavorite}" name="file_manager" />
-    <item class="ComponentInfo{tomkuo139.com.fileBrowser.free/tomkuo139.com.fileBrowser.free.startProgram}" name="file_manager" />
-    <item class="ComponentInfo{com.galalxy.myfile/com.galaxy.myfile.FileManager}" name="file_manager" />
-    <item class="ComponentInfo{com.android.filemanager/com.android.filemanager.MyFile}" name="file_manager" />
-    <item class="ComponentInfo{com.vj.filemanager/com.vj.filemanager.FileManagerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.m7.chateau.MyFiles/com.m7.chateau.MyFiles.MyFilesActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.m7.juke.MyFiles/com.m7.juke.MyFiles.MyFilesActivity}" name="file_manager" />
-    <item class="ComponentInfo{myFile.com.cn/myFile.com.cn.Myfile}" name="file_manager" />
-    <item class="ComponentInfo{com.xiaoqi.myfile/com.xiaoqi.myfile.local.FileManager}" name="file_manager" />
-    <item class="ComponentInfo{my.filemanager/my.filemanager.PersonFileManager}" name="file_manager" />
-    <item class="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" name="file_manager" />
-    <item class="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" name="file_manager" />
-    <item class="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" name="file_manager" />
-    <item class="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" name="file_manager" />
+    <item class="pl.solidexplorer2/pl.solidexplorer.SolidExplorer" name="file_manager" />
+    <item class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity" name="file_manager_orange" />
+    <item class="com.metago.astro/com.metago.astro.MainActivity" name="file_manager" />
+    <item class="com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity" name="file_manager" />
+    <item class="com.mobisystems.fileman/com.mobisystems.files.FileBrowser" name="file_manager" />
+    <item class="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity" name="file_manager" />
+    <item class="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity" name="file_manager"/>
+    <item class="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity" name="file_manager" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="file_manager" />
+    <item class="com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity" name="file_manager" />
+    <item class="com.android.documentsui/com.android.documentsui.BqLauncherActivity" name="file_manager"/>
+    <item class="fm.clean/fm.clean.MainActivity" name="file_manager" />
+    <item class="zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity" name="file_manager" />
+    <item class="com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager" name="file_manager" />
+    <item class="com.android.filemanager/com.android.filemanager.FileManagerActivity" name="file_manager" />
+    <item class="com.wingtech.filemanager/com.wingtech.filemanager.MainActivity" name="file_manager" />
+    <item class="com.android.documentsui/com.android.documentsui.LauncherActivity" name="file_manager" />
+    <item class="com.generalmobile.app.gmfilemanager/com.generalmobile.app.gmfilemanager.splash.SplashActivity" name="file_manager" />
+    <item class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity" name="file_manager" />
+    <item class="com.motorola.filemanager/com.motorola.filemanager.FileManager" name="file_manager" />
+    <item class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles" name="file_manager" />
+    <item class="com.sec.android.app.latin.launcher.myfiles/com.sec.android.app.latin.launcher.myfiles.Launcher" name="file_manager" />
+    <item class="gn.com.android.filemanager/gn.com.android.filemanager.MyTabActivity" name="file_manager" />
+    <item class="com.pineone.android.myfiles/com.pineone.android.myfiles.MainActivity" name="file_manager" />
+    <item class="com.android.filebrowser/com.android.filebrowser.MyFile" name="file_manager" />
+    <item class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity" name="file_manager" />
+    <item class="com.piggy.myfiles/com.piggy.myfiles.MyFiles" name="file_manager" />
+    <item class="fanta91.myfilemanager/fanta91.myfilemanager.MyfilemanagerActivity" name="file_manager" />
+    <item class="com.vj.filemanager/com.vj.filemanager.SampleActivity" name="file_manager" />
+    <item class="com.pekall.FileManager/com.pekall.FileManager.MyFavorite" name="file_manager" />
+    <item class="tomkuo139.com.fileBrowser.free/tomkuo139.com.fileBrowser.free.startProgram" name="file_manager" />
+    <item class="com.galalxy.myfile/com.galaxy.myfile.FileManager" name="file_manager" />
+    <item class="com.android.filemanager/com.android.filemanager.MyFile" name="file_manager" />
+    <item class="com.vj.filemanager/com.vj.filemanager.FileManagerActivity" name="file_manager" />
+    <item class="com.m7.chateau.MyFiles/com.m7.chateau.MyFiles.MyFilesActivity" name="file_manager" />
+    <item class="com.m7.juke.MyFiles/com.m7.juke.MyFiles.MyFilesActivity" name="file_manager" />
+    <item class="myFile.com.cn/myFile.com.cn.Myfile" name="file_manager" />
+    <item class="com.xiaoqi.myfile/com.xiaoqi.myfile.local.FileManager" name="file_manager" />
+    <item class="my.filemanager/my.filemanager.PersonFileManager" name="file_manager" />
+    <item class="com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain" name="file_manager" />
+    <item class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity" name="file_manager" />
+    <item class="com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity" name="file_manager" />
+    <item class="com.htc.filemanager/com.htc.filemanager.FileManagerActivity" name="file_manager" />
+    <item class="com.rhmsoft.fm/com.rhmsoft.fm.FileManager" name="file_manager" />
+    <item class="com.lge.filemanager/com.lge.filemanager.view.LaunchActivity" name="file_manager" />
+    <item class="com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity" name="file_manager" />
+    <item class="com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity" name="file_manager" />
+    <item class="com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity" name="file_manager" />
 
     <!-- Find_My_Device -->
-    <item class="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" name="find_my_device"/>
+    <item class="com.google.android.apps.adm/com.google.android.apps.adm.MainActivity" name="find_my_device"/>
 
     <!-- Firefox -->
-    <item class="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" name="firefox"/>
-    <item class="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" name="firefox" />
+    <item class="org.mozilla.firefox/org.mozilla.firefox.App" name="firefox"/>
+    <item class="org.mozilla.firefox_beta/org.mozilla.firefox_beta.App" name="firefox" />
 
     <!-- Fitbit -->
-    <item class="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" name="fitbit"/>
+    <item class="com.fitbit.FitbitMobile/com.fitbit.FirstActivity" name="fitbit"/>
 
     <!-- Flipflop -->
-    <item class="ComponentInfo{com.noodlecake.flipflopsolitaire/com.unity3d.player.UnityPlayerActivity}" name="flipflop"/>
+    <item class="com.noodlecake.flipflopsolitaire/com.unity3d.player.UnityPlayerActivity" name="flipflop"/>
 
     <!-- Follower_Analyzer -->
-    <item class="ComponentInfo{com.maximolab.followeranalyzer/com.maximolab.followeranalyzer.app.Activity_MainMenu}" name="follower_analyzer"/>
+    <item class="com.maximolab.followeranalyzer/com.maximolab.followeranalyzer.app.Activity_MainMenu" name="follower_analyzer"/>
+
+    <!-- FotMob -->
+    <item class="com.mobilefootie.wc2010/com.mobilefootie.fotmob.gui.v2.MainActivityWrapper" name="fotmob"/>
 
     <!-- Foursquare -->
-    <item class="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" name="foursquare"/>
+    <item class="com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity" name="foursquare"/>
 
     <!-- Gallery -->
-    <item class="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" name="gallery" />
-    <item class="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" name="gallery" />
-    <item class="ComponentInfo{cast.meow.right.com.castformuzei/cast.meow.right.com.castformuzei.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}" name="gallery" />
-    <item class="ComponentInfo{com.android.gallery/com.android.gallery.ui.MainActivity}" name="gallery" />
-    <item class="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.android.sec.gallery3d/com.android.sec.gallery3d.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.asus.ephoto/com.asus.ephoto.app.EPhotoActivity}" name="gallery" />
-    <item class="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" name="gallery" />
-    <item class="ComponentInfo{com.cooliris.media/com.cooliris.media.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.cyngn.gallerynext/com.cyngn.gallerynext.app.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery}" name="gallery" />
-    <item class="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.google.android.gallery3d/com.cooliris.media.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel}" name="gallery" />
-    <item class="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainDropList}" name="gallery" />
-    <item class="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" name="gallery" />
-    <item class="ComponentInfo{com.htc.album/com.htc.album.AlbumTabSwitchActivity}" name="gallery" />
-    <item class="ComponentInfo{com.lenovo.scg/com.android.camera.CameraLauncher}" name="camera" />
-    <item class="ComponentInfo{com.lenovo.scg/com.lenovo.minicamera.activity.MiniCameraActivity}" name="gallery" />
-    <item class="ComponentInfo{com.lenovo.scg/com.lenovo.scg.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.moblynx.galleryics/com.moblynx.galleryics.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.motorola.blurgallery/com.motorola.cgallery.Dashboard}" name="gallery" />
-    <item class="ComponentInfo{com.motorola.gallery/com.motorola.gallery.TopScreen}" name="gallery" />
-    <item class="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" name="gallery" />
-    <item class="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" name="gallery" />
-    <item class="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" name="gallery" />
-    <item class="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" name="gallery" />
-    <item class="ComponentInfo{com.sonyericsson.gallery/com.sonyericsson.gallery.Gallery}" name="gallery" />
+    <item class="com.sec.android.gallery3d.app.GalleryOpaqueActivity" name="gallery" />
+    <item class="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" name="gallery" />
+    <item class="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity" name="gallery" />
+    <item class="cast.meow.right.com.castformuzei/cast.meow.right.com.castformuzei.GalleryActivity" name="gallery" />
+    <item class="com.android.camera.GalleryPicker" name="gallery" />
+    <item class="com.android.gallery/com.android.gallery.ui.MainActivity" name="gallery" />
+    <item class="com.android.gallery3d.app.GalleryActivity" name="gallery" />
+    <item class="com.android.gallery3d.app.Gallery" name="gallery" />
+    <item class="com.android.sec.gallery3d/com.android.sec.gallery3d.app.Gallery" name="gallery" />
+    <item class="com.asus.ephoto.app.EPhotoActivity" name="gallery" />
+    <item class="com.asus.gallery/com.asus.gallery.app.EPhotoActivity" name="gallery" />
+    <item class="com.cooliris.media/com.cooliris.media.Gallery" name="gallery" />
+    <item class="com.cyngn.gallerynext/com.cyngn.gallerynext.app.GalleryActivity" name="gallery" />
+    <item class="com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery" name="gallery" />
+    <item class="com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity" name="gallery" />
+    <item class="com.google.android.gallery3d/com.cooliris.media.Gallery" name="gallery" />
+    <item class="com.htc.album.AlbumMain.ActivityMainCarousel" name="gallery" />
+    <item class="com.htc.album.AlbumMain.ActivityMainDropList" name="gallery" />
+    <item class="com.htc.album.AlbumMain.ActivityMainTabHost" name="gallery" />
+    <item class="com.htc.album.AlbumTabSwitchActivity" name="gallery" />
+    <item class="com.lenovo.scg/com.android.camera.CameraLauncher" name="camera" />
+    <item class="com.lenovo.scg/com.lenovo.minicamera.activity.MiniCameraActivity" name="gallery" />
+    <item class="com.lenovo.scg/com.lenovo.scg.app.Gallery" name="gallery" />
+    <item class="com.moblynx.galleryics/com.moblynx.galleryics.app.Gallery" name="gallery" />
+    <item class="com.motorola.blurgallery/com.motorola.cgallery.Dashboard" name="gallery" />
+    <item class="com.motorola.gallery/com.motorola.gallery.TopScreen" name="gallery" />
+    <item class="com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity" name="gallery" />
+    <item class="com.oppo.gallery3d.app.Gallery" name="gallery" />
+    <item class="com.sec.android.gallery3d.app.GalleryActivity" name="gallery" />
+    <item class="com.sec.android.gallery3d.app.GalleryOpaqueActivity" name="gallery" />
+    <item class="com.sec.android.gallery3d.app.Gallery" name="gallery" />
+    <item class="com.sonyericsson.album.MainActivity" name="gallery" />
+    <item class="com.sonyericsson.gallery.Gallery" name="gallery" />
 
     <!-- Games -->
-    <item class="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" name="games"/>
-    <item class="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" name="games"/>
+    <item class="com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity" name="games"/>
+    <item class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity" name="games"/>
 
     <!-- Gardeshgari_MBanking -->
-    <item class="ComponentInfo{mob.banking.android.gardesh/mobile.banking.activity.StartActivity}" name="gardeshgari_mbanking"/>
+    <item class="mob.banking.android.gardesh/mobile.banking.activity.StartActivity" name="gardeshgari_mbanking"/>
 
     <!-- GIF_Search -->
-    <item class="ComponentInfo{com.media.zatashima.gif/com.tenor.android.demo.search.activity.HomeTenorActivity}" name="gif_search"/>
+    <item class="com.media.zatashima.gif/com.tenor.android.demo.search.activity.HomeTenorActivity" name="gif_search"/>
 
     <!-- Google Drive -->
-    <item class="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" name="google_drive"/>
+    <item class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity" name="google_drive"/>
 
     <!-- Google_Opinion_Rewards -->
-    <item class="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" name="google_opinion_rewards"/>
+    <item class="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity" name="google_opinion_rewards"/>
 
     <!-- Google_Play_Newsstand -->
-    <item class="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" name="news"/>
+    <item class="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="news"/>
 
     <!-- Hangouts -->
-    <item class="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" name="hangouts"/>
+    <item class="com.google.android.talk/com.google.android.talk.SigningInActivity" name="hangouts"/>
 
     <!-- Hill_Climb_Racing_2 -->
-    <item class="ComponentInfo{com.fingersoft.hcr2/com.fingersoft.hcr2.AppActivity}" name="hill_climb_racing_2"/>
+    <item class="com.fingersoft.hcr2/com.fingersoft.hcr2.AppActivity" name="hill_climb_racing_2"/>
 
     <!-- imo -->
-    <item class="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.activities.Home}" name="imo"/>
+    <item class="com.imo.android.imoim/com.imo.android.imoim.activities.Home" name="imo"/>
 
     <!-- JuiceSSH -->
-    <item class="ComponentInfo{com.sonelli.juicessh/com.sonelli.juicessh.activities.MainActivity}" name="juicessh"/>
+    <item class="com.sonelli.juicessh/com.sonelli.juicessh.activities.MainActivity" name="juicessh"/>
 
     <!-- Knife_Fruit -->
-    <item class="ComponentInfo{com.orangenose.knifefruit/com.unity3d.player.UnityPlayerActivity}" name="knife_fruit"/>
+    <item class="com.orangenose.knifefruit/com.unity3d.player.UnityPlayerActivity" name="knife_fruit"/>
 
     <!-- LinkedIn -->
-    <item class="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" name="linkedin"/>
+    <item class="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" name="linkedin"/>
 
     <!-- LocalCast -->
-    <item class="ComponentInfo{de.stefanpledl.localcast/de.stefanpledl.localcast.main.MainActivity}" name="localcast"/>
+    <item class="de.stefanpledl.localcast/de.stefanpledl.localcast.main.MainActivity" name="localcast"/>
 
     <!-- Lucky_Patcher -->
-    <item class="ComponentInfo{com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivity-Original}" name="lucky_patcher"/>
+    <item class="com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivity-Original" name="lucky_patcher"/>
 
     <!-- Medium -->
-    <item class="ComponentInfo{com.medium.reader/com.medium.android.donkey.start.SplashActivity}" name="medium"/>
+    <item class="com.medium.reader/com.medium.android.donkey.start.SplashActivity" name="medium"/>
 
     <!-- Memrise -->
-    <item class="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}" name="memrise"/>
+    <item class="com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity" name="memrise"/>
 
     <!-- Mi_Remote -->
-    <item class="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" name="mi_remote"/>
+    <item class="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
 
     <!-- Monument_Valley -->
-    <item class="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity}" name="monument_valley"/>
+    <item class="com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity" name="monument_valley"/>
 
     <!-- Odyssey -->
-    <item class="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}" name="odyssey"/>
+    <item class="com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity" name="odyssey"/>
 
     <!-- Packet_Capture -->
-    <item class="ComponentInfo{app.greyshirts.sslcapture/ui.HomeActivity}" name="packet_capture"/>
+    <item class="app.greyshirts.sslcapture/ui.HomeActivity" name="packet_capture"/>
 
     <!-- Packet_Tracer_Mobile -->
-    <item class="ComponentInfo{com.netacad.PacketTracerM/org.qtproject.qt5.android.bindings.QtActivity}" name="packet_tracer_mobile"/>
+    <item class="com.netacad.PacketTracerM/org.qtproject.qt5.android.bindings.QtActivity" name="packet_tracer_mobile"/>
 
     <!-- Pasargad_MPayment -->
-    <item class="ComponentInfo{mobile.payment.android/mobile.payment.activity.StartActivity}" name="pasargad_mpayment"/>
+    <item class="mobile.payment.android/mobile.payment.activity.StartActivity" name="pasargad_mpayment"/>
 
     <!-- Photoshop_Express -->
-    <item class="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" name="photoshop_express"/>
+    <item class="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" name="photoshop_express"/>
 
     <!-- PicsArt -->
-    <item class="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" name="picsart"/>
+    <item class="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity" name="picsart"/>
 
     <!-- Playbook -->
-    <item class="ComponentInfo{com.google.android.apps.secrets/com.google.android.apps.secrets.ui.main.MainActivity}" name="google_playbook"/>
+    <item class="com.google.android.apps.secrets/com.google.android.apps.secrets.ui.main.MainActivity" name="google_playbook"/>
 
     <!-- Plus Messenger -->
-    <item class="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" name="plus_messenger"/>
+    <item class="org.telegram.plus/org.telegram.ui.LaunchActivity" name="plus_messenger"/>
 
     <!-- Py -->
-    <item class="ComponentInfo{com.py.learn/com.py.activities.LauncherActivity}" name="py"/>
+    <item class="com.py.learn/com.py.activities.LauncherActivity" name="py"/>
 
     <!-- SMS_Backup_Restore -->
-    <item class="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity}" name="sms_backup_restore"/>
+    <item class="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" name="sms_backup_restore"/>
 
     <!-- S_Voice -->
-    <item class="ComponentInfo{com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity}" name="s_voice"/>
+    <item class="com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity" name="s_voice"/>
 
     <!-- Samsung_Health -->
-    <item class="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" name="health"/>
+    <item class="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" name="health"/>
 
     <!-- Samsung_Level -->
-    <item class="ComponentInfo{com.sec.samsungsoundphone/com.sec.samsungsoundphone.ui.control.DefaultActivity}" name="samsung_level"/>
+    <item class="com.sec.samsungsoundphone/com.sec.samsungsoundphone.ui.control.DefaultActivity" name="samsung_level"/>
 
     <!-- Screen_Recorder -->
-    <item class="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}" name="screen_recorder"/>
+    <item class="com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity" name="screen_recorder"/>
 
     <!-- SideSync -->
-    <item class="ComponentInfo{com.sec.android.sidesync30/com.sec.android.sidesync30.ui.SideSyncActivity}" name="sidesync"/>
+    <item class="com.sec.android.sidesync30/com.sec.android.sidesync30.ui.SideSyncActivity" name="sidesync"/>
 
     <!-- Skype -->
-    <item class="ComponentInfo{com.skype.raider/com.skype.raider.Main}" name="skype"/>
+    <item class="com.skype.raider/com.skype.raider.Main" name="skype"/>
 
     <!-- Smart_Things -->
-    <item class="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}" name="smart_things"/>
+    <item class="com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity" name="smart_things"/>
 
     <!-- SoloLearn -->
-    <item class="ComponentInfo{com.sololearn/com.sololearn.app.activities.LauncherActivity}" name="sololearn"/>
+    <item class="com.sololearn/com.sololearn.app.activities.LauncherActivity" name="sololearn"/>
 
     <!-- Tehran_Metro -->
-    <item class="ComponentInfo{co.fardad.android.metro/co.fardad.android.metro.activities.SplashActivity}" name="tehran_metro"/>
+    <item class="co.fardad.android.metro/co.fardad.android.metro.activities.SplashActivity" name="tehran_metro"/>
 
     <!-- Truecaller -->
-    <item class="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" name="truecaller"/>
+    <item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
 
     <!-- Udemy -->
-    <item class="ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}" name="udemy"/>
+    <item class="com.udemy.android.SplashActivity" name="udemy"/>
 
     <!-- WePod -->
-    <item class="ComponentInfo{com.dotin.socialApplication/com.dotin.socialApplication.activities.StartActivity}" name="wepod"/>
+    <item class="com.dotin.socialApplication.activities.StartActivity" name="wepod"/>
 
     <!-- شمس -->
-    <item class="ComponentInfo{ir.lydia.shams/chiko.shams.SplashScreen}" name="shams"/>
+    <item class="chiko.shams.SplashScreen" name="shams"/>
 
     <!-- Audio_Recorder -->
-    <item class="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" name="voice_recorder"/>
-    <item class="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" name="voice_recorder"/>
+    <item class="com.sonymobile.androidapp.audiorecorder.activity.MainActivity" name="voice_recorder"/>
+    <item class="com.sec.android.app.voicenote.main.VNMainActivity" name="voice_recorder"/>
 
     <!-- GIPHY -->
-    <item class="ComponentInfo{com.giphy.messenger/com.giphy.messenger.app.MainActivity}" name="giphy"/>
+    <item class="com.giphy.messenger/com.giphy.messenger.app.MainActivity" name="giphy"/>
 
     <!-- Glim -->
-    <item class="ComponentInfo{com.icons.glim.lite/com.afollestad.polar.ui.SplashScreen}" name="glim"/>
+    <item class="com.icons.glim.lite/com.afollestad.polar.ui.SplashScreen" name="glim"/>
 
     <!-- Gmail -->
-    <item class="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" name="gmail"/>
+    <item class="com.google.android.gm.ConversationListActivityGmail" name="gmail"/>
 
     <!-- Google_Play_Store -->
-    <item class="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" name="google_play_store"/>
+    <item class="com.android.vending.AssetBrowserActivity" name="google_play_store"/>
 
     <!-- Keyboard -->
-    <item class="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" name="keyboard"/>
+    <item class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="keyboard"/>
+
+    <!-- Musixmatch -->
+    <item class="com.musixmatch.android.ui.phone.DashBoardActivity" name="musixmatch"/>
 
     <!-- MS Excel -->
-    <item class="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" name="msexcel"/>
+    <item class="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity" name="msexcel"/>
 
     <!-- MS Word -->
-    <item class="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" name="msword"/>
+    <item class="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity" name="msword"/>
 
     <!-- MS PowerPoint -->
-    <item class="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" name="mspowerpoint"/>
+    <item class="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity" name="mspowerpoint"/>
 
     <!-- Google -->
-    <item class="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" name="google"/>
-    <item class="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" name="google_voice"/>
-    <item class="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" name="google_search"/>
+    <item class="com.google.android.googlequicksearchbox.SearchActivity" name="google"/>
+    <item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google_voice"/>
+    <item class="com.google.android.search.clientui.SearchServiceClientActivity" name="google_search"/>
 
     <!-- Instagram -->
-    <item class="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" name="instagram"/>
+    <item class="com.instagram.android.activity.MainTabActivity" name="instagram"/>
 
     <!-- KDE_Connect -->
-    <item class="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" name="kde_connect"/>
+    <item class="org.kde.kdeconnect.UserInterface.MainActivity" name="kde_connect"/>
 
     <!-- Kickstarter -->
-    <item class="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" name="kickstarter"/>
+    <item class="com.kickstarter.ui.activities.DiscoveryActivity" name="kickstarter"/>
 
     <!-- Madbarz -->
-    <item class="ComponentInfo{com.madbarz.madbarzApp/com.madbarz.madbarzApp.MainActivity}" name="madbarz"/>
+    <item class="com.madbarz.madbarzApp.MainActivity" name="madbarz"/>
 
     <!-- Magisk_Manager -->
-    <item class="ComponentInfo{com.topjohnwu.magisk/a.c}" name="magisk_manager"/>
+    <item class="a.c" name="magisk_manager"/>
 
     <!-- Meikade -->
-    <item class="ComponentInfo{org.nilegroup.Meikade/land.aseman.android.AsemanActivity}" name="meikade"/>
+    <item class="land.aseman.android.AsemanActivity" name="meikade"/>
 
     <!-- Maps -->
-    <item class="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" name="maps"/>
+    <item class="com.google.android.maps.MapsActivity" name="maps"/>
 
     <!-- Messages -->
-    <item class="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" name="messages"/>
-    <item class="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" name="messages"/>
-    <item class="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" name="messages"/>
-    <item class="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" name="messages"/>
-    <item class="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" name="messages"/>
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="messages"/>
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messages"/>
+    <item class="com.htc.sense.mms.ui.ConversationList" name="messages"/>
+    <item class="com.android.mms.ui.ConversationComposer" name="messages"/>
+    <item class="com.android.mms.ui.ConversationList" name="messages"/>
 
     <!-- Memo -->
-    <item class="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" name="notes"/>
+    <item class="com.samsung.android.app.memo.Main" name="notes"/>
 
     <!-- Movie Maker -->
-    <item class="ComponentInfo{com.sec.android.app.vefull/com.sec.android.app.vefull.activity.ProjectListActivity}" name="movie_maker"/>
+    <item class="com.sec.android.app.vefull.activity.ProjectListActivity" name="movie_maker"/>
 
     <!-- Music -->
-    <item class="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" name="music" />
-    <item class="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" name="music" />
-    <item class="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" name="rhythmbox" />
-    <item class="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" name="rhythmbox" />
-    <item class="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" name="music"/>
-    <item class="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" name="music" />
-    <item class="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" name="music" />
-    <item class="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" name="music" />
-    <item class="ComponentInfo{com.android.music/com.android.music.MusicScanResultActivity}" name="music" />
-    <item class="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" name="music" />
-    <item class="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" name="music" />
-    <item class="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" name="music"/>
-    <item class="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" name="music" />
-    <item class="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" name="music" />
-    <item class="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" name="music" />
-    <item class="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainActivity}" name="music" />
-    <item class="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}" name="music"/>
-    <item class="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}" name="music" />
+    <item class="com.android.music.activitymanagement.TopLevelActivity" name="music" />
+    <item class="com.sec.android.app.music.common.activity.MusicMainActivity" name="music" />
+    <item class="com.kabouzeid.gramophone.ui.activities.MainActivity" name="rhythmbox" />
+    <item class="code.name.monkey.retromusic.ui.activities.MainActivity" name="rhythmbox" />
+    <item class="com.android.music.MusicBrowserActivity" name="music"/>
+    <item class="com.android.mediacenter.PageActivity" name="music" />
+    <item class="com.android.music.list.activity.MpMainTabActivity" name="music" />
+    <item class="com.android.music.MusicBrowserActivity" name="music" />
+    <item class="com.android.music.MusicScanResultActivity" name="music" />
+    <item class="com.asus.music.MusicMainActivity" name="music" />
+    <item class="com.cyanogenmod.eleven.ui.activities.HomeActivity" name="music" />
+    <item class="com.htc.music.browserlayer.MusicBrowserTabActivity" name="music"/>
+    <item class="com.lenovo.music.ui.LeAppLoadingActivity" name="music" />
+    <item class="com.lge.music.MusicBrowserActivity" name="music" />
+    <item class="com.oppo.music.MainListActivity" name="music" />
+    <item class="com.samsung.musicplus.MusicMainActivity" name="music" />
+    <item class="com.sec.android.app.music.list.activity.MpMainTabActivity" name="music"/>
+    <item class="com.sec.android.app.music.MusicActionTabActivity" name="music" />
 
     <!-- Orbot -->
-    <item class="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" name="orbot"/>
+    <item class="org.torproject.android/org.torproject.android.OrbotMainActivity" name="orbot"/>
 
     <!-- People -->
-    <item class="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" name="people" />
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" name="people" />
-    <item class="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" name="people"/>
-    <item class="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" name="people"/>
-    <item class="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" name="people"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" name="people"/>
-    <item class="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" name="people"/>
+    <item class="com.oneplus.contacts.activities.OPPeopleActivity" name="people" />
+    <item class="com.android.contacts.activities.PeopleActivity" name="people" />
+    <item class="com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity" name="people"/>
+    <item class="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity" name="people"/>
+    <item class="com.google.android.contacts/com.android.contacts.activities.PeopleActivity" name="people"/>
+    <item class="com.android.contacts.DialtactsContactsEntryActivity" name="people"/>
+    <item class="com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity" name="people"/>
 
     <!-- Phone -->
-    <item class="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" name="phone" />
-    <item class="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" name="phone"/>
-    <item class="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.dualsim.SmartCallActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.activities.PhoneFrontDoor}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.BbDialtactsMainFrameActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.dialer.DialerPhoneActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialerActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallListEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsDialerEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsPhoneEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsRecentEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.PhoneDialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.SmartDialerActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsSearch}" name="phone"/>
-    <item class="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsTabActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.firewall.PhoneFireWall}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.LaunchCallInterface}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.PhoneApp}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.Settings}" name="phone"/>
-    <item class="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" name="phone"/>
-    <item class="ComponentInfo{com.cootek.smartdialer/com.cootek.smartdialer.TDialer}" name="phone"/>
-    <item class="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" name="phone"/>
-    <item class="ComponentInfo{com.huawei.android.dialer/com.huawei.android.dialer.TwelveKeyDialer}" name="phone"/>
-    <item class="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" name="phone"/>
-    <item class="ComponentInfo{com.motorola.blur/com.motorola.blur.ViewIdentitiesFacetActivity}" name="phone"/>
-    <item class="ComponentInfo{com.motorola.dialer/com.motorola.dialer.CallLogShortcut}" name="phone"/>
-    <item class="ComponentInfo{com.motorola.dialer/com.motorola.dialer.DialtactsContactsEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.samsung.android.app.dialertab/com.samsung.android.app.dialertab.DialerTabActivity}" name="phone"/>
-    <item class="ComponentInfo{com.samsung.dialer/com.samsung.dialer.SplashScreen}" name="phone"/>
-    <item class="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" name="phone"/>
-    <item class="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabDialerActivity}" name="phone"/>
-    <item class="ComponentInfo{com.simpler.dialer/com.simpler.ui.activities.DialerActivity}" name="phone"/>
-    <item class="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" name="phone"/>
-    <item class="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" name="phone"/>
+    <item class="com.android.dialer.DialtactsActivity" name="phone"/>
+    <item class="com.android.contacts.activities.TwelveKeyDialer" name="phone"/>
+    <item class="com.android.contacts.activities.DialtactsActivity" name="phone"/>
+    <item class="com.android.dialer.DialtactsActivity" name="phone"/>
+    <item class="com.oneplus.contacts.activities.OPDialtactsActivity" name="phone" />
+    <item class="com.android.dialer.DialtactsActivity" name="phone"/>
+    <item class="com.android.incallui.DialerLauncher" name="phone"/>
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone"/>
+    <item class="com.android.phone.dualsim.SmartCallActivity" name="phone"/>
+    <item class="com.android.dialer.app.DialtactsActivity" name="phone"/>
+    <item class="com.android.dialer.TwelveKeyDialer" name="phone"/>
+    <item class="com.android.contacts.activities.PhoneFrontDoor" name="phone"/>
+    <item class="com.android.contacts.BbDialtactsMainFrameActivity" name="phone"/>
+    <item class="com.android.contacts.CallDialtactsActivity" name="phone"/>
+    <item class="com.android.contacts.dialer.DialerPhoneActivity" name="phone"/>
+    <item class="com.android.contacts.DialerActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsCallListEntryActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsCallLogActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsContactsEntryActivityForDialpad" name="phone"/>
+    <item class="com.android.contacts.DialtactsDialerEntryActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsEntryActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsPhoneEntryActivity" name="phone"/>
+    <item class="com.android.contacts.DialtactsRecentEntryActivity" name="phone"/>
+    <item class="com.android.contacts.PhoneDialtactsActivity" name="phone"/>
+    <item class="com.android.contacts.SmartDialerActivity" name="phone"/>
+    <item class="com.android.contacts.TwelveKeyDialer" name="phone"/>
+    <item class="com.oppo.contacts.OppoDialtactsActivity" name="phone"/>
+    <item class="com.sec.android.app.contacts.DialerEntryActivity" name="phone"/>
+    <item class="com.android.htccontacts.ContactsSearch" name="phone"/>
+    <item class="com.android.htccontacts.ContactsTabActivity" name="phone"/>
+    <item class="com.android.htccontacts.DialerTabActivity" name="phone"/>
+    <item class="com.android.htcdialer.Dialer" name="phone"/>
+    <item class="com.android.phone.DialerSClass" name="phone"/>
+    <item class="com.android.phone.DialtactsCallLogActivity" name="phone"/>
+    <item class="com.android.phone.DialtactsContactsEntryActivity" name="phone"/>
+    <item class="com.android.phone.firewall.PhoneFireWall" name="phone"/>
+    <item class="com.android.phone.LaunchCallInterface" name="phone"/>
+    <item class="com.android.phone.PhoneApp" name="phone"/>
+    <item class="com.android.phone.Settings" name="phone"/>
+    <item class="com.android.phone.TwDialer" name="phone"/>
+    <item class="com.cootek.smartdialer.TDialer" name="phone"/>
+    <item class="com.htc.contacts.DialerTabActivity" name="phone"/>
+    <item class="com.huawei.android.dialer.TwelveKeyDialer" name="phone"/>
+    <item class="com.lenovo.ideafriend.alias.DialtactsActivity" name="phone"/>
+    <item class="com.motorola.blur.ViewIdentitiesFacetActivity" name="phone"/>
+    <item class="com.motorola.dialer.CallLogShortcut" name="phone"/>
+    <item class="com.motorola.dialer.DialtactsContactsEntryActivity" name="phone"/>
+    <item class="com.samsung.android.app.dialertab.DialerTabActivity" name="phone"/>
+    <item class="com.samsung.dialer.SplashScreen" name="phone"/>
+    <item class="com.sec.android.app.dialertab.DialerTabActivity" name="phone"/>
+    <item class="com.sec.android.app.dialertab.DialerTabDialerActivity" name="phone"/>
+    <item class="com.simpler.ui.activities.DialerActivity" name="phone"/>
+    <item class="com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity" name="phone"/>
+    <item class="com.android.contacts.activities.DialtactsActivity" name="phone"/>
 
     <!-- Settings -->
-    <item class="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" name="settings"/>
-    <item class="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" name="settings"/>
-    <item class="ComponentInfo{com.android.settings/com.android.settings.Settings}" name="settings" />
-    <item class="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" name="settings" />
-    <item class="ComponentInfo{com.example.android.apis/com.example.android.apis.ApiDemos}" name="settings"/>
-    <item class="ComponentInfo{com.android.customlocale2/com.android.customlocale2.CustomLocaleActivity}" name="settings"/>
-    <item class="ComponentInfo{com.android.development/com.android.development.Development}" name="settings"/>
-    <item class="ComponentInfo{com.android.development_settings/android.app.AliasActivity}" name="development_settings"/>
+    <item class="com.android.settings.HWSettings" name="settings"/>
+    <item class="com.google.android.gms.app.settings.GoogleSettingsActivity" name="settings"/>
+    <item class="com.android.settings.Settings" name="settings" />
+    <item class="com.android.settings.MainSettings" name="settings" />
+    <item class="com.example.android.apis.ApiDemos" name="settings"/>
+    <item class="com.android.customlocale2.CustomLocaleActivity" name="settings"/>
+    <item class="com.android.development.Development" name="settings"/>
+    <item class="android.app.AliasActivity" name="development_settings"/>
 
     <!-- Pinterest -->
-    <item class="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" name="pinterest"/>
+    <item class="com.pinterest/com.pinterest.activity.PinterestActivity" name="pinterest"/>
 
     <!-- Reddit -->
-    <item class="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" name="reddit"/>
+    <item class="com.reddit.frontpage/com.reddit.frontpage.StartActivity" name="reddit"/>
 
     <!-- Smashy_Road_Wanted -->
-    <item class="ComponentInfo{com.rkgames.smashywanted/com.unity3d.player.UnityPlayerNativeActivity}" name="smashy_road_wanted"/>
-    <item class="ComponentInfo{com.rkgames.smashywanted/com.unity3d.player.UnityPlayerActivity}" name="smashy_road_wanted"/>
+    <item class="com.unity3d.player.UnityPlayerNativeActivity" name="smashy_road_wanted"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="smashy_road_wanted"/>
 
     <!-- SIM_Toolkit -->
-    <item class="ComponentInfo{com.android.stk/com.android.stk.StkMain}" name="sim_toolkit"/>
-    <item class="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" name="sim_toolkit"/>
+    <item class="com.android.stk.StkMain" name="sim_toolkit"/>
+    <item class="com.android.stk.StkLauncherActivity" name="sim_toolkit"/>
 
     <!-- Samanak -->
-    <item class="ComponentInfo{com.samanpr.samanak/com.samanpr.samanak.activities.Splash}" name="samanak"/>
+    <item class="com.samanpr.samanak.activities.Splash" name="samanak"/>
 
     <!-- Shadowsocks -->
-    <item class="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" name="shadowsocks"/>
+    <item class="com.github.shadowsocks.MainActivity" name="shadowsocks"/>
 
     <!-- Shazam -->
-    <item class="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" name="shazam"/>
+    <item class="com.shazam.android.activities.SplashActivity" name="shazam"/>
 
     <!-- Snapp -->
-    <item class="ComponentInfo{cab.snapp.passenger/newapp.com.taxiyaab.taxiyaab.PassengerSplashScreen}" name="snapp" />
-    <item class="ComponentInfo{cab.snapp.passenger.play/newapp.com.taxiyaab.taxiyaab.PassengerSplashScreen}" name="snapp" />
+    <item class="newapp.com.taxiyaab.taxiyaab.PassengerSplashScreen" name="snapp" />
+    <item class="newapp.com.taxiyaab.taxiyaab.PassengerSplashScreen" name="snapp" />
 
     <!-- SnappFood -->
-    <item class="ComponentInfo{com.zoodfood.android.play/com.zoodfood.android.activity.SplashActivity}" name="snappfood"/>
+    <item class="com.zoodfood.android.activity.SplashActivity" name="snappfood"/>
 
     <!-- Spotify -->
-    <item class="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" name="spotify"/>
+    <item class="com.spotify.music.MainActivity" name="spotify"/>
 
     <!-- Trello -->
-    <item class="ComponentInfo{com.trello/com.trello.home.HomeActivity}" name="trello"/>
+    <item class="com.trello.home.HomeActivity" name="trello"/>
 
     <!-- Waze -->
-    <item class="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" name="waze"/>
+    <item class="com.waze.FreeMapAppActivity" name="waze"/>
 
     <!-- Wallpapers -->
-    <item class="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" name="wallpapers"/>
+    <item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="wallpapers"/>
 
     <!-- Weather -->
-    <item class="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" name="weather"/>
-    <item class="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" name="weather"/>
-    <item class="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" name="weather"/>
+    <item class="com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity" name="weather"/>
+    <item class="com.samsung.android.weather.app.AppLauncherActivity" name="weather"/>
+    <item class="net.oneplus.weather.app.MainActivity" name="weather"/>
 
     <!-- WhatsApp -->
-    <item class="ComponentInfo{com.whatsapp/com.whatsapp.Main}" name="whatsapp"/>
+    <item class="com.whatsapp.Main" name="whatsapp"/>
 
     <!-- YouTube -->
-    <item class="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" name="youtube"/>
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube"/>
 
     <!-- Stores -->
-    <item class="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" name="software_center" />
+    <item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="software_center" />
 
     <!-- Tap30 -->
-    <item class="ComponentInfo{taxi.tap30.passenger/taxi.tap30.passenger.ui.RootActivity}" name="tap30" />
+    <item class="taxi.tap30.passenger.ui.RootActivity" name="tap30" />
 
     <!-- Tasks -->
-    <item class="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" name="tasks" />
+    <item class="com.google.android.apps.tasks.ui.TaskListsActivity" name="tasks" />
 
     <!-- Telegram -->
-    <item class="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" name="telegram" />
-    <item class="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" name="telegram"/>
-    <item class="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" name="telegram" />
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
+    <item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
 
     <!-- Terminal -->
-    <item class="ComponentInfo{yarolegovich.materialterminal/yarolegovich.materialterminal.Term}" name="terminal"/>
-    <item class="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" name="terminal"/>
-    <item class="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" name="terminal"/>
-    <item class="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" name="terminal"/>
+    <item class="yarolegovich.materialterminal.Term" name="terminal"/>
+    <item class="com.android.terminal.TerminalActivity" name="terminal"/>
+    <item class="jackpal.androidterm.Term" name="terminal"/>
+    <item class="com.termux.app.TermuxActivity" name="terminal"/>
 
     <!-- Themes -->
-    <item class="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" name="themes"/>
+    <item class="com.samsung.android.themestore.activity.Launcher" name="themes"/>
 
     <!-- Translate -->
-    <item class="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" name="translate"/>
+    <item class="com.google.android.apps.translate.TranslateActivity" name="translate"/>
 
     <!-- Twitter -->
-    <item class="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" name="twitter"/>
+    <item class="com.twitter.android.StartActivity" name="twitter"/>
 
     <!-- Twitch -->
-    <item class="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" name="twitch"/>
+    <item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
 
     <!-- Video -->
-    <item class="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" name="video"/>
-    <item class="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" name="video"/>
-    <item class="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" name="video"/>
+    <item class="com.samsung.android.videolist.list.activity.VideoList" name="video"/>
+    <item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="video"/>
+    <item class="com.google.android.youtube.videos.EntryPoint" name="video"/>
 
     <!-- Wallpaper -->
-    <item class="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" name="wallpaper"/>
+    <item class="com.backdrops.wallpapers.WelcomeActivity" name="wallpaper"/>
 
     <!-- neutriNote -->
-    <item
-        class="com.appmindlab.nano.IntroActivity"
-        name="neutrinote"/>
+    <item class="com.appmindlab.nano.IntroActivity" name="neutrinote"/>
 
     <!-- XDA_Labs -->
-    <item
-        class="com.xda.labs.LabsLauncher"
-        name="xda_labs"/>
+    <item class="com.xda.labs.LabsLauncher" name="xda_labs"/>
 
     <!-- SuperSU -->
     <item
@@ -776,12 +797,8 @@
         name="netguard"/>
 
     <!-- Music -->
-    <item
-        class="com.maxfour.music.ui.activities.MainActivity"
-        name="music"/>
+    <item class="com.maxfour.music.ui.activities.MainActivity" name="music"/>
 
     <!-- MiXplorer -->
-    <item
-        class="com.mixplorer.activities.BrowseActivity"
-        name="file_manager"/>
+    <item class="com.mixplorer.activities.BrowseActivity" name="file_manager"/>
 </appmap>

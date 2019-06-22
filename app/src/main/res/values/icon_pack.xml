@@ -53,6 +53,9 @@
         <item>slack</item>
         <item>themes</item>
         <item>gnome_aisleriot</item>
+        <item>finder</item>
+        <item>facebook</item>
+        <item>musixmatch</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -79,8 +82,10 @@
         <item>aparat</item>
         <item>apex_launcher</item>
         <item>app_logo</item>
+        <item>appsales</item>
         <item>aviary</item>
         <item>backups</item>
+        <item>bama</item>
         <item>battery</item>
         <item>bazaar</item>
         <item>bitwarden</item>
@@ -92,6 +97,7 @@
         <item>camera</item>
         <item>camera_connect</item>
         <item>camscanner</item>
+        <item>castle_clash</item>
         <item>chrome_canary</item>
         <item>clock</item>
         <item>clock_white</item>
@@ -103,6 +109,7 @@
         <item>digikala</item>
         <item>disney_gif</item>
         <item>dolphin</item>
+        <item>doodle_jump</item>
         <item>dots</item>
         <item>download</item>
         <item>download_second</item>
@@ -113,24 +120,29 @@
         <item>evie_launcher</item>
         <item>f_droid</item>
         <item>facebook</item>
+        <item>facebook_messenger</item>
         <item>fidibo</item>
         <item>file_manager</item>
         <item>file_manager_orange</item>
+        <item>file_manager_root</item>
         <item>file_roller</item>
         <item>filimo</item>
         <item>find_my_device</item>
+        <item>finder</item>
         <item>firefox</item>
         <item>firefox_nightly</item>
         <item>fitbit</item>
         <item>flipflop</item>
         <item>fm_radio</item>
         <item>follower_analyzer</item>
+        <item>fotmob</item>
         <item>foursquare</item>
         <item>gallery</item>
         <item>games</item>
         <item>gardeshgari_mbanking</item>
         <item>gif_search</item>
         <item>giphy</item>
+        <item>github</item>
         <item>glim</item>
         <item>gmail</item>
         <item>gnome_aisleriot</item>
@@ -140,14 +152,17 @@
         <item>google_duo</item>
         <item>google_home</item>
         <item>google_opinion_rewards</item>
+        <item>google_play_console</item>
         <item>google_play_store</item>
         <item>google_playbook</item>
         <item>google_plus</item>
         <item>google_voice</item>
+        <item>h_drive</item>
         <item>hangouts</item>
         <item>health</item>
         <item>help</item>
         <item>hill_climb_racing_2</item>
+        <item>huk_kwgt</item>
         <item>hyperlapse_mobile</item>
         <item>imo</item>
         <item>instagram</item>
@@ -172,6 +187,7 @@
         <item>messages</item>
         <item>mi_drop</item>
         <item>mi_remote</item>
+        <item>mifit</item>
         <item>mindly</item>
         <item>monument_valley</item>
         <item>movie_maker</item>
@@ -179,6 +195,7 @@
         <item>mspowerpoint</item>
         <item>msword</item>
         <item>music</item>
+        <item>musixmatch</item>
         <item>muviz</item>
         <item>my_cloud</item>
         <item>netguard</item>
@@ -199,12 +216,15 @@
         <item>people</item>
         <item>periscope</item>
         <item>phone</item>
+        <item>photogrid</item>
         <item>photoshop_express</item>
         <item>picnic</item>
         <item>picsart</item>
         <item>pinterest</item>
         <item>plus_messenger</item>
+        <item>poco_launcher</item>
         <item>py</item>
+        <item>radio_javan</item>
         <item>reddit</item>
         <item>remote</item>
         <item>rhythmbox</item>
@@ -229,6 +249,7 @@
         <item>sms_backup_restore</item>
         <item>snapp</item>
         <item>snappfood</item>
+        <item>snapseed</item>
         <item>software_center</item>
         <item>sololearn</item>
         <item>soundcloud</item>
@@ -241,6 +262,7 @@
         <item>ted</item>
         <item>tehran_metro</item>
         <item>telegram</item>
+        <item>telegram_x</item>
         <item>telewebion</item>
         <item>terminal</item>
         <item>termius</item>
@@ -256,6 +278,7 @@
         <item>udemy</item>
         <item>video</item>
         <item>vlc</item>
+        <item>vnc_viewer</item>
         <item>voice_recorder</item>
         <item>vue</item>
         <item>wallpaper</item>

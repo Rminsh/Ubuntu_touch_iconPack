@@ -99,6 +99,9 @@
     <!-- Apex_Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex_launcher"/>
 
+    <!-- AppSales -->
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="appsales"/>
+
     <!-- Aviary -->
     <item component="ComponentInfo{com.aviary.android.feather/com.aviary.android.feather.MainActivity}" drawable="aviary"/>
 
@@ -237,6 +240,9 @@
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner"/>
 
+    <!-- Castle_Clash -->
+    <item component="ComponentInfo{com.igg.castleclash/com.igg.castleclash.CastleClash}" drawable="castle_clash"/>
+
     <!-- Clock -->
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
     <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock" />
@@ -281,6 +287,9 @@
     <!-- Disney_Gif -->
     <item component="ComponentInfo{com.disney.disneygif_goo/com.disney.disneygif_goo.activity.LaunchActivity}" drawable="disney_gif"/>
 
+    <!-- Doodle_Jump -->
+    <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity}" drawable="doodle_jump"/>
+
     <!-- Dots -->
     <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.apportable.activity.VerdeActivity}" drawable="dots"/>
     <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity}" drawable="dots"/>
@@ -292,6 +301,10 @@
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download"/>
     <item component="ComponentInfo{com.napolovd.piratecat/com.napolovd.piratecat.Main}" drawable="download_second"/>
+    <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="download"/>
+
+    <!-- DRIVE -->
+    <item component="ComponentInfo{com.pixelperfectdude.htdrive/com.unity3d.player.UnityPlayerActivity}" drawable="h_drive"/>
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox"/>
@@ -321,6 +334,12 @@
 
     <!-- F_Droid -->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid"/>
+
+    <!-- Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
+
+    <!-- Facebook Messenger -->
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger"/>
 
     <!-- File Manager -->
     <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="file_manager" />
@@ -379,6 +398,9 @@
 
     <!-- Follower_Analyzer -->
     <item component="ComponentInfo{com.maximolab.followeranalyzer/com.maximolab.followeranalyzer.app.Activity_MainMenu}" drawable="follower_analyzer"/>
+
+    <!-- FotMob -->
+    <item component="ComponentInfo{com.mobilefootie.wc2010/com.mobilefootie.fotmob.gui.v2.MainActivityWrapper}" drawable="fotmob"/>
 
     <!-- Foursquare -->
     <item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="foursquare"/>
@@ -693,6 +715,9 @@
     <item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="music"/>
 
+    <!-- Musixmatch -->
+    <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch"/>
+
     <!-- Muviz -->
     <item component="ComponentInfo{com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity}" drawable="muviz"/>
 
@@ -972,8 +997,5 @@
 
     <!-- Coinbase -->
     <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase"/>
-
-    <!-- Facebook -->
-    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
 
 </resources>
