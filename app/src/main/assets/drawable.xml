@@ -19,6 +19,7 @@
     <item drawable="aparat"/>
     <item drawable="apex_launcher"/>
     <item drawable="app_logo"/>
+    <item drawable="application"/>
     <item drawable="appsales"/>
     <item drawable="aviary"/>
     <item drawable="backups"/>
@@ -35,6 +36,7 @@
     <item drawable="camera_connect"/>
     <item drawable="camscanner"/>
     <item drawable="castle_clash"/>
+    <item drawable="chilly_snow"/>
     <item drawable="chrome_canary"/>
     <item drawable="clock"/>
     <item drawable="clock_white"/>
@@ -51,6 +53,7 @@
     <item drawable="download"/>
     <item drawable="download_second"/>
     <item drawable="dropbox"/>
+    <item drawable="dual"/>
     <item drawable="dune"/>
     <item drawable="eight_puzzle"/>
     <item drawable="email"/>
@@ -160,11 +163,13 @@
     <item drawable="pinterest"/>
     <item drawable="plus_messenger"/>
     <item drawable="poco_launcher"/>
+    <item drawable="prisma"/>
     <item drawable="py"/>
     <item drawable="radio_javan"/>
     <item drawable="reddit"/>
     <item drawable="remote"/>
     <item drawable="rhythmbox"/>
+    <item drawable="rosetta_stone"/>
     <item drawable="s_voice"/>
     <item drawable="samanak"/>
     <item drawable="samsung_level"/>
@@ -182,6 +187,7 @@
     <item drawable="slack"/>
     <item drawable="slideshare"/>
     <item drawable="smart_things"/>
+    <item drawable="smartband"/>
     <item drawable="smashy_road_wanted"/>
     <item drawable="sms_backup_restore"/>
     <item drawable="snapp"/>
@@ -214,6 +220,7 @@
     <item drawable="twitter"/>
     <item drawable="udemy"/>
     <item drawable="video"/>
+    <item drawable="vk"/>
     <item drawable="vlc"/>
     <item drawable="vnc_viewer"/>
     <item drawable="voice_recorder"/>

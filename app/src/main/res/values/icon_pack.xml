@@ -82,6 +82,7 @@
         <item>aparat</item>
         <item>apex_launcher</item>
         <item>app_logo</item>
+        <item>application</item>
         <item>appsales</item>
         <item>aviary</item>
         <item>backups</item>
@@ -98,6 +99,7 @@
         <item>camera_connect</item>
         <item>camscanner</item>
         <item>castle_clash</item>
+        <item>chilly_snow</item>
         <item>chrome_canary</item>
         <item>clock</item>
         <item>clock_white</item>
@@ -114,6 +116,7 @@
         <item>download</item>
         <item>download_second</item>
         <item>dropbox</item>
+        <item>dual</item>
         <item>dune</item>
         <item>eight_puzzle</item>
         <item>email</item>
@@ -223,11 +226,13 @@
         <item>pinterest</item>
         <item>plus_messenger</item>
         <item>poco_launcher</item>
+        <item>prisma</item>
         <item>py</item>
         <item>radio_javan</item>
         <item>reddit</item>
         <item>remote</item>
         <item>rhythmbox</item>
+        <item>rosetta_stone</item>
         <item>s_voice</item>
         <item>samanak</item>
         <item>samsung_level</item>
@@ -245,6 +250,7 @@
         <item>slack</item>
         <item>slideshare</item>
         <item>smart_things</item>
+        <item>smartband</item>
         <item>smashy_road_wanted</item>
         <item>sms_backup_restore</item>
         <item>snapp</item>
@@ -277,6 +283,7 @@
         <item>twitter</item>
         <item>udemy</item>
         <item>video</item>
+        <item>vk</item>
         <item>vlc</item>
         <item>vnc_viewer</item>
         <item>voice_recorder</item>

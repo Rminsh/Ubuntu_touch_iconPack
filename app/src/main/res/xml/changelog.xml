@@ -7,6 +7,8 @@
   -->
 
 <resources>
+    <version title="v0.2.0.0" />
+    <item text="Added and changed some icons (Thanks to UBPorts) 🎨" />
     <version title="v0.1.9.3" />
     <item text="Added more icons 🎨 (Thanks to beastfotaku)" />
     <version title="v0.1.9" />
