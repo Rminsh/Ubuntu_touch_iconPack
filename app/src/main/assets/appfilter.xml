@@ -12,6 +12,9 @@
     <!-- 500px -->
     <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}" drawable="a_500px"/>
 
+    <!-- Alert_Bridge -->
+    <item component="ComponentInfo{com.silentlexx.notificationbridge/com.silentlexx.notificationbridge.activites.MainActivity}" drawable="smartband"/>
+
     <!-- AllCast -->
     <item component="ComponentInfo{com.koushikdutta.cast/com.koushikdutta.cast.StartActivity}" drawable="all_cast"/>
 
@@ -24,8 +27,17 @@
     <!-- Aparat_Filimo -->
     <item component="ComponentInfo{com.aparat.filimo/com.aparat.filimo.app.HomeActivity}" drawable="filimo"/>
 
+    <!-- Chilly_Snow -->
+    <item component="ComponentInfo{com.acidcousins.chilly/com.acidcousins.chilly.UnityPlayerActivity}" drawable="chilly_snow"/>
+
     <!-- Dolphin -->
     <item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity}" drawable="dolphin"/>
+
+    <!-- DUAL -->
+    <item component="ComponentInfo{com.Seabaa.Dual/com.Seabaa.Dual.Dual}" drawable="dual"/>
+
+    <!-- Dev_Tools -->
+    <item component="ComponentInfo{cn.trinea.android.developertools/c.b.a}" drawable="application"/>
 
     <!-- Fidibo -->
     <item component="ComponentInfo{com.fidibo.reader/net.nightwhistler.pageturner.SplashActivity}" drawable="fidibo"/>
@@ -458,6 +470,7 @@
 
     <!-- Google_Opinion_Rewards -->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards"/>
+    <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards"/>
 
     <!-- Google Play_Console -->
     <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="google_play_console"/>
@@ -997,5 +1010,17 @@
 
     <!-- Coinbase -->
     <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase"/>
+
+    <!-- Prisma -->
+    <item component="ComponentInfo{com.neuralprisma/com.prisma.starter.StarterActivity}" drawable="prisma"/>
+
+    <!-- Rosetta_Stone -->
+    <item component="ComponentInfo{air.com.rosettastone.mobile.CoursePlayer/com.rosettastone.MainActivity}" drawable="rosetta_stone"/>
+
+    <!-- ScreamGoHero -->
+    <item component="ComponentInfo{com.ketchapp.screamhero/com.ketchapp.screamhero.UnityPlayerActivity}" drawable="screamgohero"/>
+
+    <!-- VK -->
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk"/>
 
 </resources>
