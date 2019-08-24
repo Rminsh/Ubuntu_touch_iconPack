@@ -7,6 +7,10 @@
   -->
 
 <resources>
+    <version title="v0.2.1" />
+    <item text="Updated Dashboard 🎛" />
+    <item text="Updated Microsoft icons 🎨" />
+    <item text="Added more icons 🎨" />
     <version title="v0.2.0.0" />
     <item text="Added and changed some icons (Thanks to UBPorts) 🎨" />
     <version title="v0.1.9.3" />

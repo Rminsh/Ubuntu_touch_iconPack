@@ -56,6 +56,7 @@
         <item>finder</item>
         <item>facebook</item>
         <item>musixmatch</item>
+        <item>signal</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -79,11 +80,13 @@
         <item>alto_adventure</item>
         <item>alto_adventure_art</item>
         <item>amazon_store</item>
+        <item>anyme</item>
         <item>aparat</item>
         <item>apex_launcher</item>
         <item>app_logo</item>
         <item>application</item>
         <item>appsales</item>
+        <item>aspiration</item>
         <item>aviary</item>
         <item>backups</item>
         <item>bama</item>
@@ -98,6 +101,7 @@
         <item>camera</item>
         <item>camera_connect</item>
         <item>camscanner</item>
+        <item>cash_app</item>
         <item>castle_clash</item>
         <item>chilly_snow</item>
         <item>chrome_canary</item>
@@ -109,6 +113,7 @@
         <item>cpl</item>
         <item>crashy_cats</item>
         <item>digikala</item>
+        <item>discord</item>
         <item>disney_gif</item>
         <item>dolphin</item>
         <item>doodle_jump</item>
@@ -118,6 +123,8 @@
         <item>dropbox</item>
         <item>dual</item>
         <item>dune</item>
+        <item>duolingo</item>
+        <item>ebay</item>
         <item>eight_puzzle</item>
         <item>email</item>
         <item>evie_launcher</item>
@@ -132,6 +139,7 @@
         <item>filimo</item>
         <item>find_my_device</item>
         <item>finder</item>
+        <item>firebase</item>
         <item>firefox</item>
         <item>firefox_nightly</item>
         <item>fitbit</item>
@@ -180,6 +188,7 @@
         <item>linkedin</item>
         <item>localcast</item>
         <item>lucky_patcher</item>
+        <item>lyft</item>
         <item>madbarz</item>
         <item>magisk_manager</item>
         <item>maps</item>
@@ -195,12 +204,16 @@
         <item>monument_valley</item>
         <item>movie_maker</item>
         <item>msexcel</item>
+        <item>msexcel_old</item>
         <item>mspowerpoint</item>
+        <item>mspowerpoint_old</item>
         <item>msword</item>
+        <item>msword_old</item>
         <item>music</item>
         <item>musixmatch</item>
         <item>muviz</item>
         <item>my_cloud</item>
+        <item>netflix</item>
         <item>netguard</item>
         <item>network</item>
         <item>neutrinote</item>
@@ -244,6 +257,7 @@
         <item>shams</item>
         <item>shazam</item>
         <item>sidesync</item>
+        <item>signal</item>
         <item>sim_toolkit</item>
         <item>sketch</item>
         <item>skype</item>
@@ -274,6 +288,7 @@
         <item>termius</item>
         <item>themes</item>
         <item>todo</item>
+        <item>transit</item>
         <item>translate</item>
         <item>translate_fa</item>
         <item>trello</item>
@@ -282,6 +297,7 @@
         <item>twitch</item>
         <item>twitter</item>
         <item>udemy</item>
+        <item>venmo</item>
         <item>video</item>
         <item>vk</item>
         <item>vlc</item>
