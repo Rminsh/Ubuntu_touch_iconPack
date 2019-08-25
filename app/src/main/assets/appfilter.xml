@@ -363,6 +363,7 @@
     <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="downloads" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
+    <item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="download"/>
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download"/>
     <item component="ComponentInfo{com.napolovd.piratecat/com.napolovd.piratecat.Main}" drawable="download_second"/>
     <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="download"/>
@@ -500,6 +501,7 @@
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>
