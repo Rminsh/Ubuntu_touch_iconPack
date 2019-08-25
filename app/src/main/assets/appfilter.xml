@@ -713,6 +713,12 @@
     <!-- MS Excel -->
     <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="msexcel"/>
 
+    <!-- MS OneNote -->
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="msonenote"/>
+
+    <!-- MS OneDrive -->
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="msonedrive"/>
+
     <!-- MS Word -->
     <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="msword"/>
 

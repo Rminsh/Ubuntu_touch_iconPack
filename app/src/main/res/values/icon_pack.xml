@@ -211,6 +211,9 @@
         <item>movie_maker</item>
         <item>msexcel</item>
         <item>msexcel_old</item>
+        <item>msoutlook</item>
+        <item>msonenote</item>
+        <item>msonedrive</item>
         <item>mspowerpoint</item>
         <item>mspowerpoint_old</item>
         <item>msword</item>
