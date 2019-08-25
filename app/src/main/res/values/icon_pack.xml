@@ -73,9 +73,11 @@
     </string-array>
 
     <string-array name="all">
+        <item>a_2048</item>
         <item>a_500px</item>
         <item>adobe_scan</item>
         <item>airdroid</item>
+        <item>al_quran_tafsir_by_word</item>
         <item>aliexpress</item>
         <item>all_cast</item>
         <item>alto_adventure</item>
@@ -113,6 +115,7 @@
         <item>coinpayments</item>
         <item>cpl</item>
         <item>crashy_cats</item>
+        <item>crowd_city</item>
         <item>digikala</item>
         <item>discord</item>
         <item>disney_gif</item>
@@ -215,6 +218,7 @@
         <item>musixmatch</item>
         <item>muviz</item>
         <item>my_cloud</item>
+        <item>navaak</item>
         <item>netflix</item>
         <item>netguard</item>
         <item>network</item>
@@ -264,6 +268,7 @@
         <item>signal</item>
         <item>sim_toolkit</item>
         <item>sketch</item>
+        <item>sky_force</item>
         <item>skype</item>
         <item>slack</item>
         <item>slideshare</item>
@@ -310,6 +315,7 @@
         <item>voice_recorder</item>
         <item>vue</item>
         <item>wallpaper</item>
+        <item>walpy</item>
         <item>waze</item>
         <item>weather</item>
         <item>wepod</item>

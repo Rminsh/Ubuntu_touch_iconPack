@@ -8,9 +8,11 @@
 
 <resources>
     <category title="All" />
+    <item drawable="a_2048"/>
     <item drawable="a_500px"/>
     <item drawable="adobe_scan"/>
     <item drawable="airdroid"/>
+    <item drawable="al_quran_tafsir_by_word"/>
     <item drawable="aliexpress"/>
     <item drawable="all_cast"/>
     <item drawable="alto_adventure"/>
@@ -48,6 +50,7 @@
     <item drawable="coinpayments"/>
     <item drawable="cpl"/>
     <item drawable="crashy_cats"/>
+    <item drawable="crowd_city"/>
     <item drawable="digikala"/>
     <item drawable="discord"/>
     <item drawable="disney_gif"/>
@@ -150,6 +153,7 @@
     <item drawable="musixmatch"/>
     <item drawable="muviz"/>
     <item drawable="my_cloud"/>
+    <item drawable="navaak"/>
     <item drawable="netflix"/>
     <item drawable="netguard"/>
     <item drawable="network"/>
@@ -199,6 +203,7 @@
     <item drawable="signal"/>
     <item drawable="sim_toolkit"/>
     <item drawable="sketch"/>
+    <item drawable="sky_force"/>
     <item drawable="skype"/>
     <item drawable="slack"/>
     <item drawable="slideshare"/>
@@ -245,6 +250,7 @@
     <item drawable="voice_recorder"/>
     <item drawable="vue"/>
     <item drawable="wallpaper"/>
+    <item drawable="walpy"/>
     <item drawable="waze"/>
     <item drawable="weather"/>
     <item drawable="wepod"/>

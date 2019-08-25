@@ -9,6 +9,9 @@
 
 <resources>
 
+    <!-- 2048 -->
+    <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="a_2048"/>
+
     <!-- 500px -->
     <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}" drawable="a_500px"/>
 
@@ -21,6 +24,9 @@
 
     <!-- All_Screen -->
     <item component="ComponentInfo{com.toxic.apps.chrome/com.toxic.apps.chrome.activities.MediaBrowserActivity}" drawable="session_properties"/>
+
+    <!-- Al_Quran_Tafsir_by_Word -->
+    <item component="ComponentInfo{com.greentech.quran/com.greentech.quran.ui.main.MainActivity}" drawable="al_quran_tafsir_by_word"/>
 
     <!-- AnYme -->
     <item component="ComponentInfo{com.zunjae.anyme/com.zunjae.anyme.AnYmeActivity}" drawable="anyme"/>
@@ -36,6 +42,9 @@
 
     <!-- Chilly_Snow -->
     <item component="ComponentInfo{com.acidcousins.chilly/com.acidcousins.chilly.UnityPlayerActivity}" drawable="chilly_snow"/>
+
+    <!-- Crowd_City -->
+    <item component="ComponentInfo{io.voodoo.crowdcity/io.voodoo.crowdcity.UnityPlayerActivity}" drawable="crowd_city"/>
 
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord"/>
@@ -79,6 +88,9 @@
 
     <!-- Lyft -->
     <item component="ComponentInfo{me.lyft.android/me.lyft.android.ui.MainActivity}" drawable="lyft"/>
+
+    <!-- Navaak -->
+    <item component="ComponentInfo{app.nvk.Navaak/com.nvk.Navaak.splashActivity.SplashActivity}" drawable="navaak"/>
 
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix"/>
@@ -953,6 +965,9 @@
     <item component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}" drawable="sketch"/>
     <item component="ComponentInfo{com.adsk.sketchbookhd.galaxy.oem/com.adsk.sketchbook.SketchBook}" drawable="sketch"/>
 
+    <!-- Sky_Force -->
+    <item component="ComponentInfo{pl.idreams.skyforcehd/com.prime31.UnityPlayerNativeActivity}" drawable="sky_force"/>
+
     <!-- Speedtest -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest"/>
 
@@ -1084,5 +1099,8 @@
 
     <!-- VK -->
     <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk"/>
+
+    <!-- Walpy -->
+    <item component="ComponentInfo{com.feresr.walpy/com.feresr.wallpapers.SplashActivity}" drawable="walpy"/>
 
 </resources>
