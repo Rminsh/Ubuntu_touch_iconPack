@@ -79,6 +79,7 @@
     <item drawable="firefox"/>
     <item drawable="firefox_nightly"/>
     <item drawable="fitbit"/>
+    <item drawable="fk_kernel_manager"/>
     <item drawable="flipflop"/>
     <item drawable="fm_radio"/>
     <item drawable="follower_analyzer"/>
@@ -159,6 +160,7 @@
     <item drawable="odyssey"/>
     <item drawable="openvpn_connect"/>
     <item drawable="opera"/>
+    <item drawable="opera_mini"/>
     <item drawable="orbot"/>
     <item drawable="packet_capture"/>
     <item drawable="packet_tracer_mobile"/>
@@ -175,6 +177,7 @@
     <item drawable="pinterest"/>
     <item drawable="plus_messenger"/>
     <item drawable="poco_launcher"/>
+    <item drawable="ppsspp"/>
     <item drawable="prisma"/>
     <item drawable="py"/>
     <item drawable="radio_javan"/>
@@ -223,6 +226,7 @@
     <item drawable="terminal"/>
     <item drawable="termius"/>
     <item drawable="themes"/>
+    <item drawable="titanium_backup"/>
     <item drawable="todo"/>
     <item drawable="transit"/>
     <item drawable="translate"/>

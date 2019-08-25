@@ -57,6 +57,7 @@
         <item>facebook</item>
         <item>musixmatch</item>
         <item>signal</item>
+        <item>titanium_backup</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -143,6 +144,7 @@
         <item>firefox</item>
         <item>firefox_nightly</item>
         <item>fitbit</item>
+        <item>fk_kernel_manager</item>
         <item>flipflop</item>
         <item>fm_radio</item>
         <item>follower_analyzer</item>
@@ -223,6 +225,7 @@
         <item>odyssey</item>
         <item>openvpn_connect</item>
         <item>opera</item>
+        <item>opera_mini</item>
         <item>orbot</item>
         <item>packet_capture</item>
         <item>packet_tracer_mobile</item>
@@ -239,6 +242,7 @@
         <item>pinterest</item>
         <item>plus_messenger</item>
         <item>poco_launcher</item>
+        <item>ppsspp</item>
         <item>prisma</item>
         <item>py</item>
         <item>radio_javan</item>
@@ -287,6 +291,7 @@
         <item>terminal</item>
         <item>termius</item>
         <item>themes</item>
+        <item>titanium_backup</item>
         <item>todo</item>
         <item>transit</item>
         <item>translate</item>

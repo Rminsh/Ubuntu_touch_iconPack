@@ -61,8 +61,12 @@
     <!-- Firebase -->
     <item component="ComponentInfo{org.chromium.webapk.a1a24df2461346d0a/org.chromium.webapk.shell_apk.MainActivity}" drawable="firebase"/>
 
+    <!-- FK_Kernel_Manager -->
+    <item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="fk_kernel_manager"/>
+
     <!-- FM_Radio -->
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fm_radio"/>
+    <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio"/>
 
     <!-- Flud -->
     <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="download_second"/>
@@ -84,6 +88,9 @@
 
     <!-- Opera -->
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera"/>
+
+    <!-- Opera_Mini -->
+    <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini"/>
 
     <!-- Periscope -->
     <item component="ComponentInfo{tv.periscope.android/tv.periscope.android.LaunchActivity}" drawable="periscope"/>
@@ -607,6 +614,9 @@
     <!-- POCO_Launcher -->
     <item component="ComponentInfo{com.mi.android.globallauncher/com.miui.home.launcher.SplashActivity}" drawable="poco_launcher"/>
 
+    <!-- PPSSPP -->
+    <item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp"/>
+
     <!-- Py -->
     <item component="ComponentInfo{com.py.learn/com.py.activities.LauncherActivity}" drawable="py"/>
 
@@ -661,6 +671,7 @@
     <item component="ComponentInfo{com.digipom.easyvoicerecorder.pro/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity}" drawable="voice_recorder"/>
     <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="voice_recorder"/>
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="voice_recorder"/>
+    <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="voice_recorder"/>
 
     <!-- GIPHY -->
     <item component="ComponentInfo{com.giphy.messenger/com.giphy.messenger.app.MainActivity}" drawable="giphy"/>
@@ -763,6 +774,7 @@
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music"/>
     <item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="rhythmbox"/>
     <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="music"/>
+    <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music"/>
 
     <!-- Musixmatch -->
     <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch"/>
@@ -968,6 +980,9 @@
     <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal"/>
     <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="terminal"/>
     <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal"/>
+
+    <!-- Titanium_Backup -->
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="titanium_backup"/>
 
     <!-- Themes -->
     <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes"/>

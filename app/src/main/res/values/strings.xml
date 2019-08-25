@@ -9,7 +9,7 @@
 
 <resources>
     <!-- Your app name -->
-    <string name="app_name">Ubuntu touch theme</string>
+    <string name="app_name">Ubuntu Touch Icon Pack</string>
 
     <!--    This one applies for Muzei too. Try not to exceed a tweet length (140 characters) -->
     <string name="app_description">Ubuntu touch icons for your launcher</string>
