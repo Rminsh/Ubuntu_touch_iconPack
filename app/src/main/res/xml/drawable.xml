@@ -14,6 +14,7 @@
     <item drawable="adobe_scan"/>
     <item drawable="airdroid"/>
     <item drawable="al_quran_tafsir_by_word"/>
+    <item drawable="alibaba_ir"/>
     <item drawable="aliexpress"/>
     <item drawable="all_cast"/>
     <item drawable="alto_adventure"/>
@@ -26,6 +27,7 @@
     <item drawable="application"/>
     <item drawable="appsales"/>
     <item drawable="aspiration"/>
+    <item drawable="audiofx"/>
     <item drawable="aviary"/>
     <item drawable="backups"/>
     <item drawable="bama"/>
@@ -71,6 +73,7 @@
     <item drawable="f_droid"/>
     <item drawable="facebook"/>
     <item drawable="facebook_messenger"/>
+    <item drawable="feedly"/>
     <item drawable="fidibo"/>
     <item drawable="file_manager"/>
     <item drawable="file_manager_orange"/>
@@ -87,6 +90,7 @@
     <item drawable="flipflop"/>
     <item drawable="fm_radio"/>
     <item drawable="follower_analyzer"/>
+    <item drawable="font_manager"/>
     <item drawable="fotmob"/>
     <item drawable="foursquare"/>
     <item drawable="gallery"/>
@@ -146,9 +150,9 @@
     <item drawable="movie_maker"/>
     <item drawable="msexcel"/>
     <item drawable="msexcel_old"/>
-    <item drawable="msoutlook"/>
-    <item drawable="msonenote"/>
     <item drawable="msonedrive"/>
+    <item drawable="msonenote"/>
+    <item drawable="msoutlook"/>
     <item drawable="mspowerpoint"/>
     <item drawable="mspowerpoint_old"/>
     <item drawable="msword"/>
@@ -190,6 +194,7 @@
     <item drawable="py"/>
     <item drawable="radio_javan"/>
     <item drawable="reddit"/>
+    <item drawable="relive"/>
     <item drawable="remote"/>
     <item drawable="rhythmbox"/>
     <item drawable="rosetta_stone"/>
@@ -210,6 +215,7 @@
     <item drawable="sky_force"/>
     <item drawable="skype"/>
     <item drawable="slack"/>
+    <item drawable="slack_old"/>
     <item drawable="slideshare"/>
     <item drawable="smart_things"/>
     <item drawable="smartband"/>
@@ -223,6 +229,7 @@
     <item drawable="soundcloud"/>
     <item drawable="speedtest"/>
     <item drawable="spotify"/>
+    <item drawable="strava"/>
     <item drawable="supersu"/>
     <item drawable="system_monitor"/>
     <item drawable="tap30"/>
@@ -247,6 +254,7 @@
     <item drawable="twitter"/>
     <item drawable="udemy"/>
     <item drawable="venmo"/>
+    <item drawable="viber"/>
     <item drawable="video"/>
     <item drawable="vk"/>
     <item drawable="vlc"/>
@@ -265,4 +273,5 @@
     <item drawable="xda_labs"/>
     <item drawable="youtube"/>
     <item drawable="youtube_black"/>
+    <item drawable="zarinpal"/>
 </resources>

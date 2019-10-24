@@ -7,6 +7,10 @@
   -->
 
 <resources>
+    <version title="v0.2.2" />
+    <item text="Updated some old icons 🖋" />
+    <item text="Support android 10 (Bug fixes🐞)" />
+    <item text="Added more icons 🎨" />
     <version title="v0.2.1" />
     <item text="Updated Dashboard 🎛" />
     <item text="Updated Microsoft icons 🎨" />

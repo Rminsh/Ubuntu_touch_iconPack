@@ -79,6 +79,7 @@
         <item>adobe_scan</item>
         <item>airdroid</item>
         <item>al_quran_tafsir_by_word</item>
+        <item>alibaba_ir</item>
         <item>aliexpress</item>
         <item>all_cast</item>
         <item>alto_adventure</item>
@@ -91,6 +92,7 @@
         <item>application</item>
         <item>appsales</item>
         <item>aspiration</item>
+        <item>audiofx</item>
         <item>aviary</item>
         <item>backups</item>
         <item>bama</item>
@@ -136,6 +138,7 @@
         <item>f_droid</item>
         <item>facebook</item>
         <item>facebook_messenger</item>
+        <item>feedly</item>
         <item>fidibo</item>
         <item>file_manager</item>
         <item>file_manager_orange</item>
@@ -152,6 +155,7 @@
         <item>flipflop</item>
         <item>fm_radio</item>
         <item>follower_analyzer</item>
+        <item>font_manager</item>
         <item>fotmob</item>
         <item>foursquare</item>
         <item>gallery</item>
@@ -211,9 +215,9 @@
         <item>movie_maker</item>
         <item>msexcel</item>
         <item>msexcel_old</item>
-        <item>msoutlook</item>
-        <item>msonenote</item>
         <item>msonedrive</item>
+        <item>msonenote</item>
+        <item>msoutlook</item>
         <item>mspowerpoint</item>
         <item>mspowerpoint_old</item>
         <item>msword</item>
@@ -255,6 +259,7 @@
         <item>py</item>
         <item>radio_javan</item>
         <item>reddit</item>
+        <item>relive</item>
         <item>remote</item>
         <item>rhythmbox</item>
         <item>rosetta_stone</item>
@@ -275,6 +280,7 @@
         <item>sky_force</item>
         <item>skype</item>
         <item>slack</item>
+        <item>slack_old</item>
         <item>slideshare</item>
         <item>smart_things</item>
         <item>smartband</item>
@@ -288,6 +294,7 @@
         <item>soundcloud</item>
         <item>speedtest</item>
         <item>spotify</item>
+        <item>strava</item>
         <item>supersu</item>
         <item>system_monitor</item>
         <item>tap30</item>
@@ -312,6 +319,7 @@
         <item>twitter</item>
         <item>udemy</item>
         <item>venmo</item>
+        <item>viber</item>
         <item>video</item>
         <item>vk</item>
         <item>vlc</item>
@@ -330,6 +338,7 @@
         <item>xda_labs</item>
         <item>youtube</item>
         <item>youtube_black</item>
+        <item>zarinpal</item>
     </string-array>
 
     <string-array name="google">

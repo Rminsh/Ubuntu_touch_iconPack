@@ -8,8 +8,8 @@
 
 <themeInfo>
     <packageName>co.aseman.ubuntuTouchIcons</packageName>
-    <versionName>0.2.1</versionName>
-    <versionCode>10</versionCode>
+    <versionName>0.2.2</versionName>
+    <versionCode>12</versionCode>
     <themeName>Ubuntu Touch Icons</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
