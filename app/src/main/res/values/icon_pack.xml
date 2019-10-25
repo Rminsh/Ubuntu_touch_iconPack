@@ -214,6 +214,7 @@
         <item>monument_valley</item>
         <item>movie_maker</item>
         <item>msexcel</item>
+        <item>msoffice</item>
         <item>msexcel_old</item>
         <item>msonedrive</item>
         <item>msonenote</item>
@@ -362,8 +363,16 @@
 
     <string-array name="microsoft">
         <item>msexcel</item>
+        <item>msoffice</item>
+        <item>msexcel_old</item>
+        <item>msonedrive</item>
+        <item>msonenote</item>
+        <item>msoutlook</item>
         <item>mspowerpoint</item>
+        <item>mspowerpoint_old</item>
         <item>msword</item>
+        <item>msword_old</item>
+        <item>skype</item>
     </string-array>
 
     <string-array name="system">

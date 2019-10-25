@@ -150,6 +150,7 @@
     <item drawable="movie_maker"/>
     <item drawable="msexcel"/>
     <item drawable="msexcel_old"/>
+    <item drawable="msoffice"/>
     <item drawable="msonedrive"/>
     <item drawable="msonenote"/>
     <item drawable="msoutlook"/>
