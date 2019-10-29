@@ -8,17 +8,16 @@ Ubuntu touch icon pack
 
 Ubuntu touch icon pack for android launchers.
 
-
 <a target="_blank" href="https://play.google.com/store/apps/details?id=co.aseman.ubuntu_touch_icons">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/>
-</a>
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/></a>
 
 # Previews
 
 <p align="center">
-<img src="preview/preview_1.png" height="350"/>
-<img src="preview/preview_2.png" height="350"/>
-<img src="preview/preview_3.png" height="350"/>
+<img src="preview/preview_1.jpg" height="350"/>
+<img src="preview/preview_2.jpg" height="350"/>
+<img src="preview/preview_3.jpg" height="350"/>
+<img src="preview/preview_4.jpg" height="350"/>
 
 
 ---
@@ -33,7 +32,6 @@ Ubuntu touch icon pack for android launchers.
 - [Bardia Daneshvar](https://github.com/realbardia) 🛠
 - [BluePrint Team](https://github.com/jahirfiquitiva/Blueprint) for Speeding up our icon pack development 📱
 - [Suru icon theme](https://github.com/snwh/suru-icon-theme) for default icons 🎨
-
 
 ---
 
