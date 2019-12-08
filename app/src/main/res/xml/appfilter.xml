@@ -99,6 +99,7 @@
     <!-- Backups -->
     <item component="ComponentInfo{com.kii.safe/com.keepsafe.app.frontdoor.FrontDoorActivity}" drawable="backups"/>
     <item component="ComponentInfo{com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity}" drawable="backups"/>
+    <item component="ComponentInfo{com.touchfield.appbackuprestore/com.touchfield.appbackuprestore.MainActivity}" drawable="backups"/>
 
     <!-- Last_fm -->
     <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
@@ -328,6 +329,9 @@
     <!-- Castle_Clash -->
     <item component="ComponentInfo{com.igg.castleclash/com.igg.castleclash.CastleClash}" drawable="castle_clash"/>
 
+    <!-- Chess -->
+    <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="chess"/>
+
     <!-- Cash_App -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="cash_app"/>
 
@@ -388,6 +392,7 @@
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="download"/>
+    <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="download"/>
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download"/>
     <item component="ComponentInfo{com.napolovd.piratecat/com.napolovd.piratecat.Main}" drawable="download_second"/>
     <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="download"/>
@@ -610,6 +615,7 @@
 
     <!-- Lantern -->
     <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern"/>
+    <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
 
     <!-- LinkedIn -->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
@@ -796,6 +802,7 @@
 
     <!-- Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps"/>
+    <item component="ComponentInfo{com.bodunov.GalileoPro/com.bodunov.galileo.SplashActivity}" drawable="guru_maps_pro"/>
 
     <!-- Messages -->
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
@@ -994,6 +1001,7 @@
     <item component="ComponentInfo{com.motion.minimalwallpaperspro/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{mobi.lockdown.wallz/mobi.appplus.oemwallpapers.MainActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.hampusolsson.abstruct/com.hampusolsson.abstruct.splash.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.MainActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.feresr.walpy/com.feresr.wallpapers.SplashActivity}" drawable="walpy"/>
     <item component="ComponentInfo{com.feresr.walpy/com.feresr.walpy.welcome.WelcomeActivity}" drawable="walpy"/>
 
@@ -1092,6 +1100,9 @@
     <item component="ComponentInfo{fast.dic.dict/fast.dic.dict.MainActivity}" drawable="translate_fa"/>
     <item component="ComponentInfo{com.sec.android.app.translator/com.sec.android.app.translator.MainActivity}" drawable="translate"/>
 
+    <!-- Transmission_BTC -->
+    <item component="ComponentInfo{com.ap.transmission.btc/com.ap.transmission.btc.activities.MainActivity}" drawable="transmission"/>
+
     <!-- ToolWiz_Photos -->
     <item component="ComponentInfo{com.btows.photo/com.toolwiz.photo.activity.SplashAdActivity}" drawable="themes"/>
 
@@ -1116,6 +1127,7 @@
     <item component="ComponentInfo{com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity}" drawable="video"/>
     <item component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="video"/>
     <item component="ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="video"/>
+    <item component="ComponentInfo{com.kmplayerpro/com.kmplayer.activity.SplashActivity}" drawable="video"/>
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc"/>
@@ -1162,8 +1174,12 @@
     <!-- Prisma -->
     <item component="ComponentInfo{com.neuralprisma/com.prisma.starter.StarterActivity}" drawable="prisma"/>
 
+    <!-- ProtonVPN -->
+    <item component="ComponentInfo{com.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="protonvpn"/>
+
     <!-- Rosetta_Stone -->
     <item component="ComponentInfo{air.com.rosettastone.mobile.CoursePlayer/com.rosettastone.MainActivity}" drawable="rosetta_stone"/>
+    <item component="ComponentInfo{air.com.rosettastone.mobile.CoursePlayer/eu.fiveminutes.rosetta.MainActivity}" drawable="rosetta_stone"/>
 
     <!-- ScreamGoHero -->
     <item component="ComponentInfo{com.ketchapp.screamhero/com.ketchapp.screamhero.UnityPlayerActivity}" drawable="screamgohero"/>

@@ -45,6 +45,7 @@
     <item drawable="camscanner"/>
     <item drawable="cash_app"/>
     <item drawable="castle_clash"/>
+    <item drawable="chess"/>
     <item drawable="chilly_snow"/>
     <item drawable="chrome_canary"/>
     <item drawable="clock"/>
@@ -127,6 +128,7 @@
     <item drawable="kde_connect"/>
     <item drawable="keyboard"/>
     <item drawable="kickstarter"/>
+    <item drawable="kmplayer"/>
     <item drawable="knife_fruit"/>
     <item drawable="kustom_widget"/>
     <item drawable="lantern"/>
@@ -194,6 +196,7 @@
     <item drawable="poco_launcher"/>
     <item drawable="ppsspp"/>
     <item drawable="prisma"/>
+    <item drawable="protonvpn"/>
     <item drawable="py"/>
     <item drawable="radio_javan"/>
     <item drawable="reddit"/>
@@ -250,6 +253,7 @@
     <item drawable="transit"/>
     <item drawable="translate"/>
     <item drawable="translate_fa"/>
+    <item drawable="transmission"/>
     <item drawable="trello"/>
     <item drawable="truecaller"/>
     <item drawable="turbo_vpn"/>
