@@ -9,6 +9,9 @@
 
 <resources>
 
+    <!-- 1Password -->
+    <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="one_password"/>
+
     <!-- 2048 -->
     <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="a_2048"/>
 
@@ -165,6 +168,9 @@
 
     <!-- Alto -->
     <item component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}" drawable="alto_adventure"/>
+
+    <!-- Angry_Birds_2 -->
+    <item component="ComponentInfo{com.rovio.baba/rovio.baba.facebook.AbbaUnityActivity}" drawable="angry_birds_2"/>
 
     <!-- Amazon Store -->
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_store"/>
@@ -1170,6 +1176,9 @@
 
     <!-- VK -->
     <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk"/>
+
+    <!-- Vysor -->
+    <item component="ComponentInfo{com.koushikdutta.vysor/com.koushikdutta.vysor.StartActivity}" drawable="vysor"/>
 
     <!-- ZarinPal -->
     <item component="ComponentInfo{com.zarinpal.ewallets/com.zarinpal.ewallets.activity.StarterActivity}" drawable="zarinpal"/>

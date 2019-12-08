@@ -20,6 +20,7 @@
     <item drawable="alto_adventure"/>
     <item drawable="alto_adventure_art"/>
     <item drawable="amazon_store"/>
+    <item drawable="angry_birds_2"/>
     <item drawable="anyme"/>
     <item drawable="aparat"/>
     <item drawable="apex_launcher"/>
@@ -171,6 +172,7 @@
     <item drawable="notes"/>
     <item drawable="nova_launcher"/>
     <item drawable="odyssey"/>
+    <item drawable="one_password"/>
     <item drawable="openvpn_connect"/>
     <item drawable="opera"/>
     <item drawable="opera_mini"/>
@@ -263,6 +265,7 @@
     <item drawable="voice_recorder"/>
     <item drawable="vue"/>
     <item drawable="wallpaper"/>
+    <item drawable="vysor"/>
     <item drawable="walpy"/>
     <item drawable="waze"/>
     <item drawable="weather"/>
