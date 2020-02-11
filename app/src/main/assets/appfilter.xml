@@ -538,7 +538,7 @@
     <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="gallery"/>
-    <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="gallery_go"/>
+    <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="gallery"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>
