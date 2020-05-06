@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-  ~ Copyright (C) 2018 Armin Shalchian
   ~
-  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
   -->
 
 <resources>
@@ -20,6 +31,9 @@
 
     <!-- 8_Ball_Pool -->
     <item component="ComponentInfo{com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity}" drawable="a_8_ball_pool"/>
+
+    <!-- Adblock_Browser -->
+    <item component="ComponentInfo{org.adblockplus.browser/com.google.android.apps.chrome.Main}" drawable="browser_adblock"/>
 
     <!-- Alert_Bridge -->
     <item component="ComponentInfo{com.silentlexx.notificationbridge/com.silentlexx.notificationbridge.activites.MainActivity}" drawable="smartband"/>
@@ -45,6 +59,9 @@
 
     <!-- Aparat_Filimo -->
     <item component="ComponentInfo{com.aparat.filimo/com.aparat.filimo.app.HomeActivity}" drawable="filimo"/>
+
+    <!-- Asa_Trader -->
+    <item component="ComponentInfo{com.agah.asatrader/com.agah.trader.controller.user.LoginPage}" drawable="asa_trader"/>
 
     <!-- Aspiration -->
     <item component="ComponentInfo{com.aspiration.app/com.aspiration.app.clean_arch.presentation.welcome.WelcomeScreen}" drawable="aspiration"/>
@@ -75,6 +92,9 @@
 
     <!-- eBay -->
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay"/>
+
+    <!-- ESET_Mobile_Security -->
+    <item component="ComponentInfo{com.eset.ems2.gp/com.eset.ems.gui.MainActivity}" drawable="eset_mobile_security"/>
 
     <!-- Fidibo -->
     <item component="ComponentInfo{com.fidibo.reader/net.nightwhistler.pageturner.SplashActivity}" drawable="fidibo"/>
@@ -275,6 +295,9 @@
     <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}" drawable="calendar"/>
 
+    <!-- Call_of_Duty -->
+    <item component="ComponentInfo{com.activision.callofduty.shooter/com.tencent.tmgp.cod.PermissionGrantActivity}" drawable="call_of_duty"/>
+
     <!-- Camera_Connect -->
     <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect"/>
 
@@ -321,6 +344,7 @@
     <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/.CameraEntry}" drawable="camera"/>
+    <item component="ComponentInfo{best.camera/best.camera.MainActivity}" drawable="camera"/>
 
     <!-- CamScanner -->
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
@@ -390,6 +414,7 @@
     <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="downloads" />
     <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="downloads" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
+    <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="download"/>
@@ -431,6 +456,7 @@
 
     <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook_lite"/>
 
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger"/>
@@ -538,7 +564,7 @@
     <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="gallery"/>
-    <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="gallery_go"/>
 
     <!-- Games -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games"/>
@@ -654,6 +680,8 @@
     <!-- PDF -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="pdf"/>
     <item component="ComponentInfo{udk.android.reader/udk.android.reader.ApplicationActivity}" drawable="pdf"/>
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="pdf"/>
+
 
     <!-- Photoshop_Express -->
     <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="photoshop_express"/>
@@ -776,6 +804,7 @@
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_voice"/>
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" drawable="google"/>
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}" drawable="google_voice"/>
+    <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_voice"/>
 
     <!-- Google Plus-->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="google_plus"/>
@@ -989,6 +1018,7 @@
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.SplashActivity}" drawable="wallpaper"/>
+    <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.MainActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{eu.inmite.android.vodafone.wallpaper/eu.inmite.android.vodafone.wallpaper.ui.SettingsActivity}" drawable="wallpaper"/>
     <item component="ComponentInfo{com.urrfam.venus.v3.v4.wallpaper/com.urrfam.venus.v3.v4.wallpaper.ana_ekran}" drawable="wallpaper"/>
@@ -1045,6 +1075,9 @@
 
     <!-- Sky_Force -->
     <item component="ComponentInfo{pl.idreams.skyforcehd/com.prime31.UnityPlayerNativeActivity}" drawable="sky_force"/>
+
+    <!-- Snaptube -->
+    <item component="ComponentInfo{com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity}" drawable="snaptube"/>
 
     <!-- Speedtest -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest"/>
@@ -1121,13 +1154,15 @@
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="video" />
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="video"/>
     <item component="ComponentInfo{com.samsung.everglades.video/com.samsung.everglades.video.VideoMain}" drawable="video"/>
-    <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.IntroActivity}" drawable="video"/>
     <item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="video" />
     <item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="video"/>
     <item component="ComponentInfo{com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity}" drawable="video"/>
     <item component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="video"/>
     <item component="ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="video"/>
-    <item component="ComponentInfo{com.kmplayerpro/com.kmplayer.activity.SplashActivity}" drawable="video"/>
+    <item component="ComponentInfo{com.samsung.video/com.samsung.video.VideoMain}" drawable="video"/>
+
+    <item component="ComponentInfo{com.kmplayerpro/com.kmplayer.activity.SplashActivity}" drawable="kmplayer"/>
+    <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.IntroActivity}" drawable="kmplayer"/>
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc"/>
@@ -1195,6 +1230,9 @@
 
     <!-- Vysor -->
     <item component="ComponentInfo{com.koushikdutta.vysor/com.koushikdutta.vysor.StartActivity}" drawable="vysor"/>
+
+    <!-- Yahoo_Mail -->
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="yahoo_mail"/>
 
     <!-- ZarinPal -->
     <item component="ComponentInfo{com.zarinpal.ewallets/com.zarinpal.ewallets.activity.StarterActivity}" drawable="zarinpal"/>

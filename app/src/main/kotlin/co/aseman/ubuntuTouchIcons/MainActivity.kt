@@ -1,23 +1,34 @@
 /*
- * Copyright (C) 2018 Armin Shalchian
  *
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+ * This file is part of Ubuntu touch icon pack.
+ *
+ * Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Ubuntu touch icon pack is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 package co.aseman.ubuntuTouchIcons
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import jahirfiquitiva.libs.blueprint.models.NavigationItem
-import jahirfiquitiva.libs.blueprint.ui.activities.BottomNavigationBlueprintActivity
+import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
 class MainActivity : BottomNavigationBlueprintActivity() {
 
-    override var donationsEnabled = true
+    override val billingEnabled = true
 
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = false
-    override fun checkStores(): Boolean = false
+    override fun checkLPF(): Boolean = true
+    override fun checkStores(): Boolean = true
+    override val isDebug: Boolean = BuildConfig.DEBUG
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
@@ -35,26 +46,6 @@ class MainActivity : BottomNavigationBlueprintActivity() {
         return null
     }
 
-    /**
-     * These are the main items that will be shown in the navigation drawer or bottom navigation.
-     * Remove the ones you don't want to show.
-     * You can also organize them however you want.
-     * Templates (Zooper & Kustom), Credits, Settings and Help sections are added by default. So don't worry about those.
-     */
-    override fun getNavigationItems(): Array<NavigationItem> {
-        return arrayOf(
-            NavigationItem.HOME,
-            NavigationItem.ICONS,
-            NavigationItem.WALLPAPERS,
-            NavigationItem.APPLY,
-            NavigationItem.REQUESTS)
-    }
-
-    /**
-     * When set to true, the app will print warnings for duplicated components or missing icons from
-     * appfilter.xml
-     *
-     * If set to BuildConfig.DEBUG, the app will print the warnings only while debugging the app
-     * (This is the safest option, so the apk you publish in PlayStore doesn't print them)
-     */
+    override fun defaultTheme(): Int = R.style.MyApp_Default
+    override fun amoledTheme(): Int = R.style.MyApp_Default_Amoled
 }

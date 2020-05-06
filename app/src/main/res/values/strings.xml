@@ -1,43 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <!--
-  ~ Copyright (C) 2018 Armin Shalchian
   ~
-  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
   -->
 
 <resources>
-    <!-- Your app name -->
     <string name="app_name">Ubuntu Touch Icon Pack</string>
-
-    <!--    This one applies for Muzei too. Try not to exceed a tweet length (140 characters) -->
-    <string name="app_description">Ubuntu touch icons for your launcher</string>
-
-    <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://dl.lydia.ir/ubuntu_touch/wallpapers.json</string>
-
-    <!--    Default wallpapers download folder. Always write it like '%1$s/xxxxxxx' -->
-    <string name="default_download_folder">%1$s/UbuntuTouchIcons/Wallpapers</string>
-
-    <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">""</string>
-
-    <!-- Terms and Conditions link or url -->
-    <string name="terms_conditions_link">""</string>
-
-    <!-- Basic theme information -->
-    <string name="theme_title">Ubuntu Touch</string>
-    <string name="developer_name">Armin Shalchian</string>
-    <!-- This (optional) link will appear at the end of the theme description -->
-    <string name="developer_link">http://aseman.co/en</string>
-    <string name="theme_description">"Ubuntu touch Icon Pack.\n\nThis icon pack intends to make your device's launcher more intuitive and beautiful and look similar to ubuntu touch os. It is free and will always be. \n\nEmail: armin536@gmail.com"</string>
-
-    <!-- The feature graphic will appear above the theme description -->
-    <string name="theme_feature">preview_artboard</string>
-
-    <!-- Each theme may have up to 5 preview images -->
-    <string name="theme_preview1">preview_1</string>
-    <string name="theme_preview2">preview_2</string>
-    <string name="theme_preview3">preview_3</string>
 </resources>

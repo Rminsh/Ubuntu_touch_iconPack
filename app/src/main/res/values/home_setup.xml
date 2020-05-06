@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!--
+        Home actions style ==> Share / Rate / Donate buttons
+        0. Hidden
+        1. Small
+        2. Big
+    -->
+    <integer name="home_actions_style">1</integer>
+
+    <!--
+        Do you want to show overview in home section?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_overview">true</bool>
+
+    <!--
+        Do you want the quick apply button to show its text?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_quick_apply_text">false</bool>
+
+    <!--
+        Set a custom text to the quick apply button.
+        Be sure to add translations, or it might not be shown in other languages.
+        Leave empty for the app to use the default "Quick Apply" text
+    -->
+    <string name="quick_apply_custom_text"></string>
+
+    <!-- These arrays are for the list of apps or links in main section. -->
+<!--    <string-array name="home_list_titles">-->
+<!--        <item>IconShowcase</item>-->
+<!--        <item>An App</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="home_list_descriptions">-->
+<!--        <item>It is the old version of this awesome dashboard</item>-->
+<!--        <item>This is an app</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="home_list_icons">-->
+<!--        <item>ic_na_launcher</item>-->
+<!--        <item>ic_na_launcher</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="home_list_links">-->
+<!--        <item>https://github.com/jahirfiquitiva/Blueprint</item>-->
+<!--        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>-->
+<!--    </string-array>-->
+</resources>

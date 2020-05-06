@@ -11,7 +11,7 @@ Ubuntu touch icon pack for android launchers.
 <a target="_blank" href="https://play.google.com/store/apps/details?id=co.aseman.ubuntu_touch_icons">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/></a>
 
-# Previews
+## Previews 📱
 
 <p align="center">
 <img src="preview/preview_1.jpg" height="350"/>
@@ -20,11 +20,12 @@ Ubuntu touch icon pack for android launchers.
 <img src="preview/preview_4.jpg" height="350"/>
 
 
----
 
-# Developed by
+## Contribute 🧩
 
-### [Armin Shalchian](https://github.com/Rminsh)
+Want to contribute? I would really appreciate a hand with the development to add more features in this app.
+Feel free to Fork, edit, then pull!
+
 
 
 ## Special thanks 🙌
@@ -33,8 +34,20 @@ Ubuntu touch icon pack for android launchers.
 - [BluePrint Team](https://github.com/jahirfiquitiva/Blueprint) for Speeding up our icon pack development 📱
 - [Suru icon theme](https://github.com/snwh/suru-icon-theme) for default icons 🎨
 
----
 
-# License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ubuntu touch icon pack</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Rminsh" property="cc:attributionName" rel="cc:attributionURL">Armin Shalchian</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Rminsh/Ubuntu_touch_iconPack" rel="dct:source">https://github.com/Rminsh/Ubuntu_touch_iconPack</a>.
+## Donation ✌🏻
+
+#### Patreon
+
+<a href="https://www.patreon.com/shalchian">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+
+
+## Copyright Notice 📝
+
+Copyright (C) 2020 Armin Shalchian
+
+Licensed under the [GNU Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) license (see the LICENSE file).

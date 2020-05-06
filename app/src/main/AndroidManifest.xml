@@ -1,8 +1,19 @@
 <!--
-  ~ Copyright (C) 2018 Armin Shalchian
   ~
-  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -12,19 +23,21 @@
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
-        android:theme="@style/MySplashScreen"
-        android:manageSpaceActivity="jahirfiquitiva.libs.blueprint.ui.activities.SettingsActivity">
+        android:theme="@style/MyApp.SplashScreen"
+        tools:ignore="UnusedAttribute">
 
         <activity
-            android:name="co.aseman.ubuntuTouchIcons.MainActivity"
-            android:windowSoftInputMode="stateHidden|adjustResize|adjustPan">
+            android:name=".MainActivity"
+            android:label="@string/app_name">
 
-            <!-- Do NOT remove the intent-filter tags -->
+            <!-- TODO: Do NOT remove the intent-filter tags -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -142,6 +155,11 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+            <!-- OnePlus Launcher -->
+            <intent-filter>
+                <action android:name="net.oneplus.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
             <!-- Smart Launcher -->
             <intent-filter>
                 <action android:name="ginlemon.smartlauncher.THEMES" />
@@ -218,6 +236,8 @@
             </intent-filter>
         </activity>
 
+        <!-- DO NOT REMOVE !!! -->
+        <!-- Required for files access !!! -->
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileProvider"
@@ -227,7 +247,5 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_providers" />
         </provider>
-
     </application>
-
 </manifest>

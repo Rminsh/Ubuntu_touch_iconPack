@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/first_group"
+        android:checkableBehavior="single"
+        android:orderInCategory="100">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:orderInCategory="100"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/icons"
+            android:icon="@drawable/ic_icons"
+            android:orderInCategory="200"
+            android:title="@string/icons" />
+        <item
+            android:id="@+id/wallpapers"
+            android:icon="@drawable/ic_wallpapers"
+            android:orderInCategory="300"
+            android:title="@string/wallpapers" />
+        <item
+            android:id="@+id/apply"
+            android:icon="@drawable/ic_apply"
+            android:orderInCategory="400"
+            android:title="@string/apply" />
+        <item
+            android:id="@+id/request"
+            android:icon="@drawable/ic_request"
+            android:orderInCategory="500"
+            android:title="@string/request" />
+        <item
+            android:id="@+id/templates"
+            android:icon="@drawable/ic_widgets"
+            android:orderInCategory="600"
+            android:title="@string/templates"
+            android:visible="false" />
+    </group>
+
+    <group
+        android:id="@+id/second_group"
+        android:checkableBehavior="none"
+        android:orderInCategory="200">
+        <item
+            android:id="@+id/changelog"
+            android:orderInCategory="700"
+            android:title="@string/changelog" />
+        <item
+            android:id="@+id/donate"
+            android:orderInCategory="800"
+            android:title="@string/donate" />
+        <item
+            android:id="@+id/help"
+            android:orderInCategory="900"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/about"
+            android:orderInCategory="1000"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/settings"
+            android:orderInCategory="1100"
+            android:title="@string/settings" />
+    </group>
+</menu>

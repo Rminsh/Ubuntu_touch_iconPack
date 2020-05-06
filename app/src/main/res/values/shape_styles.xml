@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <!--
+        Learn more about Shape Theming and what you can do at:
+        https://material.io/develop/android/theming/shape/
+        Important: do NOT change the style names, just the attributes/properties
+    -->
+
+    <style name="ShapeAppearance.Frames.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/small_components_corner_size</item>
+    </style>
+
+    <style name="ShapeAppearance.Frames.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/medium_components_corner_size</item>
+    </style>
+
+    <style name="ShapeAppearance.Frames.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/large_components_corner_size</item>
+    </style>
+
+    <style name="ShapeAppearance.Frames.CardView" parent="ShapeAppearance.Frames.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/cards_corner_size</item>
+    </style>
+
+    <style name="ShapeAppearance.Blueprint.IconsPreview" parent="ShapeAppearance.Frames.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">0dp</item>
+    </style>
+
+</resources>

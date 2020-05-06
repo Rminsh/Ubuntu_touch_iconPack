@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2018 Armin Shalchian
   ~
-  ~ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-  ~ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+  ~ This file is part of Ubuntu touch icon pack.
+  ~
+  ~ Ubuntu touch icon pack is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Ubuntu touch icon pack is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
   -->
 
 <resources>
@@ -27,6 +38,7 @@
     <item drawable="app_logo"/>
     <item drawable="application"/>
     <item drawable="appsales"/>
+    <item drawable="asa_trader"/>
     <item drawable="aspiration"/>
     <item drawable="audiofx"/>
     <item drawable="aviary"/>
@@ -37,9 +49,11 @@
     <item drawable="bitwarden"/>
     <item drawable="books"/>
     <item drawable="browser"/>
+    <item drawable="browser_adblock"/>
     <item drawable="calculator"/>
     <item drawable="calendar"/>
     <item drawable="calendar_fa"/>
+    <item drawable="call_of_duty"/>
     <item drawable="camera"/>
     <item drawable="camera_connect"/>
     <item drawable="camscanner"/>
@@ -71,9 +85,11 @@
     <item drawable="ebay"/>
     <item drawable="eight_puzzle"/>
     <item drawable="email"/>
+    <item drawable="eset_mobile_security"/>
     <item drawable="evie_launcher"/>
     <item drawable="f_droid"/>
     <item drawable="facebook"/>
+    <item drawable="facebook_lite"/>
     <item drawable="facebook_messenger"/>
     <item drawable="feedly"/>
     <item drawable="fidibo"/>
@@ -230,6 +246,7 @@
     <item drawable="snapp"/>
     <item drawable="snappfood"/>
     <item drawable="snapseed"/>
+    <item drawable="snaptube"/>
     <item drawable="software_center"/>
     <item drawable="sololearn"/>
     <item drawable="soundcloud"/>
@@ -279,6 +296,7 @@
     <item drawable="wikipedia"/>
     <item drawable="wordpress"/>
     <item drawable="xda_labs"/>
+    <item drawable="yahoo_mail"/>
     <item drawable="youtube"/>
     <item drawable="youtube_black"/>
     <item drawable="zarinpal"/>
