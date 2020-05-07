@@ -756,6 +756,7 @@
 
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype"/>
 
     <!-- Smart_Things -->
     <item component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}" drawable="smart_things"/>
