@@ -3,7 +3,7 @@
 Ubuntu touch icon pack
 ======
 
-![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
+![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
 
 
 Ubuntu touch icon pack for android launchers.
