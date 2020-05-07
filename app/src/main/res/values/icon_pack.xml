@@ -97,6 +97,7 @@
         <item>alto_adventure_art</item>
         <item>amazon_store</item>
         <item>angry_birds_2</item>
+        <item>ankidroid</item>
         <item>anyme</item>
         <item>aparat</item>
         <item>apex_launcher</item>
@@ -112,6 +113,7 @@
         <item>bazaar</item>
         <item>bitwarden</item>
         <item>books</item>
+        <item>broadcast</item>
         <item>browser</item>
         <item>calculator</item>
         <item>calendar</item>
@@ -132,6 +134,7 @@
         <item>cpl</item>
         <item>crashy_cats</item>
         <item>crowd_city</item>
+        <item>dana</item>
         <item>digikala</item>
         <item>discord</item>
         <item>disney_gif</item>
@@ -169,11 +172,13 @@
         <item>fm_radio</item>
         <item>follower_analyzer</item>
         <item>font_manager</item>
+        <item>forza_street</item>
         <item>fotmob</item>
         <item>foursquare</item>
         <item>gallery</item>
         <item>games</item>
         <item>gardeshgari_mbanking</item>
+        <item>ghavamin</item>
         <item>gif_search</item>
         <item>giphy</item>
         <item>github</item>
@@ -192,6 +197,7 @@
         <item>google_plus</item>
         <item>google_voice</item>
         <item>h_drive</item>
+        <item>hamrah_card</item>
         <item>hangouts</item>
         <item>health</item>
         <item>help</item>
@@ -226,6 +232,7 @@
         <item>mifit</item>
         <item>mindly</item>
         <item>monument_valley</item>
+        <item>monument_valley_2</item>
         <item>movie_maker</item>
         <item>msexcel</item>
         <item>msoffice</item>
@@ -244,6 +251,7 @@
         <item>navaak</item>
         <item>netflix</item>
         <item>netguard</item>
+        <item>netspeed_indicator</item>
         <item>network</item>
         <item>neutrinote</item>
         <item>news</item>
@@ -255,6 +263,7 @@
         <item>opera</item>
         <item>opera_mini</item>
         <item>orbot</item>
+        <item>package_disabler</item>
         <item>packet_capture</item>
         <item>packet_tracer_mobile</item>
         <item>pasargad_mpayment</item>
@@ -271,6 +280,7 @@
         <item>plus_messenger</item>
         <item>poco_launcher</item>
         <item>ppsspp</item>
+        <item>printer</item>
         <item>prisma</item>
         <item>protonvpn</item>
         <item>py</item>
@@ -279,6 +289,7 @@
         <item>relive</item>
         <item>remote</item>
         <item>rhythmbox</item>
+        <item>rocket_chat</item>
         <item>rosetta_stone</item>
         <item>s_voice</item>
         <item>samanak</item>
@@ -290,6 +301,7 @@
         <item>shadowsocks</item>
         <item>shams</item>
         <item>shazam</item>
+        <item>shutterstock_contributor</item>
         <item>sidesync</item>
         <item>signal</item>
         <item>sim_toolkit</item>
@@ -316,6 +328,7 @@
         <item>system_monitor</item>
         <item>tap30</item>
         <item>tasks</item>
+        <item>teams</item>
         <item>ted</item>
         <item>tehran_metro</item>
         <item>telegram</item>
@@ -323,6 +336,7 @@
         <item>telewebion</item>
         <item>terminal</item>
         <item>termius</item>
+        <item>tethering</item>
         <item>themes</item>
         <item>titanium_backup</item>
         <item>todo</item>
@@ -335,6 +349,8 @@
         <item>twitch</item>
         <item>twitter</item>
         <item>udemy</item>
+        <item>uno</item>
+        <item>update</item>
         <item>venmo</item>
         <item>viber</item>
         <item>video</item>
@@ -390,6 +406,7 @@
         <item>msword</item>
         <item>msword_old</item>
         <item>skype</item>
+        <item>teams</item>
     </string-array>
 
     <string-array name="system">
