@@ -962,6 +962,7 @@
 
     <!-- Musixmatch -->
     <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch"/>
+    <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.presentation.activities.SplashActivity}" drawable="musixmatch"/>
 
     <!-- Muviz -->
     <item component="ComponentInfo{com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity}" drawable="muviz"/>
