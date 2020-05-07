@@ -104,6 +104,7 @@
         <item>app_logo</item>
         <item>application</item>
         <item>appsales</item>
+        <item>asa_trader</item>
         <item>aspiration</item>
         <item>audiofx</item>
         <item>aviary</item>
@@ -111,13 +112,17 @@
         <item>bama</item>
         <item>battery</item>
         <item>bazaar</item>
+        <item>binary_eye</item>
         <item>bitwarden</item>
         <item>books</item>
+        <item>brave</item>
         <item>broadcast</item>
         <item>browser</item>
+        <item>browser_adblock</item>
         <item>calculator</item>
         <item>calendar</item>
         <item>calendar_fa</item>
+        <item>call_of_duty</item>
         <item>camera</item>
         <item>camera_connect</item>
         <item>camscanner</item>
@@ -131,10 +136,13 @@
         <item>code</item>
         <item>coinbase</item>
         <item>coinpayments</item>
+        <item>collabora_office</item>
         <item>cpl</item>
         <item>crashy_cats</item>
+        <item>criptext</item>
         <item>crowd_city</item>
         <item>dana</item>
+        <item>davx</item>
         <item>digikala</item>
         <item>discord</item>
         <item>disney_gif</item>
@@ -150,9 +158,11 @@
         <item>ebay</item>
         <item>eight_puzzle</item>
         <item>email</item>
+        <item>eset_mobile_security</item>
         <item>evie_launcher</item>
         <item>f_droid</item>
         <item>facebook</item>
+        <item>facebook_lite</item>
         <item>facebook_messenger</item>
         <item>feedly</item>
         <item>fidibo</item>
@@ -183,6 +193,7 @@
         <item>giphy</item>
         <item>github</item>
         <item>glim</item>
+        <item>glovo</item>
         <item>gmail</item>
         <item>gnome_aisleriot</item>
         <item>google</item>
@@ -203,11 +214,14 @@
         <item>help</item>
         <item>hill_climb_racing_2</item>
         <item>huk_kwgt</item>
+        <item>hyperion</item>
         <item>hyperlapse_mobile</item>
         <item>imo</item>
         <item>instagram</item>
+        <item>jitsi_meet</item>
         <item>juicessh</item>
         <item>kde_connect</item>
+        <item>keybase</item>
         <item>keyboard</item>
         <item>kickstarter</item>
         <item>kmplayer</item>
@@ -226,6 +240,7 @@
         <item>mega</item>
         <item>meikade</item>
         <item>memrise</item>
+        <item>mercado_libre</item>
         <item>messages</item>
         <item>mi_drop</item>
         <item>mi_remote</item>
@@ -235,8 +250,8 @@
         <item>monument_valley_2</item>
         <item>movie_maker</item>
         <item>msexcel</item>
-        <item>msoffice</item>
         <item>msexcel_old</item>
+        <item>msoffice</item>
         <item>msonedrive</item>
         <item>msonenote</item>
         <item>msoutlook</item>
@@ -257,8 +272,10 @@
         <item>news</item>
         <item>notes</item>
         <item>nova_launcher</item>
+        <item>octodroid</item>
         <item>odyssey</item>
         <item>one_password</item>
+        <item>openkeychain</item>
         <item>openvpn_connect</item>
         <item>opera</item>
         <item>opera_mini</item>
@@ -289,6 +306,7 @@
         <item>relive</item>
         <item>remote</item>
         <item>rhythmbox</item>
+        <item>riotx</item>
         <item>rocket_chat</item>
         <item>rosetta_stone</item>
         <item>s_voice</item>
@@ -318,6 +336,7 @@
         <item>snapp</item>
         <item>snappfood</item>
         <item>snapseed</item>
+        <item>snaptube</item>
         <item>software_center</item>
         <item>sololearn</item>
         <item>soundcloud</item>
@@ -325,6 +344,7 @@
         <item>spotify</item>
         <item>strava</item>
         <item>supersu</item>
+        <item>syncthing_fork</item>
         <item>system_monitor</item>
         <item>tap30</item>
         <item>tasks</item>
@@ -343,11 +363,15 @@
         <item>transit</item>
         <item>translate</item>
         <item>translate_fa</item>
+        <item>transmission</item>
         <item>trello</item>
         <item>truecaller</item>
         <item>turbo_vpn</item>
+        <item>twidere</item>
         <item>twitch</item>
         <item>twitter</item>
+        <item>uber</item>
+        <item>uber_eats</item>
         <item>udemy</item>
         <item>uno</item>
         <item>update</item>
@@ -359,17 +383,19 @@
         <item>vnc_viewer</item>
         <item>voice_recorder</item>
         <item>vue</item>
-        <item>wallpaper</item>
         <item>vysor</item>
+        <item>wallpaper</item>
         <item>walpy</item>
         <item>waze</item>
         <item>weather</item>
         <item>wepod</item>
         <item>whatsapp</item>
+        <item>whatsapp_business</item>
         <item>wifi_analyzer</item>
         <item>wikipedia</item>
         <item>wordpress</item>
         <item>xda_labs</item>
+        <item>yahoo_mail</item>
         <item>youtube</item>
         <item>youtube_black</item>
         <item>zarinpal</item>
