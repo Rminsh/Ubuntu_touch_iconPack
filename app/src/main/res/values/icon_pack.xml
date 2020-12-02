@@ -21,6 +21,7 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
+        <item>among_us</item>
         <item>browser</item>
         <item>calculator</item>
         <item>calendar</item>
@@ -96,6 +97,7 @@
         <item>alto_adventure</item>
         <item>alto_adventure_art</item>
         <item>amazon_store</item>
+        <item>among_us</item>
         <item>angry_birds_2</item>
         <item>ankidroid</item>
         <item>anyme</item>

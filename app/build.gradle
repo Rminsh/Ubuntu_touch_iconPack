@@ -20,8 +20,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
-apply plugin: 'io.fabric'
 apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
 
 android {
     applicationVariants.all { variant ->
@@ -36,15 +36,15 @@ android {
         disable 'MissingTranslation', 'GoogleAppIndexingWarning'
     }
 
-    compileSdkVersion Versions.targetSdk
-    buildToolsVersion Versions.buildTools
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId MyApp.appId
-        minSdkVersion Versions.minSdk
-        targetSdkVersion Versions.targetSdk
-        versionCode MyApp.version
-        versionName MyApp.versionName
+        applicationId "co.aseman.ubuntu_touch_icons"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 13
+        versionName "0.2.3"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
@@ -92,10 +92,20 @@ android {
 }
 
 dependencies {
-    implementation(Libs.blueprint) {
+    //Blueprint
+    implementation('dev.jahir:Blueprint:2.1.6@aar') {
         transitive = true
     }
-    implementation 'com.google.firebase:firebase-core:17.4.0'
-    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
-    implementation 'com.google.firebase:firebase-messaging:20.1.6'
+
+    //Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.10"
+
+    //Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:26.1.0')
+
+    //Firebase SDK for Google Analytics
+    //When using the BoM, don't specify versions in Firebase dependencies
+    implementation 'com.google.firebase:firebase-crashlytics'
+    implementation 'com.google.firebase:firebase-messaging'
+    implementation 'com.google.firebase:firebase-analytics'
 }

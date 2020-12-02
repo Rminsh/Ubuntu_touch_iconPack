@@ -51,6 +51,9 @@
     <!-- Al_Quran_Tafsir_by_Word -->
     <item component="ComponentInfo{com.greentech.quran/com.greentech.quran.ui.main.MainActivity}" drawable="al_quran_tafsir_by_word"/>
 
+    <!-- Among Us -->
+    <item component="ComponentInfo{com.innersloth.spacemafia/com.unity3d.player.UnityPlayerActivity}" drawable="among_us"/>
+
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
 
