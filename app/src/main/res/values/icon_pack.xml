@@ -86,6 +86,7 @@
 
     <string-array name="all">
         <item>a_2048</item>
+        <item>adblock</item>
         <item>a_500px</item>
         <item>a_8_ball_pool</item>
         <item>adobe_scan</item>
@@ -113,6 +114,7 @@
         <item>backups</item>
         <item>bama</item>
         <item>battery</item>
+        <item>barinsta</item>
         <item>bazaar</item>
         <item>binary_eye</item>
         <item>bitwarden</item>
@@ -166,6 +168,7 @@
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>facebook_messenger</item>
+        <item>fasthub</item>
         <item>feedly</item>
         <item>fidibo</item>
         <item>file_manager</item>
@@ -209,12 +212,14 @@
         <item>google_playbook</item>
         <item>google_plus</item>
         <item>google_voice</item>
+        <item>greenify</item>
         <item>h_drive</item>
         <item>hamrah_card</item>
         <item>hangouts</item>
         <item>health</item>
         <item>help</item>
         <item>hill_climb_racing_2</item>
+        <item>home</item>
         <item>huk_kwgt</item>
         <item>hyperion</item>
         <item>hyperlapse_mobile</item>
@@ -292,17 +297,21 @@
         <item>periscope</item>
         <item>phone</item>
         <item>photogrid</item>
+        <item>photoscan</item>
         <item>photoshop_express</item>
         <item>picnic</item>
         <item>picsart</item>
         <item>pinterest</item>
         <item>plus_messenger</item>
+        <item>plus_messenger_old</item>
         <item>poco_launcher</item>
+        <item>pottery_2</item>
         <item>ppsspp</item>
         <item>printer</item>
         <item>prisma</item>
         <item>protonvpn</item>
         <item>py</item>
+        <item>pydroid_3</item>
         <item>radio_javan</item>
         <item>reddit</item>
         <item>relive</item>
@@ -344,6 +353,7 @@
         <item>soundcloud</item>
         <item>speedtest</item>
         <item>spotify</item>
+        <item>srw_2</item>
         <item>strava</item>
         <item>supersu</item>
         <item>syncthing_fork</item>
@@ -355,6 +365,8 @@
         <item>tehran_metro</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>telegram_old</item>
+        <item>telegram_x_old</item>
         <item>telewebion</item>
         <item>terminal</item>
         <item>termius</item>

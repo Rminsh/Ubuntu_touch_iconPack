@@ -32,8 +32,9 @@
     <!-- 8_Ball_Pool -->
     <item component="ComponentInfo{com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity}" drawable="a_8_ball_pool"/>
 
-    <!-- Adblock_Browser -->
+    <!-- Adblock -->
     <item component="ComponentInfo{org.adblockplus.browser/com.google.android.apps.chrome.Main}" drawable="browser_adblock"/>
+    <item component="ComponentInfo{org.adblockplus.adblockplussbrowser/org.adblockplus.sbrowser.contentblocker.MainPreferences}" drawable="adblock"/>
 
     <!-- Alert_Bridge -->
     <item component="ComponentInfo{com.silentlexx.notificationbridge/com.silentlexx.notificationbridge.activites.MainActivity}" drawable="smartband"/>
@@ -77,6 +78,9 @@
 
     <!-- Binary_Eye -->
     <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="binary_eye"/>
+
+    <!-- Barinsta -->
+    <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}" drawable="barinsta"/>
 
     <!-- Brave -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave"/>
@@ -444,8 +448,8 @@
     <item component="ComponentInfo{com.nerdyoctopus.gamedots/com.weplaydots.dotsclassic.DotsClassicActivity}" drawable="dots"/>
 
     <!-- Downloads -->
-    <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="downloads" />
-    <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="download" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/.DownloadList}" drawable="download" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="download"/>
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="download"/>
@@ -454,6 +458,7 @@
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download"/>
     <item component="ComponentInfo{com.napolovd.piratecat/com.napolovd.piratecat.Main}" drawable="download_second"/>
     <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="download"/>
+    <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}" drawable="download_second"/>
 
     <!-- DRIVE -->
     <item component="ComponentInfo{com.pixelperfectdude.htdrive/com.unity3d.player.UnityPlayerActivity}" drawable="h_drive"/>
@@ -541,6 +546,7 @@
     <item component="ComponentInfo{com.jrummyapps.rootbrowser.classic/com.jrummy.file.manager.RootBrowserActivity}" drawable="file_manager_root"/>
     <item component="ComponentInfo{com.lonelycatgames.Xplore/com.lonelycatgames.Xplore.Browser}" drawable="file_manager_root"/>
     <item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="file_manager"/>
 
     <!-- File Roller -->
     <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="file_roller"/>
@@ -616,7 +622,7 @@
     <item component="ComponentInfo{com.media.zatashima.gif/com.tenor.android.demo.search.activity.HomeTenorActivity}" drawable="gif_search"/>
 
     <!-- Github -->
-    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="github"/>
+    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
 
     <!-- Glovo -->
     <item component="ComponentInfo{com.glovo/glovoapp.splash.SplashActivity}" drawable="glovo"/>
@@ -634,12 +640,18 @@
     <!-- Google Play_Console -->
     <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="google_play_console"/>
 
+    <!-- Greenify -->
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify"/>
+
     <!-- Hamrah card -->
     <item component="ComponentInfo{com.adpdigital.mbs.ayande/com.adpdigital.mbs.ayande.ui.startup.StartupActivity}" drawable="hamrah_card"/>
 
     <!-- Help -->
     <item component="ComponentInfo{com.samsung.helphub/com.samsung.helphub.HelpHubActivity}" drawable="help"/>
     <item component="ComponentInfo{com.huawei.android.tips/com.huawei.android.tips.DrawerDisplayActivity}" drawable="help"/>
+
+    <!-- Home -->
+    <item component="ComponentInfo{io.github.domi04151309.home/io.github.domi04151309.home.activities.SplashActivity}" drawable="home"/>
 
     <!-- huk_kwgt -->
     <item component="ComponentInfo{hukkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="huk_kwgt"/>
@@ -823,6 +835,7 @@
     <!-- shams -->
     <item component="ComponentInfo{ir.lydia.shams/chiko.shams.SplashScreen}" drawable="shams"/>
     <item component="ComponentInfo{chiko.shams/chiko.shams.SplashScreen}" drawable="shams"/>
+    <item component="ComponentInfo{ir.lydia.shams/chiko.shams.activity.SplashActivity}" drawable="shams"/>
 
     <!-- Audio_Recorder -->
     <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="voice_recorder"/>
@@ -886,6 +899,7 @@
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
     <item component="ComponentInfo{com.instalou.android/com.instalou.android.activity.MainTabActivity}" drawable="instagram"/>
     <item component="ComponentInfo{com.instagrem.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+    <item component="ComponentInfo{com.instaero.android/com.instaero.android.activity.MainTabActivity}" drawable="instagram"/>
 
     <!-- KDE_Connect -->
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect"/>
@@ -901,6 +915,7 @@
 
     <!-- Meikade -->
     <item component="ComponentInfo{org.nilegroup.Meikade/land.aseman.android.AsemanActivity}" drawable="meikade"/>
+    <item component="ComponentInfo{org.nilegroup.Meikade/io.aseman.android.AsemanActivity}" drawable="meikade"/>
 
     <!-- Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps"/>
@@ -922,6 +937,7 @@
     <item component="ComponentInfo{com.htc.sense.mms/.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.lenovo.ideafriend/.alias.MmsActivity}" drawable="messages" />
     <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="messages"/>
 
     <!-- Memo -->
     <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="notes"/>
@@ -939,10 +955,12 @@
     <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notes"/>
     <item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="tasks"/>
     <item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.LauncherActivity}" drawable="notes"/>
+    <item component="ComponentInfo{com.underwood.monospace/com.underwood.monospace.library.LibraryActivity}" drawable="notes"/>
 
     <!-- Movie Maker -->
     <item component="ComponentInfo{com.sec.android.app.vefull/com.sec.android.app.vefull.activity.ProjectListActivity}" drawable="movie_maker"/>
     <item component="ComponentInfo{com.sec.android.app.ve/com.sec.android.app.ve.activity.ProjectListActivity}" drawable="movie_maker"/>
+    <item component="ComponentInfo{com.darinsoft.vimo/com.darinsoft.vimo.VimoMainActivity}" drawable="movie_maker"/>
 
     <!-- Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music"/>
@@ -1024,6 +1042,12 @@
     <!-- PICNIC -->
     <item component="ComponentInfo{com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity}" drawable="picnic"/>
 
+    <!-- Pottery 2 -->
+    <item component="ComponentInfo{pl.idreams.pottery2/com.unity3d.player.UnityPlayerActivity}" drawable="pottery_2"/>
+
+    <!-- Pydroid 3 -->
+    <item component="ComponentInfo{ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity}" drawable="pydroid_3"/>
+
     <!-- RiotX -->
     <item component="ComponentInfo{im.vector.riotx/im.vector.riotx.features.Alias}" drawable="riotx"/>
 
@@ -1073,6 +1097,7 @@
     <!-- Smashy_Road_Wanted -->
     <item component="ComponentInfo{com.rkgames.smashywanted/com.unity3d.player.UnityPlayerNativeActivity}" drawable="smashy_road_wanted"/>
     <item component="ComponentInfo{com.rkgames.smashywanted/com.unity3d.player.UnityPlayerActivity}" drawable="smashy_road_wanted"/>
+    <item component="ComponentInfo{com.rkgames.basisgame/com.unity3d.player.UnityPlayerActivity}" drawable="srw_2"/>
 
     <!-- SIM_Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>
@@ -1164,6 +1189,7 @@
 
     <!-- Scanner -->
     <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="scanner"/>
+    <item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="photoscan"/>
 
     <!-- Scrapbook -->
     <item component="ComponentInfo{com.samsung.android.app.pinboard/com.samsung.android.app.pinboard.ui.PinboardActivity}" drawable="gallery"/>

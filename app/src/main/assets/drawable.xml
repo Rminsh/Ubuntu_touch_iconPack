@@ -20,6 +20,7 @@
 <resources>
     <category title="All" />
     <item drawable="a_2048"/>
+    <item drawable="adblock"/>
     <item drawable="a_500px"/>
     <item drawable="a_8_ball_pool"/>
     <item drawable="adobe_scan"/>
@@ -47,6 +48,7 @@
     <item drawable="backups"/>
     <item drawable="bama"/>
     <item drawable="battery"/>
+    <item drawable="barinsta"/>
     <item drawable="bazaar"/>
     <item drawable="binary_eye"/>
     <item drawable="bitwarden"/>
@@ -100,6 +102,7 @@
     <item drawable="facebook"/>
     <item drawable="facebook_lite"/>
     <item drawable="facebook_messenger"/>
+    <item drawable="fasthub"/>
     <item drawable="feedly"/>
     <item drawable="fidibo"/>
     <item drawable="file_manager"/>
@@ -133,6 +136,7 @@
     <item drawable="gmail"/>
     <item drawable="gnome_aisleriot"/>
     <item drawable="google"/>
+    <item drawable="greenify"/>
     <item drawable="google_chrome"/>
     <item drawable="google_drive"/>
     <item drawable="google_duo"/>
@@ -149,6 +153,7 @@
     <item drawable="health"/>
     <item drawable="help"/>
     <item drawable="hill_climb_racing_2"/>
+    <item drawable="home"/>
     <item drawable="huk_kwgt"/>
     <item drawable="hyperion"/>
     <item drawable="hyperlapse_mobile"/>
@@ -226,17 +231,21 @@
     <item drawable="periscope"/>
     <item drawable="phone"/>
     <item drawable="photogrid"/>
+    <item drawable="photoscan"/>
     <item drawable="photoshop_express"/>
     <item drawable="picnic"/>
     <item drawable="picsart"/>
     <item drawable="pinterest"/>
     <item drawable="plus_messenger"/>
+    <item drawable="plus_messenger_old"/>
     <item drawable="poco_launcher"/>
+    <item drawable="pottery_2"/>
     <item drawable="ppsspp"/>
     <item drawable="printer"/>
     <item drawable="prisma"/>
     <item drawable="protonvpn"/>
     <item drawable="py"/>
+    <item drawable="pydroid_3"/>
     <item drawable="radio_javan"/>
     <item drawable="reddit"/>
     <item drawable="relive"/>
@@ -278,6 +287,7 @@
     <item drawable="soundcloud"/>
     <item drawable="speedtest"/>
     <item drawable="spotify"/>
+    <item drawable="srw_2"/>
     <item drawable="strava"/>
     <item drawable="supersu"/>
     <item drawable="syncthing_fork"/>
@@ -288,7 +298,9 @@
     <item drawable="ted"/>
     <item drawable="tehran_metro"/>
     <item drawable="telegram"/>
+    <item drawable="telegram_old"/>
     <item drawable="telegram_x"/>
+    <item drawable="telegram_x_old"/>
     <item drawable="telewebion"/>
     <item drawable="terminal"/>
     <item drawable="termius"/>
