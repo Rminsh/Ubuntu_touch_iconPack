@@ -71,7 +71,9 @@
 
     <!-- These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
-        <item></item>
+        <item>small_donation</item>
+        <item>medium_donation</item>
+        <item>large_donation</item>
     </string-array>
 
 </resources>

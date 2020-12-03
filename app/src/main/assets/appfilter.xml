@@ -54,6 +54,8 @@
 
     <!-- Among Us -->
     <item component="ComponentInfo{com.innersloth.spacemafia/com.unity3d.player.UnityPlayerActivity}" drawable="among_us"/>
+    <!-- Among Us Skeld Net -->
+    <item component="ComponentInfo{net.skeld.switcher/pw.fabi.crewmate.MainActivity}" drawable="among_us_skeld"/>
 
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
