@@ -347,5 +347,7 @@
     <item drawable="yahoo_mail"/>
     <item drawable="youtube"/>
     <item drawable="youtube_black"/>
+    <item drawable="youtube_music"/>
+    <item drawable="youtube_music_vanced"/>
     <item drawable="zarinpal"/>
 </resources>

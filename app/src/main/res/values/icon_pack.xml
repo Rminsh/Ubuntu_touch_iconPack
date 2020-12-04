@@ -413,6 +413,8 @@
         <item>yahoo_mail</item>
         <item>youtube</item>
         <item>youtube_black</item>
+        <item>youtube_music</item>
+        <item>youtube_music_vanced</item>
         <item>zarinpal</item>
     </string-array>
 
