@@ -18,6 +18,10 @@
   -->
 
 <resources>
+    <version title="v0.3.0" />
+    <item text="With your donations, you can help us to improve our development 🙏" />
+    <item text="Added more icons 🎨" />
+    <item text="Redesigned most of the previous icons 🎨" />
     <version title="v0.2.3" />
     <item text="Added more icons 🎨" />
     <version title="v0.2.2" />
