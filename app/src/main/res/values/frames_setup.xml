@@ -20,7 +20,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://dl.lydia.ir/ubuntu_touch/wallpapers_v1.json</string>
+    <string name="json_url">https://raw.githubusercontent.com/Rminsh/Ubuntu_touch_iconPack/master/wallpapers/wallpapers_v1.json</string>
 
     <!--
     Enable immediate download
