@@ -1,0 +1,164 @@
+[
+	{
+		"name": "The Grand Canyon",
+		"author": "Kroneker Delta",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/The_Grand_Canyon.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/The_Grand_Canyon.png",
+		"collections": "KDE",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Volna",
+		"author": "Raveomelette",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/volna.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/volna.png",
+		"collections": "KDE",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "The Gongga Mountain",
+		"author": "Wangjinyu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/The_Gongga_Mountain_by_wangjinyu.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/The_Gongga_Mountain_by_wangjinyu.png",
+		"collections": "Deepin",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Milky Way",
+		"author": "metalbender and the spacey",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/milky_way.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/milky_way.png",
+		"collections": "KDE",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Disco Dingo",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/ubuntu_wallpaper_4.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/ubuntu_wallpaper_4.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "ICE Cold with penguins",
+		"author": "santiagocezar",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_7.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_7.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "ICE Cold",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_6.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_6.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Cosmic Cuttlefish",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/cosmic_cuttlefish.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/cosmic_cuttlefish.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Natty Narwhal",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/natty_narwhal.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/natty_narwhal.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Vivid Vervet",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/ubuntu_wallpaper_3.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/ubuntu_wallpaper_3.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Ubuntu Wallpaper 1",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/ubuntu_wallpaper_1.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/ubuntu_wallpaper_1.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Ubuntu Wallpaper 2",
+		"author": "Ubuntu",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/ubuntu_wallpaper_2.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/ubuntu_wallpaper_2.png",
+		"collections": "Ubuntu",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Manjaro",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_manjaro.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_manjaro.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Wallpaper 1",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_1.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_1.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Wallpaper 2",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_2.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_2.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Wallpaper 3",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_3.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_3.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Wallpaper 4",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_4.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_4.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	{
+		"name": "Kde Wallpaper 5",
+		"author": "KDE Plasma",
+		"url": "https://dl.lydia.ir/ubuntu_touch/assets/kde_plasma_5.png",
+		"thumbnail": "https://dl.lydia.ir/ubuntu_touch/assets/thumbnails/kde_plasma_5.png",
+		"collections": "KDE Plasma",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	}
+]

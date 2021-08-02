@@ -16,12 +16,14 @@
  * along with Ubuntu touch icon pack.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-android-extensions'
-apply plugin: 'kotlin-kapt'
-apply plugin: 'com.google.gms.google-services'
-apply plugin: 'com.google.firebase.crashlytics'
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'kotlin-kapt'
+    id 'com.google.firebase.crashlytics'
+}
 
 android {
     applicationVariants.all { variant ->
@@ -37,14 +39,14 @@ android {
     }
 
     compileSdkVersion 30
-    buildToolsVersion "30.0.2"
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "co.aseman.ubuntu_touch_icons"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 14
-        versionName "0.3.0"
+        versionCode 15
+        versionName "0.3.1"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
@@ -93,15 +95,15 @@ android {
 
 dependencies {
     //Blueprint
-    implementation('dev.jahir:Blueprint:2.1.6@aar') {
+    implementation('dev.jahir:Blueprint:2.2.3@aar') {
         transitive = true
     }
 
     //Kotlin
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.10"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.0"
 
     //Firebase BoM
-    implementation platform('com.google.firebase:firebase-bom:26.1.0')
+    implementation platform('com.google.firebase:firebase-bom:28.3.0')
 
     //Firebase SDK for Google Analytics
     //When using the BoM, don't specify versions in Firebase dependencies
